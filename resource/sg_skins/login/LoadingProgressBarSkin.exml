@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.LoadingProgressBarSkin" minWidth="30" minHeight="22" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" width="100%"
+			 height="100%" verticalCenter="0" source="login_json.v1_bar_loading1_lau" scale9Grid="76,2,462,18"/>
+	<e:Image id="thumb" height="100%" width="100%" source="login_json.v1_bar_loading2_lau" scale9Grid="76,2,462,18"/>
+	
+	<e:Label id="labelDisplay" textAlign="center" verticalAlign="middle"
+			 size="15" fontFamily="Tahoma" textColor="0x707070"
+			 horizontalCenter="0" verticalCenter="0" visible="false"/>
+</e:Skin>

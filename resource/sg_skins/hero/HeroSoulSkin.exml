@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroSoulSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick title="资源产量" skinName="BgImgSkin" y="0" width="640" horizontalCenter="0">
+		<e:Image id="bg" x="20" y="230" source="v2_bg_popup_a_png" width="600" scale9Grid="28,70,235,134" height="620"/>
+		<e:Label id="title" text="武将星魂" y="247" horizontalCenter="20" fontFamily="黑体"/>
+		<components:Button id="closeBtn" label="" x="572" y="246" bgStr="v1_btn_close_png" skinName="skins.ButtonASkin"/>
+		<e:Group x="20" y="447" anchorOffsetY="0" width="600" height="415">
+			<e:Image source="v2_bg_longdi_jpg" scale9Grid="68,51,410,308" horizontalCenter="0" width="596"/>
+			<e:Group y="7" horizontalCenter="0">
+				<e:Label text="武将名字" x="0" y="0" size="20" fontFamily="黑体"/>
+				<e:Label text="Lv.99" x="88" y="0" size="20" fontFamily="黑体"/>
+			</e:Group>
+			<components:Button label="还原" x="495" y="27" width="88" height="37" bgStr="v2_btn_blue6_png" skinName="skins.ButtonASkin"/>
+			<e:Image x="136" y="149" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="35"/>
+			<e:Image x="176" y="141" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="290"/>
+			<e:Image x="250" y="195" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="35"/>
+			<e:Image x="176" y="289" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="270" alpha="1"/>
+			<e:Image x="270" y="289" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="215" alpha="1"/>
+			<e:Image x="352" y="193" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="330" alpha="1"/>
+			<e:Image x="382" y="287" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="215" alpha="1"/>
+			<e:Image x="390" y="121" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="330" alpha="1"/>
+			<e:Image x="406" y="111" source="v2_line_longx_png" scale9Grid="0,1,2,8" height="100" rotation="270" alpha="1"/>
+			<e:Group x="24.4" y="223">
+				<e:Image x="11.6" y="0" scaleX="0.6" scaleY="0.6" source="v2_img_xuanzhon_png"/>
+				<e:Image x="13.6" y="2" scaleX="1" scaleY="1" source="v2_img_v2_btn_longtu_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" textColor="0x31d840" anchorOffsetY="0" height="20"/>
+			</e:Group>
+			<e:Group x="116.4" y="109">
+				<e:Image x="11.6" y="0" scaleX="0.6" scaleY="0.6" source="v2_img_xuanzhon_png"/>
+				<e:Image x="13.6" y="2" scaleX="1" scaleY="1" source="v2_img_v2_btn_longtu_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" textColor="0x31D840" anchorOffsetY="0" height="20"/>
+			</e:Group>
+			<e:Group x="222.4" y="153">
+				<e:Image x="11.6" y="0" scaleX="0.6" scaleY="0.6" source="v2_img_xuanzhon_png"/>
+				<e:Image x="13.6" y="2" scaleX="1" scaleY="1" source="v2_img_v2_btn_longtu_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" textColor="0x31D840" anchorOffsetY="0" height="20"/>
+			</e:Group>
+			<e:Group x="134.4" y="257">
+				<e:Image x="11.6" y="0" scaleX="0.6" scaleY="0.6" source="v2_img_xuanzhon_png"/>
+				<e:Image x="13.6" y="2" scaleX="1" scaleY="1" source="v2_img_v2_btn_longtu_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" textColor="0x31D840" anchorOffsetY="0" height="20"/>
+			</e:Group>
+			<e:Group x="230.4" y="257">
+				<e:Image x="11.6" y="0" scaleX="0.6" scaleY="0.6" source="v2_img_xuanzhon_png"/>
+				<e:Image x="13.6" y="2" scaleX="1" scaleY="1" source="v2_img_v2_btn_longtu_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" textColor="0x31D840" anchorOffsetY="0" height="20"/>
+			</e:Group>
+			<e:Group x="304.4" y="163">
+				<e:Image x="11.6" y="0" source="v2_img_v2_btn_longtudi_png"/>
+				<e:Image x="27.6" y="12" source="v2_img_lock_tjp_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" anchorOffsetY="0" height="20" textColor="0xffffff"/>
+			</e:Group>
+			<e:Group x="352.4" y="255">
+				<e:Image x="11.6" y="0" source="v2_img_v2_btn_longtudi_png"/>
+				<e:Image x="27.6" y="12" source="v2_img_lock_tjp_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" anchorOffsetY="0" height="20" textColor="0xFFFFFF"/>
+			</e:Group>
+			<e:Group x="394.4" y="165">
+				<e:Image x="11.6" y="0" source="v2_img_v2_btn_longtudi_png"/>
+				<e:Image x="27.6" y="12" source="v2_img_lock_tjp_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" anchorOffsetY="0" height="20" textColor="0xFFFFFF"/>
+			</e:Group>
+			<e:Group x="356.4" y="81">
+				<e:Image x="11.6" y="0" source="v2_img_v2_btn_longtudi_png"/>
+				<e:Image x="27.6" y="12" source="v2_img_lock_tjp_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" anchorOffsetY="0" height="20" textColor="0xFFFFFF"/>
+			</e:Group>
+			<e:Group x="474.4" y="81">
+				<e:Image x="11.6" y="0" source="v2_img_v2_btn_longtudi_png"/>
+				<e:Image x="27.6" y="12" source="v2_img_lock_tjp_png"/>
+				<e:Image x="0" y="60.6" source="v1_img_jzmzd_png" scaleX="0.8" scaleY="0.8"/>
+				<e:Label text="攻击+999" x="7.6" y="63" size="18" fontFamily="黑体" anchorOffsetY="0" height="20" textColor="0xFFFFFF"/>
+			</e:Group>
+		</e:Group>
+		<e:Group width="590" height="129" y="304" anchorOffsetY="0" horizontalCenter="0">
+			<e:Group x="207" y="15">
+				<e:Group x="0" y="0">
+					<e:Image source="v2_img_liaotiantoushi2_png" x="0" y="0"/>
+					<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="270" x="9" y="0"/>
+					<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" x="140" y="0"/>
+					<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="-90" x="9" y="111"/>
+				</e:Group>
+				<e:Group x="15" y="12">
+					<e:Image source="v1_img_touxiangkuangzi_png" x="0" y="0"/>
+					<e:Image source="i200381_5_png" width="96" height="96" x="6" y="6"/>
+					<e:Image x="0" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+			</e:Group>
+			<e:Group x="207" y="15">
+				<e:Group x="0" y="0">
+				<e:Image source="v2_img_liaotiantoushi2_png" x="0" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="270" x="9" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" x="140" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="-90" x="9" y="111"/>
+				</e:Group>
+				<e:Group x="15" y="12">
+				<e:Image source="v1_img_touxiangkuangzi_png" x="0" y="0"/>
+				<e:Image source="i200381_5_png" width="96" height="96" x="6" y="6"/>
+				<e:Image x="0" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+			</e:Group>
+			<e:Group x="207" y="15">
+				<e:Group x="0" y="0">
+				<e:Image source="v2_img_liaotiantoushi2_png" x="0" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="270" x="9" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" x="140" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="-90" x="9" y="111"/>
+				</e:Group>
+				<e:Group x="15" y="12">
+				<e:Image source="v1_img_touxiangkuangzi_png" x="0" y="0"/>
+				<e:Image source="i200381_5_png" width="96" height="96" x="6" y="6"/>
+				<e:Image x="0" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+			</e:Group>
+			<e:Group x="207" y="15">
+				<e:Group x="0" y="0">
+				<e:Image source="v2_img_liaotiantoushi2_png" x="0" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="270" x="9" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" x="140" y="0"/>
+				<e:Image source="v2_img_liaotiantoushi2_png" scaleX="-1" rotation="-90" x="9" y="111"/>
+				</e:Group>
+				<e:Group x="15" y="12">
+				<e:Image source="v1_img_touxiangkuangzi_png" x="0" y="0"/>
+				<e:Image source="i200381_5_png" width="96" height="96" x="6" y="6"/>
+				<e:Image x="0" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+			</e:Group>
+			<e:layout>
+				<e:HorizontalLayout horizontalAlign="justify"/>
+			</e:layout>
+		</e:Group>
+		<e:Group x="20" y="850">
+			<e:Image width="600" height="130" x="0" y="0" source="v2_bg_popup_b_png" scale9Grid="20,14,243,23"/>
+			<e:Group y="6" horizontalCenter="0">
+				<e:Image x="0" y="0" source="v2_img_v2_btn_longtu_png" scaleX="0.7" scaleY="0.7"/>
+				<e:Label text="0" x="50.91" size="22" fontFamily="黑体" rotation="359.54" y="6" textColor="0xd72322"/>
+				<e:Label text="/100" x="62.82" size="22" fontFamily="黑体" rotation="359.54" y="6" textColor="0xffffff"/>
+			</e:Group>
+			<components:Button label="激活" y="56" horizontalCenter="0.5"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

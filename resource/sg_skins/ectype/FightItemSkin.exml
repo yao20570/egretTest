@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FightItemSkin" width="318" height="116" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect id="rect" width="76" height="76" x="24" y="20.5" ellipseWidth="10"/>
+	<e:Image source="v2_img_wujiangqiehuandi_png" width="318" height="116"/>
+	<e:Image id="quality" verticalCenter="0" scaleX="0.8" scaleY="0.8" left="19" source="v1_img_touxiangkuanghui_png"/>
+	<e:Label id="hint" text="点击选择上阵武将" x="123" y="28" size="18" fontFamily="黑体" visible="false"/>
+	<e:Group id="heros" x="121.01" y="27.64">
+		<e:Image id="troopType" x="0" source="v1_img_bujiang_png" y="30.36"/>
+		<e:Group x="1.69" y="0">
+			<e:Label id="nameGrade" text="武则天" x="0" y="0" size="22" fontFamily="黑体"/>
+			<e:Label id="level" text="Lv.99" x="10" y="10" size="22" fontFamily="黑体"/>
+			<e:layout>
+			<e:HorizontalLayout gap="10"/>
+			</e:layout>
+		</e:Group>
+		<e:Label id="troops" text="兵力" x="41.05" y="39.7" size="20" fontFamily="黑体" textColor="0xc6c7da"/>
+		<e:Label id="troopsNum" text="{data.troops}" x="91.05" y="40.37" size="20" fontFamily="黑体" textColor="0xffffff"/>
+	</e:Group>
+	<e:Image id="headImg" source="v1_img_lock_png" horizontalCenter="-97" verticalCenter="0" maxWidth="76" maxHeight="74"/>
+	<e:Group id="ability" x="283" verticalCenter="0" visible="false">
+		<e:Image id="bgImg" x="0" y="0" source="v1_img_lanjiantou_png"/>
+		<e:Label id="nature" text="克制" horizontalCenter="0" verticalCenter="0" fontFamily="黑体" size="19"/>
+	</e:Group>
+</e:Skin>

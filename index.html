@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>少年西游H5</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="full-screen" content="true" />
+        <meta name="screen-orientation" content="portrait" />
+        <meta name="x5-fullscreen" content="true" />
+        <meta name="360-fullscreen" content="true" />
+        <script src="./js/jquery-3.2.1.min.js"></script>  
+        <script src="./js/loginAccount.js"></script>
+        <script src="./js/gameLogin.js"></script>      
+        <style>
+            html,body {
+                -ms-touch-action: none;
+                background: url("./res/gameBg.jpeg");
+                padding: 0;
+                border: 0;
+                margin: 0;
+                height: 100%;
+                -webkit-touch-callout: none; /* iOS Safari */
+                -webkit-user-select: none; /* Chrome/Safari/Opera */
+                -khtml-user-select: none; /* Konqueror */
+                -moz-user-select: none; /* Firefox */
+                -ms-user-select: none; /* Internet Explorer/Edge */
+                user-select: none; /* Non-prefixed version, currently not supported by any browser */
+            }
+        </style>
+    </head>
+    <script type="text/javascript">
+        !(function (win, doc) {
+            function setFontSize() {
+                var rate = 1.778125;
+                var winWidth = document.documentElement.clientWidth;
+                var winHeight = document.documentElement.clientHeight;
+                if (winHeight / winWidth < rate) {
+                    var size = winHeight / rate / 10;
+                } else {
+                    var size = winWidth / 10;
+                }
+                doc.documentElement.style.fontSize = size + 'px';                
+            }
+
+            var evt = 'onorientationchange' in win ? 'orientationchange' : 'resize';
+            var timer = null;
+            win.addEventListener(evt, function () {
+                clearTimeout(timer);
+                timer = setTimeout(setFontSize, 100);
+            }, false);
+
+            win.addEventListener("pageshow", function (e) {
+                if (e.persisted) {
+                    clearTimeout(timer);
+                    timer = setTimeout(setFontSize, 100);
+                }
+            }, false);
+
+            // 初始化
+            setFontSize();
+        } (window, document));
+
+        $.random = function (n1, n2) {
+            return Math.round(Math.random() * (Math.max(n1, n2) - Math.min(n1, n2)), 0);
+        }
+
+        $("head").append("<link>");
+        var css = $("head").children(":last");
+        css.attr({
+            rel:  "stylesheet",
+            type: "text/css",
+            href: "./css/gameIndex.css?v="+Math.random()
+        });
+    </script>
+    <body>
+        <div style="margin: auto;width: 100%;height: 100%;" class="egret-player"
+            data-entry-class="Main"
+            data-orientation="auto"
+            data-scale-mode="fixedWidth"
+            data-frame-rate="30"
+            data-content-width="640"
+            data-content-height="960"
+            data-show-paint-rect="false"
+            data-multi-fingered="2"
+            data-show-fps="false" data-show-log="false"
+            data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
+        </div>
+        <div id="server" class="server server_webkit">
+			<div id="registerDialog" class="registerDialog registerDialog_webkit" style="display: none;">
+                <div id="registerTitle" class="registerTitle registerTitle_webkit">账号注册</div>
+                <div id="regInputs" class="regInputs regInputs_webkit">
+                    <div id="regAccount" class="regAccount regAccount_webkit">
+                        <div id="regAccountContent" class="regAccountContent regAccountContent_webkit">
+                            <span style="width: 0.2rem;"></span>
+                            <label style="color:#6a3521;font-size: 0.3rem;">账号:</label>
+                            <input id="regAccountInput" type="text" style="background: none;border: 0;height: 0.7rem;width: 4.4rem;color:#6a3521!important;background-color:none!important;">
+                        </div>
+                    </div>
+                    <div style="height:0.4rem;"></div>
+                    <div id="regPassword" class="regPassword regPassword_webkit">
+                        <div id="regPasswordContent" class="regPasswordContent regPasswordContent_webkit">
+                            <span style="width: 0.2rem;"></span>
+                            <label style="color:#6a3521;font-size: 0.3rem;">密码:</label>
+                            <input id="regPasswordInput" type="password" style="background: none;border: 0;height: 0.7rem;width: 4.4rem;color:#6a3521!important;background-color:none!important;">
+                        </div>
+                    </div>
+                </div>
+                <div id="regBtns" class="regBtns regBtns_webkit">
+                    <div class="regBtnsContent regBtnsContent_webkit">
+                        <button id="fastReg" class="registerBtn">一键注册</button>
+                        <button id="normalReg" class="registerBtn">注册</button>
+                    </div>
+                </div>
+            </div>
+            <div id="loginDialog" class="loginDialog loginDialog_webkit">
+				<div id="title" class="title title_webkit">账号登录</div>
+				<div id="inputs" class="inputs inputs_webkit">
+					<div id="account" class="account account_webkit">
+						<div id="accountContent" class="accountContent accountContent_webkit">
+                            <span style="width: 0.2rem;"></span>
+                            <label style="color:#6a3521;font-size: 0.3rem;">账号:</label>
+                            <input id="accountInput" type="text" style="background: none;border: 0;height: 0.7rem;width: 4.4rem;color:#6a3521!important;background-color:none!important;font-size: 0.3rem;">
+                            <span id="xialaBtn" style="width:1.09375rem;height:1.09375rem;background: url(./res/v1_buttn_xiala.png) no-repeat;background-size: contain;"></span>                  
+                        </div>
+					</div>
+                    <div style="height:0.4rem;"></div>
+					<div id="password" class="password password_webkit">
+						<div id="passwordContent" class="passwordContent passwordContent_webkit">
+                            <span style="width: 0.2rem;"></span>
+                            <label style="color:#6a3521;font-size: 0.3rem;">密码:</label>
+                            <input id="passwordInput" type="password" style="background: none;border: 0;height: 0.7rem;width: 4.4rem;color:#6a3521!important;background-color:none!important;font-size: 0.3rem;">
+                        </div>
+					</div>
+				</div>
+				<div id="btns" class="btns btns_webkit">
+                    <div class="inputContent inputContent_webkit">
+    					<button id="registerBtn" class="registerBtn">注册</button>
+    					<button id="loginBtn" class="loginBtn">登录</button>
+                    </div>
+				</div>
+			</div>
+            <div id="loginServer" class="loginServer loginServer_webkit" style="display: none;">
+                <div class="newServer newServer_webkit">
+                    <label style="color:#ffffff;font-size: 0.4rem;">最新服</label>
+                    <span style="width: 0.2rem;"></span>
+                    <label id="newname" style="color:#20de37;font-size: 0.4rem;"></label>
+                </div>
+                <div class="selectServer selectServer_webkit">
+                    <label id="servername" style="color:#ffffff;font-size: 0.4rem;"></label>
+                    <span style="width: 0.2rem;"></span>
+                    <label id="showServerList" style="color:#20de37;font-size: 0.4rem;"></label>
+                </div>
+                <div id="loginGame" sid="" class="loginGame loginGame_webkit"></div>                
+            </div>
+            <div id="loading" class="loading loading_webkit" style="display: none;">
+                <div class="process1">
+                    <div class="process1Content"></div>
+                </div>
+                <div class="process2">                    
+                    <div class="process2Content"></div>
+                </div>
+            </div>
+            <div id="loginBottom" class="loginBottom loginBottom_webkit"></div>
+            <div id="accountSelect" class="accountSelect accountSelect_webkit" style="display: none;">
+            </div> 
+            <div id="serverList" class="serverList" style="display: none;">
+                <div class="serverListTitle">
+                    <label>选择区服</label>
+                </div>
+                <div id="closeList" class="closeList"></div>
+                <div class="serverListContent">
+                    <div class="typeServer">
+                        <div id="myServers" class="selectZone selectZone_webkit">我的服务器</div>
+                        <div id="allServers" class="normalServer normalServer_webkit">全部服务器</div>
+                    </div>
+                    <div class="typeLine"></div>
+                    <div id="typeServerList" class="typeServerList"></div>
+                </div>
+            </div>
+            <div id="notice" class="notice">
+            </div>
+            <div id="noticeContent" class="noticeContent" style="display: none;">
+                <div class="noticeContentTitle">
+                    <label>公告</label>
+                </div>
+                <div id="noticeClose" class="noticeClose"></div>
+                <div class="gonggaoContent">
+                    我是公告我是公告我是公告我是公告我是公告
+                </div>
+            </div>
+        </div>   
+
+    </body>   
+</html>

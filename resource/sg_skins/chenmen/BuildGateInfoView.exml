@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuildGateInfoView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView x="0" y="0" title="城门 Lv.9">
+		<components:Button id="btnhelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+		<e:Image width="640" x="0" y="66" anchorOffsetY="0" height="200" source="v1_img_cm_jpg"/>
+		<e:Group id="info" width="600" height="200" x="20" y="66" anchorOffsetX="0">
+			<components:Button label="招募" x="455.3" y="133.97" width="120" height="45"/>
+			<e:Label text="11:11:11" x="497.22" y="108.37" size="18" fontFamily="黑体" textColor="0xf75151"/>
+			<e:Label text="城门守军：" x="20" y="110" textColor="0xffffff" size="18" fontFamily="黑体"/>
+			<e:Label text="1/8" x="104" y="109.69" size="18" fontFamily="黑体"/>
+			<e:Label text="升级城门可招募更多的守军" x="20" y="140" size="18" fontFamily="黑体"/>
+			<e:Label text="城门等级越高招募到的守军品质和等级就越高" x="20" y="170" size="18" fontFamily="黑体"/>
+		</e:Group>
+		<e:Group width="640" height="50" x="0" y="268" scaleX="1" scaleY="1">
+			<e:Image x="0" y="0" source="v1_img_xiaobiaoti2_png" scale9Grid="93,15,233,19" width="640"/>
+			<e:Label id="title0" text="拖动头像可更改出站顺序" x="30" size="20" fontFamily="黑体" verticalCenter="0"/>
+		</e:Group>
+		<e:Scroller width="640" height="790" x="0" y="318" anchorOffsetY="0">
+			<e:Group width="640" height="1160">
+			<components:Button label="Button" x="215" y="84"/>
+			<components:Button label="Button" x="170" y="397"/>
+			<components:Button label="Button" x="198" y="1280"/>
+			</e:Group>
+		</e:Scroller>
+		<e:Group id="preGroup" width="640" height="168" x="0" y="1280" anchorOffsetY="168">
+			<e:Image width="640" height="168" x="0" y="0" source="v1_img_kelashen6_png" scale9Grid="25,19,50,62" anchorOffsetY="0"/>
+		<components:Button id="btnpre0" label="一键提升" anchorOffsetY="0" y="80" height="50" bgStr="v1_btn_yellow1_png" bgGrayStr="v1_btn_yellow1_png" x="40"/>
+		<e:Label text="50" y="45" size="20" fontFamily="黑体" horizontalCenter="-195"/>
+			<e:Image x="66.91" y="30" source="i10_png" scaleX="0.5" scaleY="0.5"/>
+			<components:Button id="btnpre1" label="友军驻防" horizontalCenter="199.5" anchorOffsetY="0" y="80" height="50" bgStr="v1_btn_yellow1_png" bgGrayStr="v1_btn_yellow1_png"/>
+			<e:Label text="城门12级开启" x="463.44" y="45" size="18" fontFamily="黑体"/>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

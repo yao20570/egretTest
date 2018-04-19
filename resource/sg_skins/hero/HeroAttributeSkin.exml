@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroAttributeSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView x="0" y="0" title="武将属性">
+		<e:Group id="_hero_img_group" x="0" y="78" width="640" height="515" scaleX="1" scaleY="1">
+			<e:Image id="_hero_part1" source=" " scaleX="1" scaleY="1" bottom="0" left="0" x="0" y="1202"/>
+			<e:Image id="_hero_part2" x="0" y="-156" source=" " scaleX="1" scaleY="1"/>
+			<e:Image id="_hero_part9" source=" " x="10" y="-146" scaleX="1" scaleY="1"/>
+			<e:Image id="_hero_part7" source=" " x="10" y="-146" scaleX="1" scaleY="1"/>
+			<e:Image id="_hero_part4" source=" " x="10" y="-146" scaleX="1" scaleY="1"/>
+			<e:Image id="_hero_part5" source=" " x="10" y="-146" scaleX="1" scaleY="1"/>
+			<e:Image id="_hero_part6" source=" " x="10" y="-146" scaleX="1" scaleY="1"/>
+			<e:Image id="_hero_part3" source=" " x="10" y="-146" scaleX="1" scaleY="1"/>
+			<e:Image id="_hero_part8" source=" " x="10" y="-146" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Image x="0" y="593" source="v1_img_dikuang2_png" anchorOffsetY="0" height="687" scale9Grid="80,70,480,28"/>
+		<e:Group y="581.7" horizontalCenter="0">
+			<e:Image x="0" y="0" source="v1_img_gongjiang02b_png" scaleX="0.5" scaleY="0.5"/>
+			<e:Label text="鲁智深" x="78" y="18.3" size="25"/>
+			<e:Label text="Lv.94" x="172" y="18.3" size="25"/>
+		</e:Group>
+		<e:Group y="666" horizontalCenter="0.5">
+			<e:Label text="资质" x="0" y="0" size="22"/>
+			<e:Label text="102+110" x="60" y="0" size="22"/>
+		</e:Group>
+		<e:Group x="173" y="708">
+			<e:Image y="0" source="v1_img_jianbian2_png" x="0"/>
+			<e:Label text="武将属性" size="22" horizontalCenter="0" verticalCenter="0"/>
+		</e:Group>
+		<e:Group y="770" x="64">
+			<e:Label text="攻击" x="0" y="0" size="22"/>
+			<e:Label text="1252" x="60" y="0" size="22"/>
+			<e:Label text="+2337" x="154" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="770" x="352">
+			<e:Label text="防御" x="0" y="0" size="22"/>
+			<e:Label text="1252" x="60" y="0" size="22"/>
+			<e:Label text="+2337" x="154" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="809" x="64">
+			<e:Label text="兵力" x="0" y="0" size="22"/>
+			<e:Label text="1252" x="60" y="0" size="22"/>
+			<e:Label text="+2337" x="154" y="0" size="22"/>
+		</e:Group>
+		<e:Image y="844" source="v1_line_blue1_png" scale9Grid="2,1,16,1" width="450" horizontalCenter="0"/>
+		<e:Group y="860" x="64">
+			<e:Label text="命中" x="0" y="0" size="22"/>
+			<e:Label text="1" x="60" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="860" x="352">
+			<e:Label text="闪避" x="0" y="0" size="22"/>
+			<e:Label text="0" x="60" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="895" x="64">
+			<e:Label text="暴击" x="0" y="0" size="22"/>
+			<e:Label text="1%" x="60" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="895" x="352">
+			<e:Label text="坚韧" x="0" y="0" size="22"/>
+			<e:Label text="0" x="60" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="934" x="64">
+			<e:Label text="强攻" x="0" y="0" size="22"/>
+			<e:Label text="0" x="60" y="0" size="22"/>
+			<e:Label text="+66" x="154" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="934" x="352">
+			<e:Label text="强防" x="0" y="0" size="22"/>
+			<e:Label text="0" x="60" y="0" size="22"/>
+			<e:Label text="+101" x="154" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="971" x="64">
+			<e:Label text="攻城" x="0" y="0" size="22"/>
+			<e:Label text="0" x="60" y="0" size="22"/>
+			<e:Label text="+73" x="154" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="971" x="352">
+			<e:Label text="守城" x="0" y="0" size="22"/>
+			<e:Label text="0" x="60" y="0" size="22"/>
+			<e:Label text="+129" x="154" y="0" size="22"/>
+		</e:Group>
+		<e:Group y="1004" horizontalCenter="0">
+			<e:Image y="0" source="v1_img_jianbian2_png" x="0"/>
+			<e:Label text="武将生平" size="22" horizontalCenter="0" verticalCenter="0"/>
+		</e:Group>
+		<e:Label text="21321432441312313213213121245112224546546545454546132121231321321212123" y="1066" horizontalCenter="0" width="450" size="22" wordWrap="true"/>
+	</components:PanelView>
+</e:Skin>

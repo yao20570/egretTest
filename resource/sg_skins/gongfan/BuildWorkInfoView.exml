@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuildWorkInfoView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView x="0" y="0" title="工坊 Lv.0">
+		<components:Button id="btnhelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+		<e:Image width="640" x="0" y="66" anchorOffsetY="0" source="v1_img_gf_jpg" height="200"/>
+		<e:Group id="info" width="600" height="200" x="20" y="66" anchorOffsetX="0">
+		</e:Group>
+		<e:Group id="preGroup" width="640" height="200" x="0" y="1280" anchorOffsetY="200">
+			<components:Button id="btnpre" label="预约生产" horizontalCenter="0" anchorOffsetY="62" y="150"/>
+			<e:Label text="预计生产时间：" y="46" size="20" fontFamily="黑体" horizontalCenter="0"/>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="smith" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick title="资源产量" skinName="BgImgSkin" width="640" horizontalCenter="0" verticalCenter="0">
+		<e:Group width="560" height="776" anchorOffsetY="0" horizontalCenter="0" verticalCenter="0">
+			<e:Group id="group_dlg" width="560" height="776" x="0" y="0" locked="true">
+				<e:Image id="bg0" source="v2_bg_popup_a_png" width="560" scale9Grid="28,70,235,134" height="746" scaleX="1" scaleY="1" top="0" horizontalCenter="0" x="0" y="0" locked="true"/>
+				<e:Image width="560" height="30" source="v2_bg_popup_b_png" scale9Grid="20,7,243,30" scaleX="1" scaleY="1" bottom="0" horizontalCenter="0" x="0" y="746" locked="true"/>
+				<e:Label id="title0" text="武将培养" y="15" fontFamily="黑体" scaleX="1" scaleY="1" horizontalCenter="0" x="220" locked="true"/>
+				<components:Button id="closeBtn0" label="" x="510" y="13" bgStr="v1_btn_close_png" skinName="skins.ButtonASkin" scaleX="1" scaleY="1" locked="true"/>
+			</e:Group>
+			<e:Group id="group_desc" width="526" height="80" x="17" y="71.5" anchorOffsetY="0">
+				<e:Label text="Label" y="-2.5" anchorOffsetX="0" width="526" anchorOffsetY="0" height="91" x="0" scaleX="1" scaleY="1"/>
+			</e:Group>
+			<e:Group id="group_list" width="526" height="460" x="17" y="282" anchorOffsetY="0">
+				<e:Image width="526" height="50" x="0" y="0" source="v1_img_xiaobiaoti2_png" anchorOffsetX="0" scale9Grid="152,6,174,38" scaleX="1" scaleY="1"/>
+				<e:Label text="Label" x="14" y="9.31" scaleX="1" scaleY="1"/>
+				<e:Scroller id="sv_smith" width="526" height="398.33" y="50" anchorOffsetX="0" anchorOffsetY="0" x="0" scaleX="1" scaleY="1">
+					<e:Group anchorOffsetX="0" width="526" anchorOffsetY="0" height="419.67" x="0" y="69.33"/>
+				</e:Scroller>
+			</e:Group>
+			<e:Group width="526" height="130" x="17" y="152.01"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

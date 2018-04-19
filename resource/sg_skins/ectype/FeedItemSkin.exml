@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FeedItemSkin"  currentState="clear" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*" width="89" states="default,clear,open" >
+	<w:Declarations>
+		<tween:TweenGroup id="run">
+			<tween:TweenItem target="{image0}">
+				<tween:To duration="350">
+					<tween:props>
+						<e:Object alpha="{1}"/>
+					</tween:props>
+				</tween:To>
+				<tween:To duration="500">
+					<tween:props>
+						<e:Object alpha="{0}"/>
+					</tween:props>
+				</tween:To>
+			</tween:TweenItem>
+			<tween:TweenItem target="{image1}">
+				<tween:To duration="350">
+					<tween:props>
+						<e:Object alpha="{1}"/>
+					</tween:props>
+				</tween:To>
+				<tween:To duration="370">
+					<tween:props>
+						<e:Object scaleX="{5.6}" scaleY="{5.6}" alpha="{0}"/>
+					</tween:props>
+				</tween:To>
+			</tween:TweenItem>
+			<tween:TweenItem target="{image2}">
+				<tween:To duration="350">
+					<tween:props>
+						<e:Object alpha="{1}"/>
+					</tween:props>
+				</tween:To>
+				<tween:To duration="380">
+					<tween:props>
+						<e:Object scaleX="{3.5}" scaleY="{3.5}" alpha="{0}"/>
+					</tween:props>
+				</tween:To>
+			</tween:TweenItem>
+			<tween:TweenItem target="{image3}">
+				<tween:To duration="350">
+					<tween:props>
+						<e:Object alpha="{1}"/>
+					</tween:props>
+				</tween:To>
+				<tween:To duration="410">
+					<tween:props>
+						<e:Object alpha="{0}"/>
+					</tween:props>
+				</tween:To>
+			</tween:TweenItem>
+			<tween:TweenItem target="{image4}">
+				<tween:To duration="350">
+					<tween:props>
+						<e:Object scaleX="{0.5}" scaleY="{0.5}" rotation="{180}"/>
+					</tween:props>
+				</tween:To>
+			</tween:TweenItem>
+		</tween:TweenGroup>
+	</w:Declarations>
+	<e:Group id="passId" height="154" width="89">
+		<e:Image source="v2_img_zhangjiejianglidi_fb_b_png" x="6" top="31"/>
+		<e:Image id="bgImg" source="v2_img_cha_fb_png" x="16" top="48" visible.clear="false" visible.open="false"/>
+		<e:Rect id="rect1" width="74" height="74" ellipseWidth="74" ellipseHeight="74" x="8" top="33" visible="false"/>
+		<e:Image id="imgHead" scaleX="0.8" scaleY="0.8" top="30" x="5" visible.default="false" source="i3_png"/>
+		<e:Group id="isShow" y="93" visible.default="false" width="89">
+			<e:Group x="0" y="0">
+			<e:Image source="v1_img_jzmzd_png" scaleY="0.8" scaleX="0.8"/>
+			<e:Label id="action" fontFamily="黑体" size="16" horizontalCenter="0" verticalCenter="0" text="军粮补给"/>
+			</e:Group>
+			<e:Label id="clearText" text="通过第2关解锁" fontFamily="黑体" size="16" x="-8" y="32" includeIn="clear" textColor="0xff0a0a"/>
+			<e:Group id="timeGroup" y="32" visible.clear="false" horizontalCenter="14" width="89" height="22">
+				<e:Group id="buyGlod" x="13.6" includeInLayout="false" visible="false">
+					<e:Image source="v1_img_huangjin_png" verticalCenter="0" scaleX="0.8" scaleY="0.8"/>
+					<e:Label id="goldNum" text="5" fontFamily="黑体" size="16" x="28.6" textColor="0xfeba29" bold="true" verticalCenter="0"/>
+				</e:Group>
+			<e:Label id="count" text="剩余5次" fontFamily="黑体" size="16" x="0" y="0"/>
+			<e:Label id="time" text="00-00-00" fontFamily="黑体" size="16" x="51" y="0" textColor="0xe82020" visible="false"/>
+				<e:layout>
+					<e:HorizontalLayout verticalAlign="middle"/>
+				</e:layout>
+			</e:Group>
+		</e:Group>
+		<e:Image includeIn="clear" x="88" y="88" source="v2_img_lock_tjp_png"/>
+	</e:Group>
+	<e:Group id="effectGroup" horizontalCenter="0" verticalCenter="0" anchorOffsetX="128" anchorOffsetY="128" width="0" height="0" visible="false">
+		<e:Image id="image0" source="sg_fbbkdh_kq_x_01_png" scaleX="2" scaleY="2" horizontalCenter="0" verticalCenter="0" anchorOffsetX="128" anchorOffsetY="128" alpha="0"/>
+		<e:Image id="image1" source="sg_fbbkdh_kq_x_02_png" anchorOffsetX="64" anchorOffsetY="64" horizontalCenter="0" verticalCenter="0" scaleX="2" scaleY="2" alpha="0"/>
+		<e:Image id="image2" source="sg_fbbkdh_kq_x_03_png" anchorOffsetX="64" anchorOffsetY="64" horizontalCenter="0" verticalCenter="0" scaleX="1.68" scaleY="1.68" alpha="0"/>
+		<e:Image id="image3" source="sg_fbbkdh_kq_x_04_png" scaleX="2" scaleY="2" anchorOffsetX="104" anchorOffsetY="30" horizontalCenter="0" verticalCenter="0" visible="false"/>
+		<e:Image id="image4" source="sg_fbbkdh_kq_x_05_png" anchorOffsetX="94" anchorOffsetY="94" horizontalCenter="0" verticalCenter="0"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroForwardSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick title="资源产量" skinName="BgImgSkin" y="0" width="640" horizontalCenter="0">
+		<e:Group horizontalCenter="0" verticalCenter="0">
+			<e:Group x="0" y="0">
+				<e:Image id="bg" x="0" y="0" source="v2_bg_popup_a_png" width="600" scale9Grid="28,70,235,134" height="630"/>
+				<e:Group x="260" y="16">
+					<e:Label id="title" text="武将进阶" y="1" fontFamily="黑体" x="0"/>
+					<components:Button id="closeBtn" label="" x="292" y="0" bgStr="v1_btn_close_png" skinName="skins.ButtonASkin"/>
+				</e:Group>
+				<e:Group width="600" height="570" x="0" y="60">
+					<e:Group y="0" horizontalCenter="0">
+						<e:Group x="0" y="0">
+							<e:Image y="0" scaleX="1" scaleY="1" horizontalCenter="0" source="nanzhu_png" scale9Grid="80,64,480,387" width="250" height="400"/>
+							<e:Image source="v2_img_gauqkapaibai_png" scale9Grid="53,91,30,83" width="250" x="0" y="0"/>
+							<e:Label text="程咬金" x="14" includeInLayout="true" wordWrap="true" size="20" fontFamily="黑体" lineSpacing="5" width="18" y="59"/>
+							<e:Group id="starNum" x="14" y="145">
+							<e:Image width="20" height="20" x="0" y="0" source="v1_img_star5_png"/>
+							<e:Image width="20" height="20" x="10" y="10" source="v1_img_star5_png"/>
+							<e:Image width="20" height="20" x="20" y="20" source="v1_img_star5_png"/>
+							<e:Image width="20" height="20" x="30" y="30" source="v1_img_star5_png"/>
+							<e:layout>
+								<e:VerticalLayout gap="0"/>
+							</e:layout>
+							</e:Group>
+							<e:Group y="276.34" width="220" horizontalCenter="0">
+							<e:Label text="资质" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" left="147" textColor="0xFFFFFF" verticalCenter="0"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+							<e:Group y="307.34" width="220" horizontalCenter="0">
+							<e:Label text="攻" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" textColor="0xFFFFFF" verticalCenter="0" left="147"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+							<e:Group y="339.34" width="220" horizontalCenter="0">
+							<e:Label text="防" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" textColor="0xFFFFFF" verticalCenter="0" left="147"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+							<e:Group y="363.34" width="220" horizontalCenter="0">
+							<e:Label text="兵" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" textColor="0xFFFFFF" verticalCenter="0" left="147"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+						</e:Group>
+						<e:Image x="256" y="0" source="v1_img_shengjijiantou_png"/>
+						<e:Group x="10" y="10">
+							<e:Image y="0" scaleX="1" scaleY="1" horizontalCenter="0" source="nanzhu_png" scale9Grid="80,64,480,387" width="250" height="400"/>
+							<e:Image source="v2_img_gauqkapaibai_png" scale9Grid="53,91,30,83" width="250" x="0" y="0"/>
+							<e:Label text="程咬金" x="14" includeInLayout="true" wordWrap="true" size="20" fontFamily="黑体" lineSpacing="5" width="18" y="59"/>
+							<e:Group id="starNum0" x="14" y="145">
+							<e:Image width="20" height="20" x="0" y="0" source="v1_img_star5_png"/>
+							<e:Image width="20" height="20" x="10" y="10" source="v1_img_star5_png"/>
+							<e:Image width="20" height="20" x="20" y="20" source="v1_img_star5_png"/>
+							<e:Image width="20" height="20" x="30" y="30" source="v1_img_star5_png"/>
+							<e:layout>
+								<e:VerticalLayout gap="0"/>
+							</e:layout>
+							</e:Group>
+							<e:Group y="276.34" width="220" horizontalCenter="0">
+							<e:Label text="资质" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" left="147" textColor="0xFFFFFF" verticalCenter="0"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+							<e:Group y="307.34" width="220" horizontalCenter="0">
+							<e:Label text="攻" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" textColor="0xFFFFFF" verticalCenter="0" left="147"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+							<e:Group y="339.34" width="220" horizontalCenter="0">
+							<e:Label text="防" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" textColor="0xFFFFFF" verticalCenter="0" left="147"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+							<e:Group y="363.34" width="220" horizontalCenter="0">
+							<e:Label text="兵" y="2.66" size="18" fontFamily="黑体" textColor="0xC6C7DA" x="0"/>
+							<components:Progress width="100" height="16" x="43" onStr="v2_bar_yellow_wjjj_png" value="40" verticalCenter="0.5"/>
+							<e:Label text="108+100" size="16" fontFamily="黑体" textColor="0xFFFFFF" verticalCenter="0" left="147"/>
+							<e:Image source="v1_img_xiangshangjiantou_png" verticalCenter="0" right="0"/>
+							</e:Group>
+						</e:Group>
+						<e:layout>
+							<e:HorizontalLayout horizontalAlign="center" verticalAlign="middle" gap="15"/>
+						</e:layout>
+					</e:Group>
+					<e:Image width="520" height="100" y="432" source="v1_img_black30_png" horizontalCenter="0"/>
+					<e:Label text="进阶值" x="64" y="468" size="20" fontFamily="黑体"/>
+					<components:Progress width="296" height="14" x="152" y="472" onStr="v1_bar_blue_4_png" value="50" maximum="600"/>
+					<e:Label text="50/600" x="477.5" y="468" size="20" fontFamily="黑体"/>
+					<e:Label text="进阶值每日0:00清零，当前有低概率直接进阶到橙色武将" y="498" size="20" fontFamily="黑体" horizontalCenter="0"/>
+				</e:Group>
+			</e:Group>
+			<e:Group x="0" y="630">
+				<e:Image width="600" height="170" x="0" y="0" source="v2_bg_popup_b_png" scale9Grid="20,14,243,23"/>
+				<components:Button label="普通进阶" bottom="20" right="15"/>
+				<e:Label text="将玉" x="150" y="58" size="20" fontFamily="黑体" anchorOffsetY="0" height="20"/>
+				<e:Label text="进阶消耗:30/400" x="150" size="20" fontFamily="黑体" anchorOffsetY="0" height="20" bottom="28"/>
+				<e:Image x="28" source="v1_img_touxiangkuangcheng_png" bottom="20"/>
+				<e:Image x="34" source="i14_png" bottom="20"/>
+				<components:CheckBoxElect label="自动进阶" x="463" y="42"/>
+			</e:Group>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

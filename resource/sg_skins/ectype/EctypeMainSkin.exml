@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="EctypeMainSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<components:PanelView title="副本" bgImg="v1_bg_fbdt_jpg" width="640" height="100%" horizontalCenter="0" y="0">
+		<e:Image source="v2_img_zhangjiejianglidi_fb_png" bottom="0" y="986"/>
+		<e:Group horizontalCenter="6.5" bottom="0">
+			<ns1:FeedItem id="feed1" x="0" skinName="FeedItemSkin" y="0" name="1" touchChildren="false"/>
+			<ns1:FeedItem id="feed2" x="0" skinName="FeedItemSkin" y="0" name="2" touchChildren="false"/>
+			<ns1:FeedItem id="feed3" x="0" skinName="FeedItemSkin" y="0" name="3" touchChildren="false"/>
+			<e:layout>
+			<e:HorizontalLayout gap="102"/>
+			</e:layout>
+		</e:Group>
+		<e:Group x="132" top="426">
+			<e:Image id="ray" source="v2_line_fubendi_png"/>
+			<e:Group id="via0" x="-6.04" y="324.6">
+			<e:Image x="0" y="0" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="33.7" y="4.5" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="62.54" y="10.5" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="90.54" y="24.48" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="115.04" y="45.48" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="145.74" y="61.67" source="sg_fb_gd_hd_01_png" visible="false"/>
+			</e:Group>
+			<e:Group id="via1" x="235.28" y="341.6">
+			<e:Image x="0" y="32.8" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="24.9" y="9.7" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="41.74" y="-18.7" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="56.14" y="-47.52" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="76.8" y="-68.21" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="103.48" y="-80.23" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="137.5" y="-88.24" source="sg_fb_gd_hd_01_png" visible="false"/>
+			</e:Group>
+			<e:Group id="via2" x="149.4" y="190.42">
+			<e:Image x="192.04" y="3.4" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="159.35" y="0.67" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="126.69" y="0" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="94.02" y="0.65" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="62.01" y="2.61" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="30.01" y="4.61" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="0" y="4.61" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			</e:Group>
+			<e:Group id="via3" x="165.23" y="69.49">
+			<e:Image x="0" y="79" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="30.02" y="68.34" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="60.69" y="59.01" source="sg_fb_gd_hd_01_png" visible="false"/>
+			<e:Image x="92.02" y="51" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="122.52" y="40.5" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="152.52" y="23.5" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="177.02" y="0" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			</e:Group>
+			<e:Group id="via4" x="103.75" y="-4.51">
+			<e:Image x="189.5" y="8" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="157" y="6.5" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="124.5" y="8.5" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="92" y="12" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="61" y="13.5" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="30" y="10.5" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			<e:Image x="0" y="0" source="sg_fb_gd_hd_01_png"  visible="false"/>
+			</e:Group>
+			<e:Group id="via5" x="113.75" y="5.49">
+			</e:Group>
+		</e:Group>
+		<e:Group horizontalCenter="0" top="276">
+			<ns1:SectionOne id="pass0" skinName="SectionOneSkin" name="0" verticalCenter="136" horizontalCenter="-228.5"/>
+			<ns1:SectionOne id="pass1" skinName="SectionOneSkin" name="1" touchChildren="false" horizontalCenter="2.5" verticalCenter="193"/>
+			<ns1:SectionOne id="pass2" skinName="SectionOneSkin" name="2" touchChildren="false" horizontalCenter="228.5" verticalCenter="49"/>
+			<ns1:SectionOne id="pass3" skinName="SectionOneSkin" name="3" touchChildren="false" horizontalCenter="-86.5" verticalCenter="-9"/>
+			<ns1:SectionOne id="pass4" skinName="SectionOneSkin" name="4" touchChildren="false" horizontalCenter="200.5" verticalCenter="-149"/>
+			<ns1:SectionOne id="pass5" skinName="SectionOneSkin" name="5" touchChildren="false" horizontalCenter="-142.5" verticalCenter="-193"/>
+		</e:Group>
+		<e:Image id="openActivity" source="v2_fonts_itfc_png" top="234" left="20"/>
+		<components:Button id="openSection" label="章节" bgStr="v2_btn_blue6_png" skinName="skins.ButtonSkin" top="222" right="47"/>
+		<e:Group width="100%" height="80" bottom="150" x="0" y="906" scaleX="1" scaleY="1">
+			<e:Image source="v1_img_black30_png" height="100%" width="100%"/>
+			<e:Label id="overVit" text="当前体力：18/100" x="35" size="18" fontFamily="黑体" top="18" textColor="0xc6c7da"/>
+			<e:Label text="挑战副本不损耗兵力，默认以最大兵力出站" size="18" fontFamily="黑体" bottom="16" textColor="0xc6c7da" x="35"/>
+			<components:Button id="buyVit" label="购买体力" bgStr="v1_btn_yellow2_png" verticalCenter="0" right="35" skinName="skins.ButtonSkin"/>
+		</e:Group>
+		<e:Group horizontalCenter="0" top="76">
+			<e:Scroller id="rollSel" width="600" bounces="false" throwSpeed="0">
+				<e:DataGroup id="selData" itemRendererSkinName="SectionListSkin" scaleX="0.75" scaleY="0.75" touchChildren="false">
+				<e:ArrayCollection>
+					<e:Array>
+					<e:Object null=""/>
+					<e:Object null=""/>
+					<e:Object null=""/>
+					</e:Array>
+				</e:ArrayCollection>
+				<e:layout>
+					<e:HorizontalLayout gap="0" paddingRight="290" paddingLeft="230" verticalAlign="middle"/>
+				</e:layout>
+				</e:DataGroup>
+			</e:Scroller>
+			<e:Image id="leftBtn" source="v1_btn_jiantou_png" verticalCenter="0" left="130" visible="false"/>
+			<e:Image id="rightBtn" source="v1_btn_jiantou_png" scaleX="-1" verticalCenter="0" right="130" width="36" visible="false"/>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

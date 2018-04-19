@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ResYieldDlgView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick title="资源产量" skinName="BgImgSkin" y="0" width="640" horizontalCenter="0">
+		<e:Image id="bg" x="20" y="230" source="v2_bg_popup_a_png" width="600" scale9Grid="28,70,235,134" height="450"/>
+		<e:Label id="title" text="标题" y="252" horizontalCenter="20"/>
+		<components:Button id="btnclose" label="" x="572" y="246" bgStr="v1_btn_close_png"/>
+		<e:Group width="600" height="129" x="20" y="304" anchorOffsetY="0">
+			<e:Image width="580" height="129" x="10" y="0" source="v1_img_kelashen6_png" scale9Grid="23,22,50,58"/>
+			<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+			<e:Image id="itemImg" width="84" height="84" x="20" y="13" source="i3_png"/>
+			<e:Label id="item" text="银币" x="119" y="20" size="20" fontFamily="黑体"/>
+			<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="Yield" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="Rise" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+			<components:Button id="increase" label="" x="546" bgStr="v1_btn_increase2_png" bgGrayStr="v1_btn_increase2_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+		</e:Group>
+		<e:Image width="580" x="30" y="446" source="v1_img_xiaobiaoti2_png" scale9Grid="111,13,215,24"/>
+		<e:Label text="产量信息" x="54" y="462" size="22" fontFamily="黑体"/>
+		<e:Image width="600" height="100" x="20" y="680" source="v2_bg_popup_b_png" scale9Grid="20,14,243,23"/>
+		<e:Group width="600" height="170" x="20" y="504" anchorOffsetY="0">
+			<e:Label text="基础产量：" x="45" y="20" size="20" fontFamily="黑体"/>
+			<e:Label id="basicsYield" text="4.18K" x="149.25" y="20" size="20" fontFamily="黑体"/>
+			<e:Label text="天气加成：" x="45" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="weatherYield" text="4.18K" x="149.25" y="60" size="20" fontFamily="黑体"/>
+			<e:Label text="文官加成：" x="45" y="100" size="20" fontFamily="黑体"/>
+			<e:Label id="civilYield" text="4.18K" x="149.25" y="100" size="20" fontFamily="黑体"/>
+			<e:Label text="科技加成：" x="365" y="20" size="20" fontFamily="黑体"/>
+			<e:Label id="scienceYield" text="4.18K" x="465" y="20" size="20" fontFamily="黑体"/>
+			<e:Label text="活动加成：" x="365" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="activityYield" text="4.18K" x="465" y="60" size="20" fontFamily="黑体"/>
+			<e:Label text="总产量：" x="365" y="100" size="20" fontFamily="黑体"/>
+			<e:Label id="tatolYield" text="4.18K" x="465" y="100" size="20" fontFamily="黑体"/>
+		</e:Group>
+		<components:Button id="ok" label="确定" y="690" horizontalCenter="0"/>
+	</components:BgImgClick>
+</e:Skin>

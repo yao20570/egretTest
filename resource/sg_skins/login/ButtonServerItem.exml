@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ButtonServerItem" width="426" height="50" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="426" height="50" x="0" y="0" source="v2_btn_xuanfu_png" scale9Grid="21,13,385,32"/>
+	<e:Label id="labelDisplay" text="测试1服" horizontalCenter="-147" verticalCenter="0" size="20"/>
+	<e:Image id="_Statebg" width="66" height="50" x="359" y="0" scale9Grid="32,5,21,18" source="v2_img_tuijian_png"/>
+	<e:Label id="_state" text="推荐" x="394" y="1" size="18" rotation="36.38" fontFamily="KaiTi"/>
+	<e:Label id="roleLable" text="玩家A Lv.2" x="213" y="15" size="20"/>
+</e:Skin>

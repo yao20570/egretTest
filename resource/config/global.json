@@ -1,0 +1,7 @@
+{
+    "IsDebug":true,
+    "EncryptKey": "0GCSqGSIb3DQEBAQUAA4GNADCBiQ",
+    "HttpSerever":"http://192.168.1.70:30005",
+    "SocketServer":"192.168.1.70",
+    "SocketPort":"11083/ws" 
+}

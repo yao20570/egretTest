@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuildGenMansionInfoView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView x="0" y="0" title="将军府">
+		<components:Button id="btnhelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+		<e:Image width="640" x="0" y="66" anchorOffsetY="0" height="200" source="v1_img_jjf_jpg"/>
+		<e:Group id="info" width="600" height="190.91" x="20" y="73.09" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Label text="88级后可招募高级武将" x="370" y="58.5" size="20" fontFamily="黑体" anchorOffsetY="0" height="24"/>
+			<e:Label text="隐藏资质" x="370" y="160" size="20" fontFamily="黑体" anchorOffsetY="0" height="24"/>
+			<components:ToggleSwitchCut id="HideInfo" label="ToggleButton" x="478" y="160" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Group width="640" height="162.91" x="0" y="317.68" anchorOffsetY="0">
+			<e:Group id="General_1" width="108" height="145" x="41.15" y="11.32">
+				<e:Image x="0" y="0" source="v1_img_touxiangkuanghui_png" width="108" height="108" scaleX="1" scaleY="1"/>
+				<components:Button id="head1" label="" x="0" bgStr="v1_btn_tianjia2_png" bgGrayStr="v1_btn_tianjia2_png" skinName="skins.ButtonASkin" y="0" scaleX="1" scaleY="1" height="108" width="108"/>
+				<e:Label text="武将名称 Lv.10" x="0" y="111.96" size="16" fontFamily="黑体"/>
+			</e:Group>
+			<e:Group id="General_2" width="108" height="145" x="174.54" y="11.32">
+				<e:Image x="0" y="0" source="v1_img_touxiangkuanghui_png" width="108" height="108" scaleX="1" scaleY="1"/>
+				<components:Button id="head2" label="" x="0" bgStr="v1_btn_tianjia2_png" bgGrayStr="v1_btn_tianjia2_png" skinName="skins.ButtonASkin" y="0" scaleX="1" scaleY="1" height="108" width="108"/>
+				<e:Label text="武将名称 Lv.10" x="0" y="111.96" size="16" fontFamily="黑体"/>
+			</e:Group>
+			<e:Group id="General_3" width="108" height="145" x="307.82" y="11.32">
+				<e:Image x="0" y="0" source="v1_img_touxiangkuanghui_png" width="108" height="108" scaleX="1" scaleY="1"/>
+				<components:Button id="head3" label="" x="0" bgStr="v1_btn_tianjia2_png" bgGrayStr="v1_btn_tianjia2_png" skinName="skins.ButtonASkin" y="0" scaleX="1" scaleY="1" height="108" width="108"/>
+				<e:Label text="武将名称 Lv.10" x="0" y="111.96" size="16" fontFamily="黑体"/>
+			</e:Group>
+			<e:Group id="General_4" width="108" height="145" x="447.18" y="11.32">
+				<e:Image x="0" y="0" source="v1_img_touxiangkuanghui_png" width="108" height="108" scaleX="1" scaleY="1"/>
+				<components:Button id="head4" label="" x="0" bgStr="v1_btn_tianjia2_png" bgGrayStr="v1_btn_tianjia2_png" skinName="skins.ButtonASkin" y="0" scaleX="1" scaleY="1" height="108" width="108"/>
+				<e:Label text="武将名称 Lv.10" x="0" y="111.96" size="16" fontFamily="黑体"/>
+			</e:Group>
+		</e:Group>
+		<e:Image x="0" y="266" source="v1_img_xiaobiaoti2_png" scale9Grid="93,15,233,19" width="640" scaleX="1" scaleY="1"/>
+		<e:Label text="上阵武将" x="25" y="282" fontFamily="黑体" size="20" scaleX="1" scaleY="1"/>
+		<components:SwitchTabBar id="BtnTabBar0" anchorOffsetX="0" width="640" anchorOffsetY="0" x="0" selectedIndex="0" height="60" itemRendererSkinName="skins.TabBarSkin" y="482.84" scaleX="1" scaleY="1">
+			<e:ArrayCollection>
+			<e:Array>
+				<e:Object name="白将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+				<e:Object name="绿将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+				<e:Object name="蓝将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+				<e:Object name="紫将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+				<e:Object name="橙将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+			</e:Array>
+			</e:ArrayCollection>
+		</components:SwitchTabBar>
+		<e:Group width="640" height="735" x="0" y="545" anchorOffsetY="0">
+			<e:Image y="190" source="v1_img_biaoqing_png" anchorOffsetY="39" anchorOffsetX="39" horizontalCenter="0"/>
+			<e:Label text="您还没有当前品质的武将！" y="250" size="20" horizontalCenter="0" fontFamily="黑体"/>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

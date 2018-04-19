@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PayGoldSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick skinName="BgImgSkin" horizontalCenter="0" width="640" height="100%">
+		<e:Group horizontalCenter="0" verticalCenter="0" x="70" y="371" scaleX="1" scaleY="1">
+			<e:Image source="v2_bg_popup_b_png" width="500" height="130" y="265"/>
+			<e:Image source="v2_bg_popup_a_png" width="500" height="270" scale9Grid="37,31,226,188"/>
+			<e:Label text="提示" top="19" horizontalCenter="0" fontFamily="黑体"/>
+			<e:Label text="金币不足，是否前往充值！" y="160.03" fontFamily="黑体" size="20" lineSpacing="5" horizontalCenter="0" textColor="0xc6c7da"/>
+			<e:Group y="10" right="0" width="75" height="48" id="closeGroup">
+			<components:Button id="closeBtn" skinName="skins.ButtonASkin" bgStr="v1_btn_close_png" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<components:Button id="cancel" label="取  消" skinName="skins.ButtonSkin" bgStr="v1_btn_red1_png" left="40" bottom="34"/>
+			<components:Button id="ensure" label="确  定" skinName="skins.ButtonSkin" bgStr="v1_btn_yellow1_png" right="40" x="10" bottom="34"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

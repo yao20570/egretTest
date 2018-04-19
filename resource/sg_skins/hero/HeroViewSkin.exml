@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroViewSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView width="100%" height="100%" x="0" y="0" title="上阵武将">
+		<e:Image id="topBg" width="640" height="315" x="0" y="66" source="v1_img_tsf_jpg" scale9Grid="80,39,480,237"/>
+		<e:Group x="0" y="245">
+			<e:Image width="640" height="40" x="0" y="0" source="v1_img_black50_png" scale9Grid="2,2,16,16"/>
+			<e:Label id="heroTroops" text="主力武将出征兵力: " x="20" y="10" size="20" fontFamily="黑体"/>
+			<e:Label text="防御自动补兵" x="382" y="10" size="20" fontFamily="黑体"/>
+			<e:ToggleSwitch id="autoFarm" label="ToggleButton" x="556" y="8" width="64" height="28"/>
+		</e:Group>
+		<e:TabBar id="tabBar" width="640" height="65" x="0" y="290" selectedIndex="0" itemRendererSkinName="skins.TabBarTipsSkin">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object name="主力武将" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+					<e:Object name="采集队列" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+					<e:Object name="城防队列" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+				</e:Array>
+			</e:ArrayCollection>
+		</e:TabBar>
+		<e:Image width="640" height="50" x="0" y="360" source="v2_img_xiaobiaoti3_png" scale9Grid="75,6,450,37"/>
+		<e:Group width="600" horizontalCenter="0" y="368">
+			<e:Group x="0" y="0">
+				<e:Image width="34" height="34" x="0" y="0" source="v1_img_bujiang02_png"/>
+				<e:Label id="infantryLb" text="100" x="46" y="6" size="22" fontFamily="黑体"/>
+			</e:Group>
+			<e:Group x="144" y="0">
+				<e:Image width="34" height="34" x="0" y="0" source="v1_img_gongjiang02_png"/>
+				<e:Label id="archerLb" text="100" x="46" y="6" size="22" fontFamily="黑体"/>
+			</e:Group>
+			<e:Group x="350" y="0">
+				<e:Image width="34" height="34" x="0" y="0" source="v1_img_qibing02b_png"/>
+				<e:Label id="sowarLb" text="100" x="46" y="6" size="22" fontFamily="黑体"/>
+			</e:Group>
+			<e:layout>
+				<e:HorizontalLayout horizontalAlign="center" verticalAlign="middle" gap="150"/>
+			</e:layout>
+		</e:Group>
+		<e:ViewStack id="viewStack" width="640" x="0" y="425" height="855" selectedIndex="1" anchorOffsetY="0">
+			<e:Group width="100%" height="100%" name="主力武将">
+				<e:DataGroup id="mainHero" width="100%" height="100%" scaleX="1" scaleY="1" itemRendererSkinName="HeroRendererSkin">
+					<e:layout>
+						<e:VerticalLayout horizontalAlign="center" gap="10"/>
+					</e:layout>
+				</e:DataGroup>
+			</e:Group>
+			<e:Group width="100%" height="100%" name="采集队列">
+				<e:DataGroup id="colHero" width="100%" height="100%" scaleX="1" scaleY="1" itemRendererSkinName="HeroRendererSkin">
+					<e:layout>
+						<e:VerticalLayout horizontalAlign="center" gap="10"/>
+					</e:layout>
+				</e:DataGroup>
+			</e:Group>
+			<e:Group width="100%" height="100%" name="城防队列">
+				<e:Group x="20" y="10">
+					<e:Image width="600" height="130" x="0" y="0" source="v1_img_kelashen6_png" scale9Grid="15,9,70,82"/>
+					<e:Image width="600" height="128" x="0" y="0" source="v1_img_kelashen6_b_png" scale9Grid="43,2,264,14"/>
+					<e:Image width="108" height="108" x="12" y="12" source="v1_img_touxiangkuangzi_png"/>
+					<e:Image width="96" height="96" x="17" y="17" source="i200141_5_png"/>
+					<e:Image width="20" height="20" x="110" y="8" source="v1_img_hongdiantishi_png"/>
+					<e:Image width="34" height="34" x="12" y="12" source="v1_img_gongjiang02_png"/>
+					<e:Label text="鲁智深" x="148" y="12" size="22"/>
+					<e:Label text="Lv.94" x="238" y="12" size="22"/>
+					<e:Label text="攻击" x="148" y="61" size="20"/>
+					<e:Label text="9999" x="208" y="61" size="20"/>
+					<e:Label text="防御" x="282" y="61" size="20"/>
+					<e:Label text="9999" x="342" y="61" size="20"/>
+					<e:Label text="兵力" x="148" y="94" size="20"/>
+					<components:Progress width="140" height="20" x="208" y="95" value="45" onStr="v1_bar_blue_3_png" onUStr="v1_bar_b1_png"/>
+					<e:Image width="34" height="34" x="362" y="87" source="v1_btn_increase_png"/>
+					<e:Image width="29" height="40" x="496" y="0" source="v2_img_xian_png"/>
+					<components:Button label="更换" x="438" y="61"/>
+				</e:Group>
+				<e:Group x="20" y="150">
+					<e:Image width="600" height="130" x="0" y="0" source="v1_img_kelashen6_png" scale9Grid="15,9,70,82"/>
+					<e:Image width="600" height="128" x="0" y="0" source="v1_img_kelashen6_b_png" scale9Grid="43,2,264,14"/>
+					<e:Image width="108" height="108" x="12" y="12" source="v1_img_touxiangkuangzi_png"/>
+					<e:Image width="96" height="96" x="17" y="17" source="i200141_5_png"/>
+					<e:Image width="20" height="20" x="110" y="8" source="v1_img_hongdiantishi_png"/>
+					<e:Image width="34" height="34" x="12" y="12" source="v1_img_gongjiang02_png"/>
+					<e:Label text="鲁智深" x="148" y="12" size="22"/>
+					<e:Label text="Lv.94" x="238" y="12" size="22"/>
+					<e:Label text="攻击" x="148" y="61" size="20"/>
+					<e:Label text="9999" x="208" y="61" size="20"/>
+					<e:Label text="防御" x="282" y="61" size="20"/>
+					<e:Label text="9999" x="342" y="61" size="20"/>
+					<e:Label text="兵力" x="148" y="94" size="20"/>
+					<components:Progress width="140" height="20" x="208" y="95" value="45" onStr="v1_bar_blue_3_png" onUStr="v1_bar_b1_png"/>
+					<e:Image width="34" height="34" x="362" y="87" source="v1_btn_increase_png"/>
+					<e:Image width="29" height="40" x="496" y="0" source="v2_img_xian_png"/>
+					<components:Button label="更换" x="438" y="61"/>
+				</e:Group>
+				<e:Group x="20" y="290">
+					<e:Image width="600" height="130" x="0" y="0" source="v1_img_kelashen6_png" scale9Grid="15,9,70,82"/>
+					<e:Image width="600" height="128" x="0" y="0" source="v1_img_kelashen6_b_png" scale9Grid="43,2,264,14"/>
+					<e:Image width="108" height="108" x="12" y="12" source="v1_img_touxiangkuangzi_png"/>
+					<e:Image width="96" height="96" x="17" y="17" source="i200141_5_png"/>
+					<e:Image width="20" height="20" x="110" y="8" source="v1_img_hongdiantishi_png"/>
+					<e:Image width="34" height="34" x="12" y="12" source="v1_img_gongjiang02_png"/>
+					<e:Label text="鲁智深" x="148" y="12" size="22"/>
+					<e:Label text="Lv.94" x="238" y="12" size="22"/>
+					<e:Label text="攻击" x="148" y="61" size="20"/>
+					<e:Label text="9999" x="208" y="61" size="20"/>
+					<e:Label text="防御" x="282" y="61" size="20"/>
+					<e:Label text="9999" x="342" y="61" size="20"/>
+					<e:Label text="兵力" x="148" y="94" size="20"/>
+					<components:Progress width="140" height="20" x="208" y="95" value="45" onStr="v1_bar_blue_3_png" onUStr="v1_bar_b1_png"/>
+					<e:Image width="34" height="34" x="362" y="87" source="v1_btn_increase_png"/>
+					<e:Image width="29" height="40" x="496" y="0" source="v2_img_xian_png"/>
+					<components:Button label="更换" x="438" y="61"/>
+				</e:Group>
+				<e:Group x="20" y="430">
+					<e:Image width="600" height="130" x="0" y="0" source="v1_img_kelashen6_png" scale9Grid="15,9,70,82"/>
+					<e:Image width="600" height="128" x="0" y="0" source="v1_img_kelashen6_b_png" scale9Grid="43,2,264,14"/>
+					<e:Image width="108" height="108" x="12" y="12" source="v1_img_touxiangkuangzi_png"/>
+					<e:Image width="96" height="96" x="17" y="17" source="i200141_5_png"/>
+					<e:Image width="20" height="20" x="110" y="8" source="v1_img_hongdiantishi_png"/>
+					<e:Image width="34" height="34" x="12" y="12" source="v1_img_gongjiang02_png"/>
+					<e:Label text="鲁智深" x="148" y="12" size="22"/>
+					<e:Label text="Lv.94" x="238" y="12" size="22"/>
+					<e:Label text="攻击" x="148" y="61" size="20"/>
+					<e:Label text="9999" x="208" y="61" size="20"/>
+					<e:Label text="防御" x="282" y="61" size="20"/>
+					<e:Label text="9999" x="342" y="61" size="20"/>
+					<e:Label text="兵力" x="148" y="94" size="20"/>
+					<components:Progress width="140" height="20" x="208" y="95" value="45" onStr="v1_bar_blue_3_png" onUStr="v1_bar_b1_png"/>
+					<e:Image width="34" height="34" x="362" y="87" source="v1_btn_increase_png"/>
+					<e:Image width="29" height="40" x="496" y="0" source="v2_img_xian_png"/>
+					<components:Button label="更换" x="438" y="61"/>
+				</e:Group>
+			</e:Group>
+		</e:ViewStack>
+	</components:PanelView>
+</e:Skin>

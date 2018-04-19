@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.PanelSkin" minHeight="230" minWidth="450" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing" width="640" height="1280">
+    <e:Image  scale9Grid="2,2,12,12"  width="640" height="1280" source="{bgImg}"/>
+    <e:Group width="100%">
+        <e:Image  source="v1_img_title_png"/>
+			<e:Image id="iconDisplay" top="25" horizontalCenter="0" source=""/>
+        <e:Label size="26" fontFamily="Microsoft YaHei" textColor="0xFFFFFF"
+                 wordWrap="false" text="{title}" horizontalCenter="0" verticalCenter="0"/>
+    </e:Group>
+	<components:Button id="btnHelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+	<components:Button id="closeButton" label="" top="0" right="0" bgStr="{closeImg}" skinName="skins.ButtonASkin"/>
+</e:Skin>
+

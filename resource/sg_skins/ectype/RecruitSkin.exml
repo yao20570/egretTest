@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RecruitSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick skinName="BgImgSkin" horizontalCenter="0" width="640" height="100%">
+		<e:Group horizontalCenter="0" verticalCenter="0" x="40" y="171" scaleX="1" scaleY="1">
+			<e:Image source="v2_bg_popup_b_png" width="560" height="150" y="645"/>
+			<e:Image source="v2_bg_popup_a_png" width="560" height="650" scale9Grid="37,53,226,166"/>
+			<e:Label text="武将招募" top="24" horizontalCenter="0" fontFamily="黑体"/>
+			<e:Label text="招募可得程咬金或关羽" y="108.03" fontFamily="黑体" size="20" lineSpacing="5" horizontalCenter="0" textColor="0xC6C7DA"/>
+			<e:Group y="10" right="0" width="75" height="48" id="closeGroup">
+				<components:Button id="closeBtn" skinName="skins.ButtonASkin" bgStr="v1_btn_close_png" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<components:Button id="freeRecruil" label="免费招募" skinName="skins.ButtonSkin" bottom="45" horizontalCenter="0"/>
+			<e:DataGroup id="heroData" y="180" itemRendererSkinName="HeroItemSkin" horizontalCenter="0">
+			<e:layout>
+				<e:HorizontalLayout/>
+			</e:layout>
+			<e:ArrayCollection>
+				<e:Array>
+				<e:Object null=""/>
+				<e:Object null=""/>
+				</e:Array>
+			</e:ArrayCollection>
+			</e:DataGroup>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

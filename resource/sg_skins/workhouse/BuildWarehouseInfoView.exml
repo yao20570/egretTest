@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuildWarehouseInfoView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView y="0" x="0" skinName="skins.PanelSkin" title="仓库">
+		<e:Image x="0" y="67.56" source="v1_img_ck_jpg"/>
+		<components:Button id="btnhelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+		<e:Group width="640" height="50" x="0" y="281.24">
+		<e:Image x="0" y="0" source="v1_img_xiaobiaoti2_png" scale9Grid="93,15,233,19" width="640"/>
+		<e:Label id="protect" text="每种资源保护量：" x="30" size="20" fontFamily="黑体" verticalCenter="0"/>
+			<e:Label id="protectNum" text="120K" x="188" y="15" size="20" fontFamily="黑体"/>
+			<e:Label text="可被掠夺总览：" x="424" size="20" fontFamily="黑体" verticalCenter="0" id="protect0"/>
+			<e:Label text="120K" x="558" y="15" size="20" id="protectNum0" fontFamily="黑体"/>
+		</e:Group>
+		<e:Group width="640" height="440" x="0" y="331">
+		<e:Group id="silver" width="640" height="110" x="0" y="0" anchorOffsetY="0">
+			<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+			<e:Image width="84" height="84" x="20" y="13" source="i3_png"/>
+			<e:Label text="银币（已建造：0）" x="120" y="20" size="20" fontFamily="黑体" textColor="0x3b94bf"/>
+			<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="silverYield" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="silverRise" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+			<components:Button label="" x="546" bgStr="v1_btn_increase2_png" bgGrayStr="v1_btn_increase2_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+			<e:Image id="line0" width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2"/>
+			<e:Label text="可被掠夺" x="402" y="20" size="20" fontFamily="黑体" textColor="0xe89a1b"/>
+		</e:Group>
+		<e:Group id="wood0" width="640" height="110" x="0" y="110" anchorOffsetY="0">
+			<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+			<e:Image width="84" height="84" x="20" y="13" source="i4_png"/>
+			<e:Label text="木材（已建造：0）" x="119" y="20" size="20" fontFamily="黑体" textColor="0x3b94bf"/>
+			<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="woodYield0" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="woodRise0" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+			<components:Button label="" x="546" bgStr="v1_btn_increase2_png" bgGrayStr="v1_btn_increase2_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+			<e:Image width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2" scaleX="1" scaleY="1"/>
+			<e:Label text="可被掠夺" x="402" y="20" size="20" fontFamily="黑体" textColor="0xE89A1B"/>
+		</e:Group>
+		<e:Group id="cereal0" width="640" height="110" x="0" y="220" anchorOffsetY="0">
+			<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+			<e:Image width="84" height="84" x="20" y="13" source="i2_png"/>
+			<e:Label text="粮食（已建造：0）" x="119" y="20" size="20" fontFamily="黑体" textColor="0x3b94bf"/>
+			<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="cerealYield0" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="cerealRise0" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+			<components:Button label="" x="546" bgStr="v1_btn_increase2_png" bgGrayStr="v1_btn_increase2_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+			<e:Image width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2" scaleX="1" scaleY="1"/>
+			<e:Label text="可被掠夺" x="402" y="20" size="20" fontFamily="黑体" textColor="0xE89A1B"/>
+		</e:Group>
+		<e:Group id="iron0" width="640" height="110" x="0" y="330" anchorOffsetY="0">
+			<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+			<e:Image width="84" height="84" x="20" y="13" source="i5_png"/>
+			<e:Label text="铁矿（已建造：0）" x="119" y="20" size="20" fontFamily="黑体" textColor="0x3b94bf"/>
+			<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="ironYield0" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="ironRise0" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+			<components:Button label="" x="546" bgStr="v1_btn_increase2_png" bgGrayStr="v1_btn_increase2_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+			<e:Image width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2" scaleX="1" scaleY="1"/>
+			<e:Label text="无法掠夺" x="402" y="20" size="20" fontFamily="黑体" textColor="0xd8d6d4"/>
+		</e:Group>
+		</e:Group>
+		<e:Group width="640" height="200" x="0" y="827">
+		<e:Image source="v2_img_jinduyanjiudi_png" scale9Grid="143,25,363,23" height="200" locked="true"/>
+		<e:Image x="319.22" y="0" source="v2_line_wujiang_png" height="200"/>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroImageSkin" width="640" height="515" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="_hero_part1"/>
+	<e:Image id="_hero_part2"/>
+	<e:Image id="_hero_part3"/>
+	<e:Image id="_hero_part4"/>
+	<e:Image id="_hero_part5"/>
+	<e:Image id="_hero_part6"/>
+	<e:Image id="_hero_part7"/>
+	<e:Image id="_hero_part8"/>
+	<e:Image id="_hero_part9"/>
+</e:Skin>

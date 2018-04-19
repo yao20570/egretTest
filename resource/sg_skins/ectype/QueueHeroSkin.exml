@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="QueueHeroSkin" currentState="main" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing"  states="main,basic" >
+	<e:Group>
+		<e:Image source="v1_img_touxiangkuanghui_png"/>
+		<e:Image x="0" y="0" source="v1_img_qibing02b_png"/>
+		<e:Rect width="106" height="106" ellipseWidth="20" visible="false"/>
+		<components:Progress width="100" y="110" onStr="v1_bar_blue_1_png" onUStr="v1_bar_b1_png" value="50" horizontalCenter="0"/>
+		<e:Label text="武则天 Lv.99" y="135.03" fontFamily="黑体" size="18" lineSpacing="5" horizontalCenter="0"/>
+		<components:Button label="更换" y="162" scaleX="0.7" scaleY="0.7" horizontalCenter="0" visible.main="false"/>
+	</e:Group>
+</e:Skin>

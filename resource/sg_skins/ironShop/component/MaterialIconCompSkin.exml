@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MaterialIconCompSkin" width="88" height="150" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="img_line" width="50" height="4" x="44" y="44" source="v2_line_tiejiangpu_png" scale9Grid="1,0,13,4" anchorOffsetY="2"/>
+	<e:Group id="group_icon" width="88" height="88" x="0" y="0"/>
+	<e:Label id="txt_name" text="Label" x="0" y="90" size="20" width="88" textAlign="center"/>
+</e:Skin>

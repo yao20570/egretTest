@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "type": 1,
+        "num": 1,
+        "icon": "v1_btn_zbrw",
+        "describe": "攻下任意1座据点",
+        "dropid": 50623,
+        "state": 0,
+        "linked": "102"
+    },
+    {
+        "id": 2,
+        "type": 2,
+        "num": 20,
+        "icon": "v1_btn_ljrw",
+        "describe": "消灭20个乱军",
+        "dropid": 50623,
+        "state": 0,
+        "linked": "102"
+    },
+    {
+        "id": 3,
+        "type": 1,
+        "num": 1,
+        "icon": "v1_btn_zbrw",
+        "describe": "攻下任意1座据点",
+        "dropid": 50624,
+        "state": 1,
+        "linked": "102"
+    },
+    {
+        "id": 4,
+        "type": 2,
+        "num": 15,
+        "icon": "v1_btn_ljrw",
+        "describe": "消灭15个乱军",
+        "dropid": 50624,
+        "state": 1,
+        "linked": "102"
+    },
+    {
+        "id": 5,
+        "type": 1,
+        "num": 1,
+        "icon": "v1_btn_zbrw",
+        "describe": "攻下任意1座据点",
+        "dropid": 50625,
+        "state": 2,
+        "linked": "102"
+    },
+    {
+        "id": 6,
+        "type": 2,
+        "num": 10,
+        "icon": "v1_btn_ljrw",
+        "describe": "消灭10个乱军",
+        "dropid": 50625,
+        "state": 2,
+        "linked": "102"
+    }
+]

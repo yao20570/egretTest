@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="HelpBtnRenderSkin" states="up,down" xmlns:e="http://ns.egret.com/eui" width="120" height="64">
+    <e:Image width="100%" height="100%"                           source="v1_btn_biaoqian4_png" source.down="v1_btn_selected_biaoqian4_png" source.up="v1_btn_biaoqian4_png" scale9Grid="9,5,100,60" scale9Grid.up="9,5,100,60" scale9Grid.down="9,5,100,60" width.down="116"/>
+    <e:Label id="labelDisplay"
+             size="22" fontFamily="Arial"
+             textColor="0xFFFFFF" verticalAlign="middle" textAlign="center" text="{data.name}" horizontalCenter="0" verticalCenter="0.5"/>
+	<e:Image width="10" includeIn="down" height="58" source="v1_btn_selected_biaoqian4b_png" verticalCenter="0" x="112"/>
+</e:Skin>

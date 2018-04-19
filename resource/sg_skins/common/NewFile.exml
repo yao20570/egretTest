@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="640" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<components:SwitchTabBar x="86" y="425.15" itemRendererSkinName="skins.TabBarSkin">
+		<e:ArrayCollection>
+			<e:Array>
+				<e:Object name="商品" upStr="v1_btn_blue1_png" downStr="v1_btn_blue2_png"/>
+				<e:Object name="null" upStr="v1_btn_blue1_png" downStr="v1_btn_blue2_png"/>
+				<e:Object name="null" upStr="v1_btn_blue1_png" downStr="v1_btn_blue2_png"/>
+			</e:Array>
+		</e:ArrayCollection>
+	</components:SwitchTabBar>
+	<components:Progress y="510" horizontalCenter="0" onUStr="v1_bar_b_jz_png" onStr="v1_bar_blue_6_png" value="50"/>
+	<components:RadioBtn label="单选1" x="17" y="270" onUStr="radiobutton_select_down_png" onStr="radiobutton_select_up_png" groupName="radio1"/>
+	<components:RadioBtn label="单选2" x="17" y="309" onUStr="radiobutton_select_down_png" onStr="radiobutton_select_up_png" groupName="radio1"/>
+	<components:CheckBoxElect label="复选1" x="17" y="228" baseStr="checkbox_unselect_png" selStr="checkbox_select_up_png"/>
+	<components:CheckBoxElect label="复选2" x="161" y="228" baseStr="checkbox_unselect_png" selStr="checkbox_select_up_png"/>
+	<components:ToggleSwitchCut label="ToggleButton" x="53.5" y="85.88"/>
+	<components:ToggleSwitchCut label="ToggleButton" x="229" y="358"/>
+	<components:CheckBoxElect label="CheckBox" x="387" y="331"/>
+	<components:PanelView x="501.5" y="43.6" title="表題" scaleX="0.2" scaleY="0.2" skinName="skins.PanelSkin"/>
+	<components:BgImgClick skinName="BgImgSkin" visible="false"/>
+	<components:Button label="Button" x="446" y="353" touchEnabled="true"/>
+	<components:Button label="Button" x="277" y="252"/>
+	<components:Button label="" x="387" y="161" skinName="skins.ButtonASkin" bgStr="v1_weijiesuo_fb_png"/>
+	<components:Button label="Button" x="153" y="54"/>
+	<components:CheckBoxElect label="CheckBox" x="169" y="169"/>
+</e:Skin>

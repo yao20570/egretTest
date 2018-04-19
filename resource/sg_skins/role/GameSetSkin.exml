@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSetSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*">
+	<components:PanelView width="100%" height="100%" x="0" y="0" closeImg="v1_btn_closebig_png" title="系统设置" skinName="skins.PanelSkin">
+		<e:Group x="0" y="78" width="100%" height="94%">
+			<e:Group width="100%" x="0" y="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+				<components:Button label="游戏设置" x="164" y="246" skinName="skins.ButtonSkin" bgStr="v1_btn_biaoqian4_png" height="64" width="250"/>
+				<components:Button label="游戏帮助" x="164" y="246" skinName="skins.ButtonSkin" bgStr="v1_btn_biaoqian4_png" width="250" height="64"/>
+				<components:Button label="联系客服" x="174" y="256" skinName="skins.ButtonSkin" bgStr="v1_btn_biaoqian4_png" width="250" height="64"/>
+				<components:Button label="礼包兑换" x="184" y="266" skinName="skins.ButtonSkin" bgStr="v1_btn_biaoqian4_png" width="250" height="64"/>
+				<components:Button label="切换服务器" x="194" y="276" skinName="skins.ButtonSkin" bgStr="v1_btn_biaoqian4_png" width="250" height="64"/>
+				<components:Button label="切换账号" x="204" y="286" skinName="skins.ButtonSkin" bgStr="v1_btn_biaoqian4_png" width="250" height="64"/>
+				<components:Button label="最新公告" x="214" y="296" skinName="skins.ButtonSkin" bgStr="v1_btn_biaoqian4_png" width="250" height="64"/>
+				<e:layout>
+				<e:TileLayout horizontalAlign="center" rowAlign="top" columnAlign="justifyUsingGap" paddingLeft="50" paddingRight="50" paddingTop="60" horizontalGap="6" verticalGap="30" orientation="rows"/>
+				</e:layout>
+			</e:Group>
+			<e:Group scaleX="1" scaleY="1" width="100%" x="0" bottom="20">
+				<e:Label text="当前服:" x="50" y="0" size="22" scaleX="1" scaleY="1"/>
+				<e:Label text="游戏ID:" x="50" y="42" size="22" scaleX="1" scaleY="1"/>
+				<e:Label text="当前版本:" x="340" y="42" size="22" scaleX="1" scaleY="1"/>
+			</e:Group>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

@@ -1,0 +1,12 @@
+{"file":"FightHurtAtlas.png","frames":{
+"1":{"x":44,"y":34,"w":20,"h":31,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"2":{"x":66,"y":34,"w":20,"h":31,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"3":{"x":66,"y":0,"w":20,"h":32,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"4":{"x":22,"y":0,"w":20,"h":32,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"5":{"x":22,"y":34,"w":20,"h":32,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"6":{"x":44,"y":0,"w":20,"h":32,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"7":{"x":88,"y":34,"w":20,"h":31,"offX":0,"offY":1,"sourceW":20,"sourceH":32},
+"8":{"x":0,"y":0,"w":20,"h":32,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"9":{"x":88,"y":0,"w":20,"h":32,"offX":0,"offY":0,"sourceW":20,"sourceH":32},
+"-":{"x":44,"y":67,"w":20,"h":13,"offX":0,"offY":10,"sourceW":20,"sourceH":32},
+"0":{"x":0,"y":34,"w":20,"h":32,"offX":0,"offY":0,"sourceW":20,"sourceH":32}}}

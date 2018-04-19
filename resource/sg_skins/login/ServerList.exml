@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.ServerList" minHeight="230" minWidth="450" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:components="components.*" width="640" height="1136">
+	<e:Group x="0" y="0" width="640" height="1136">
+		<e:Image width="530" height="800" source="v2_img_fuwuliebiao_png" scale9Grid="51,128,427,163" x="55" y="94"/>
+		<e:Image width="148.99" height="33.32" x="243.58" y="218" source="v2_fonts_fuwuqiliebiao_png" rotation="0.27" anchorOffsetX="0" anchorOffsetY="0" fillMode="scale"/>
+		<components:Button id="closeGroup" label="" x="479.33" y="218" bgStr="v2_btn_guanbi_cf_png" anchorOffsetX="0" width="45" skinName="skins.ButtonSkin"/>
+		<components:SwitchTabBar id="BtnTabBar" anchorOffsetX="0" width="424" anchorOffsetY="0" x="106" top="259" selectedIndex="0" height="60" itemRendererSkinName="skins.TabBarSkin">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object name="我的服务器" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+					<e:Object name="选择服务器" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+				</e:Array>
+			</e:ArrayCollection>
+		</components:SwitchTabBar>
+		<e:Scroller id="scollerView" width="430" height="530" x="103" y="328" enabled="true" scrollPolicyV="on" scrollPolicyH="off">
+			<e:Group id="_sList" width="410" height="550"/>
+		</e:Scroller>
+		<e:Scroller id="scollerView2" width="430" height="530" x="103" y="328" scrollPolicyH="off" scrollPolicyV="on">
+			<e:Group id="_mysList" width="430" height="530">
+			</e:Group>
+		</e:Scroller>
+	</e:Group>
+</e:Skin>

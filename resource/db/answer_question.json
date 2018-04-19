@@ -1,0 +1,5298 @@
+[
+    {
+        "id": 1,
+        "question": "四大美女中有“落雁”之称的是？",
+        "answera": "西施",
+        "answerb": "貂蝉",
+        "answerc": "王昭君",
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "question": "“貌若潘安”中的潘安是哪个朝代的人？",
+        "answera": "东汉",
+        "answerb": "西汉",
+        "answerc": "西晋",
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "question": "唐代藩镇割据中藩镇长官的职务名称是？",
+        "answera": "藩王",
+        "answerb": "亲王",
+        "answerc": "节度使",
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "question": "起源于夏商周、晋、宋中原黄河流域中华饮食文化小吃是？",
+        "answera": "沙县小吃",
+        "answerb": "兰州拉面",
+        "answerc": "东北水饺",
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "question": "中国古代第一军事工程是？",
+        "answera": "长城",
+        "answerb": "故宫",
+        "answerc": "兵马俑",
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "question": "项羽的父亲是？",
+        "answera": "项超",
+        "answerb": "项少龙",
+        "answerc": "项籍",
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "question": "被称为武圣的历史人物是？",
+        "answera": "关羽",
+        "answerb": "关之琳",
+        "answerc": "关心妍",
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "question": "赵子龙是哪里人？",
+        "answera": "常山",
+        "answerb": "蜀山",
+        "answerc": "嵩山",
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "question": "东汉末年名将是以下哪一位？",
+        "answera": "吕布",
+        "answerb": "吕不韦",
+        "answerc": "吕洞宾",
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "question": "皇太后是皇帝的什么?",
+        "answera": "妈妈",
+        "answerb": "奶奶",
+        "answerc": "姑姑",
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "question": "中国古代驸马是指？",
+        "answera": "皇帝女婿",
+        "answerb": "赛马",
+        "answerc": "骑马",
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "question": "东汉末年分了多少个国家？",
+        "answera": "三国",
+        "answerb": "四国",
+        "answerc": "五国",
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "question": "唐太宗是指哪一位皇帝？",
+        "answera": "李自成",
+        "answerb": "李世民",
+        "answerc": "李治",
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "question": "唐代诗人李白的字是？",
+        "answera": "太白",
+        "answerb": "太极",
+        "answerc": "超白",
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "question": "战国时期著名刺客是？",
+        "answera": "荆轲",
+        "answerb": "李牧",
+        "answerc": "廉颇",
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "question": "清朝晚期的实际统治者是谁？",
+        "answera": "慈禧",
+        "answerb": "光绪",
+        "answerc": "溥仪",
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "question": "中国历史最后一个封建王朝是？",
+        "answera": "清朝",
+        "answerb": "明朝",
+        "answerc": "唐朝",
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "question": "康熙是哪一个朝代的皇帝？",
+        "answera": "清朝",
+        "answerb": "明朝",
+        "answerc": "唐朝",
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "question": "马克思主义的创始人之一是",
+        "answera": "马克思",
+        "answerb": "居里夫人",
+        "answerc": "斯大林",
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "question": "发明电灯的人是？",
+        "answera": "爱迪生",
+        "answerb": "牛顿",
+        "answerc": "达芬奇",
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "question": "以下哪个是我国的四大发明之一？",
+        "answera": "印刷术",
+        "answerb": "打印术",
+        "answerc": "结印术",
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "question": "约70到20万年前,生活在北京周口店龙骨山的洞穴里人是？",
+        "answera": "北京人",
+        "answerb": "洞穴人",
+        "answerc": "周口人",
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "question": "被尊为人文初祖的中国远古时期部落联盟首领是？",
+        "answera": "黄帝",
+        "answerb": "皇帝",
+        "answerc": "王帝",
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "question": "尧舜禹的时代,洪水泛滥成灾，谁奉命治水？",
+        "answera": "大禹",
+        "answerb": "大鱼",
+        "answerc": "大儒",
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "question": "商代的哪一种文字是刻在龟甲兽骨上的？",
+        "answera": "甲骨文",
+        "answerb": "猪骨文",
+        "answerc": "牛骨文",
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "question": "公元前770年,周平王将都城东迁,名为？",
+        "answera": "东周",
+        "answerb": "南周",
+        "answerc": "北周",
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "question": "春秋后期，吴国在谁的领导下打败了越国？",
+        "answera": "夫差",
+        "answerb": "父差",
+        "answerc": "大差",
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "question": "孔子享年多少岁？",
+        "answera": "37",
+        "answerb": "73",
+        "answerc": "13",
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "question": "“知彼知已,百战不殆”出自？",
+        "answera": "孙子兵法",
+        "answerb": "儿子兵法",
+        "answerc": "老子兵法",
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "question": "春秋战国后期第一个享有盛誉的名医是？",
+        "answera": "扁鹊",
+        "answerb": "喜鹊",
+        "answerc": "鹊巢",
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "question": "春秋战国时期的一场激烈的思想交锋是指？",
+        "answera": "百家争鸣",
+        "answerb": "百家哄抢",
+        "answerc": "百家讲坛",
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "question": "谁于公元前221 年统一了中国,建立了秦朝？",
+        "answera": "嬴政",
+        "answerb": "输政",
+        "answerc": "赢政",
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "question": "秦灭六国后,赢政称？",
+        "answera": "皇帝",
+        "answerb": "大帝",
+        "answerc": "帝皇",
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "question": "秦统一后,规定以下哪个为统一字体？",
+        "answera": "小篆",
+        "answerb": "中篆",
+        "answerc": "大篆",
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "question": "陈胜、吴广领导了一次声势浩大的？",
+        "answera": "农民起义",
+        "answerb": "民工起义",
+        "answerc": "矿工起义",
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "question": "西汉帝国的强大,使中原人通称为？",
+        "answera": "汉人",
+        "answerb": "汗人",
+        "answerc": "泪人",
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "question": "诸葛亮的妻子是？",
+        "answera": "王朗",
+        "answerb": "黄月英",
+        "answerc": "周瑜",
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "question": "中国书法的绝代佳作《兰亭序》是谁书写的？",
+        "answera": "王羲之",
+        "answerb": "周杰伦",
+        "answerc": "王献之",
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "question": "隋朝建了了什么制度沿袭了一千多年？",
+        "answera": "科举",
+        "answerb": "高考",
+        "answerc": "考研",
+        "answer": 1
+    },
+    {
+        "id": 40,
+        "question": "中国历史上最著名的石拱桥是？",
+        "answera": "赵州桥",
+        "answerb": "独木桥",
+        "answerc": "悬索桥",
+        "answer": 1
+    },
+    {
+        "id": 41,
+        "question": "一生对皇帝据理力谏达200多次的名臣是？",
+        "answera": "魏征",
+        "answerb": "魏延",
+        "answerc": "魏晨",
+        "answer": 1
+    },
+    {
+        "id": 42,
+        "question": "中国古代第一个国家政权是？",
+        "answera": "西周",
+        "answerb": "商",
+        "answerc": "夏",
+        "answer": 3
+    },
+    {
+        "id": 43,
+        "question": "西周分封制的核心内容是？",
+        "answera": "分封土地",
+        "answerb": "分封爵位",
+        "answerc": "规定义务",
+        "answer": 1
+    },
+    {
+        "id": 44,
+        "question": "青铜器铸造业进入繁荣时期是在？",
+        "answera": "夏朝",
+        "answerb": "商周时代",
+        "answerc": "春秋时期",
+        "answer": 2
+    },
+    {
+        "id": 45,
+        "question": "周武王的军队与商军主力展开决战的地点是？",
+        "answera": "阳城",
+        "answerb": "镐京",
+        "answerc": "牧野",
+        "answer": 3
+    },
+    {
+        "id": 46,
+        "question": "饵兵运动的发起国是？",
+        "answera": "中山",
+        "answerb": "宋",
+        "answerc": "郑",
+        "answer": 2
+    },
+    {
+        "id": 47,
+        "question": "初税亩的改革发生于？",
+        "answera": "燕",
+        "answerb": "齐",
+        "answerc": "鲁",
+        "answer": 3
+    },
+    {
+        "id": 48,
+        "question": "指挥长平之战的秦军将领是？",
+        "answera": "王翦",
+        "answerb": "白起",
+        "answerc": "内史腾",
+        "answer": 2
+    },
+    {
+        "id": 49,
+        "question": "以下不属于五经的是？",
+        "answera": "尚书",
+        "answerb": "乐经",
+        "answerc": "易经",
+        "answer": 2
+    },
+    {
+        "id": 50,
+        "question": "以下哪部属于《黄帝内经》？",
+        "answera": "素问",
+        "answerb": "名闻",
+        "answerc": "汤药",
+        "answer": 1
+    },
+    {
+        "id": 51,
+        "question": "三星堆遗址位于？",
+        "answera": "四川",
+        "answerb": "湖北",
+        "answerc": "河南",
+        "answer": 1
+    },
+    {
+        "id": 52,
+        "question": "商族的始祖是？",
+        "answera": "契",
+        "answerb": "邰",
+        "answerc": "稽",
+        "answer": 1
+    },
+    {
+        "id": 53,
+        "question": "甲骨文中有“王大令众人曰：劦田”的记载。众人指的是",
+        "answera": "奴隶",
+        "answerb": "农奴",
+        "answerc": "宦官",
+        "answer": 1
+    },
+    {
+        "id": 54,
+        "question": "放到现在，周成王应该如何称呼周公旦？",
+        "answera": "亚夫",
+        "answerb": "伯伯",
+        "answerc": "叔叔",
+        "answer": 3
+    },
+    {
+        "id": 55,
+        "question": "我国历史上第一个王朝的建立者是？",
+        "answera": "黄帝",
+        "answerb": "禹",
+        "answerc": "启",
+        "answer": 2
+    },
+    {
+        "id": 56,
+        "question": "下列古代制度中，在夏商时已不存在的是？",
+        "answera": "禅让制",
+        "answerb": "世袭制",
+        "answerc": "奴隶制",
+        "answer": 1
+    },
+    {
+        "id": 57,
+        "question": "在我国，首次制定赎刑是在哪个朝代？",
+        "answera": "夏朝",
+        "answerb": "商朝",
+        "answerc": "西周",
+        "answer": 1
+    },
+    {
+        "id": 58,
+        "question": "夏、商、周三代的法律用来命名的是?",
+        "answera": "刑",
+        "answerb": "法",
+        "answerc": "律",
+        "answer": 1
+    },
+    {
+        "id": 59,
+        "question": "下列发生在春秋时期的战争是：",
+        "answera": "长平之战",
+        "answerb": "城濮之战",
+        "answerc": "桂陵之战",
+        "answer": 2
+    },
+    {
+        "id": 60,
+        "question": "我国发明生铁冶炼技术是在哪个朝代？",
+        "answera": "商朝",
+        "answerb": "春秋后期",
+        "answerc": "西周",
+        "answer": 2
+    },
+    {
+        "id": 61,
+        "question": "都江堰是闻名世界的防洪灌溉工程，负责这一工程的是谁？",
+        "answera": "李冰",
+        "answerb": "郑国",
+        "answerc": "禹",
+        "answer": 1
+    },
+    {
+        "id": 62,
+        "question": "任用商鞅变法的君主是？",
+        "answera": "秦穆公",
+        "answerb": "秦始皇",
+        "answerc": "秦孝公",
+        "answer": 3
+    },
+    {
+        "id": 63,
+        "question": "最早制作漆器的国家是？",
+        "answera": "中国",
+        "answerb": "印度",
+        "answerc": "埃及",
+        "answer": 1
+    },
+    {
+        "id": 64,
+        "question": "春秋时期最早公布成文法的是？",
+        "answera": "晋国",
+        "answerb": "郑国",
+        "answerc": "楚国",
+        "answer": 2
+    },
+    {
+        "id": 65,
+        "question": "秦朝的最高司法审判机关叫？",
+        "answera": "大理寺",
+        "answerb": "廷行事",
+        "answerc": "廷尉",
+        "answer": 3
+    },
+    {
+        "id": 66,
+        "question": "以下哪个人物不是帮助汉高祖刘邦夺取江山的？",
+        "answera": "范增",
+        "answerb": "萧何",
+        "answerc": "韩信",
+        "answer": 1
+    },
+    {
+        "id": 67,
+        "question": "汉代是谁出使西域，从而促进了中外的交流？",
+        "answera": "张骞",
+        "answerb": "郑和",
+        "answerc": "李广利",
+        "answer": 1
+    },
+    {
+        "id": 68,
+        "question": "汉代金屋藏娇的是哪位皇帝？",
+        "answera": "汉武帝",
+        "answerb": "汉景帝",
+        "answerc": "汉高祖",
+        "answer": 1
+    },
+    {
+        "id": 69,
+        "question": "三国时期被赋予医圣之名的是？",
+        "answera": "华佗",
+        "answerb": "张仲景",
+        "answerc": "何晏",
+        "answer": 2
+    },
+    {
+        "id": 70,
+        "question": "录囚制度始于？",
+        "answera": "战国",
+        "answerb": "汉",
+        "answerc": "晋",
+        "answer": 2
+    },
+    {
+        "id": 71,
+        "question": "最早规定“重罪十条”的法典是？",
+        "answera": "北齐律",
+        "answerb": "开皇律",
+        "answerc": "晋律",
+        "answer": 1
+    },
+    {
+        "id": 72,
+        "question": "汉朝把起诉称为？",
+        "answera": "“告劾”",
+        "answerb": "“告诉”",
+        "answerc": "“告发”",
+        "answer": 1
+    },
+    {
+        "id": 73,
+        "question": "两汉编户纳税服役多少主要依据？",
+        "answera": "人口多少",
+        "answerb": "身份高低",
+        "answerc": "资产多少",
+        "answer": 3
+    },
+    {
+        "id": 74,
+        "question": "以下属于西汉创设的制度是?",
+        "answera": "什伍连坐",
+        "answerb": "郡县行政",
+        "answerc": "刺史监察",
+        "answer": 3
+    },
+    {
+        "id": 75,
+        "question": "《酒狂》是三国时期哪个作家的著作？",
+        "answera": "阮籍",
+        "answerb": "曹操",
+        "answerc": "钟会",
+        "answer": 1
+    },
+    {
+        "id": 76,
+        "question": "汉朝的第一个开国皇帝是？",
+        "answera": "李自成",
+        "answerb": "李治",
+        "answerc": "刘邦",
+        "answer": 3
+    },
+    {
+        "id": 77,
+        "question": "汉景帝是以下哪位的儿子？",
+        "answera": "窦太后",
+        "answerb": "梅妃",
+        "answerc": "班婕纾",
+        "answer": 1
+    },
+    {
+        "id": 78,
+        "question": "三国中的吕布使用的兵器是？",
+        "answera": "方天画戟",
+        "answerb": "青龙偃月刀",
+        "answerc": "双股剑",
+        "answer": 1
+    },
+    {
+        "id": 79,
+        "question": "“家家丰足，仓库盈溢”的景象主要出现在三国时期的？",
+        "answera": "魏国",
+        "answerb": "蜀国",
+        "answerc": "吴国",
+        "answer": 1
+    },
+    {
+        "id": 80,
+        "question": "官渡之战中，曹操取胜的主要原因是？",
+        "answera": "兵精粮足",
+        "answerb": "战术得当",
+        "answerc": "政治优势",
+        "answer": 2
+    },
+    {
+        "id": 81,
+        "question": "汉武帝是汉朝的第几代皇帝？",
+        "answera": "3",
+        "answerb": "4",
+        "answerc": "5",
+        "answer": 3
+    },
+    {
+        "id": 82,
+        "question": "七国之乱是以谁为首发动的？",
+        "answera": "吴王",
+        "answerb": "楚王",
+        "answerc": "赵王",
+        "answer": 1
+    },
+    {
+        "id": 83,
+        "question": "以下哪个不是三国时期的美女？",
+        "answera": "大乔",
+        "answerb": "小乔",
+        "answerc": "赵飞燕",
+        "answer": 3
+    },
+    {
+        "id": 84,
+        "question": "从东晋南朝的古墓中，考古工作者发现的瓷器大多是？",
+        "answera": "白瓷",
+        "answerb": "黑瓷",
+        "answerc": "青瓷",
+        "answer": 3
+    },
+    {
+        "id": 85,
+        "question": "培育出一年内八次出茧的蚕新品种的是？",
+        "answera": "蜀汉",
+        "answerb": "东吴",
+        "answerc": "曹魏",
+        "answer": 2
+    },
+    {
+        "id": 86,
+        "question": "把生铁和熟铁合炼成钢的灌钢法是在？",
+        "answera": "西汉",
+        "answerb": "东汉",
+        "answerc": "魏晋南北朝",
+        "answer": 3
+    },
+    {
+        "id": 87,
+        "question": "绘制出《禹贡地域图》，提出绘制地图原则的是？",
+        "answera": "裴秀",
+        "answerb": "郦道元",
+        "answerc": "沈括",
+        "answer": 1
+    },
+    {
+        "id": 88,
+        "question": "东晋的都城是？",
+        "answera": "洛阳",
+        "answerb": "西安",
+        "answerc": "建康",
+        "answer": 3
+    },
+    {
+        "id": 89,
+        "question": "南朝中哪个朝代统治时间最短？",
+        "answera": "梁",
+        "answerb": "宋",
+        "answerc": "齐",
+        "answer": 3
+    },
+    {
+        "id": 90,
+        "question": "北朝的五个政权中，最先建立的是？",
+        "answera": "西魏",
+        "answerb": "东魏",
+        "answerc": "北魏",
+        "answer": 3
+    },
+    {
+        "id": 91,
+        "question": "书法成为一种艺术，是开始于？",
+        "answera": "西汉末年",
+        "answerb": "东汉末年",
+        "answerc": "三国时期",
+        "answer": 2
+    },
+    {
+        "id": 92,
+        "question": "隋唐时期，淮水以北新增的有利于农田灌溉的水利工程是？",
+        "answera": "郑国渠",
+        "answerb": "芍陂",
+        "answerc": "通济渠",
+        "answer": 3
+    },
+    {
+        "id": 93,
+        "question": "元朝时，黑龙江和乌苏里江流域归属于？",
+        "answera": "辽阳行省",
+        "answerb": "岭北行省",
+        "answerc": "黑龙江行省",
+        "answer": 1
+    },
+    {
+        "id": 94,
+        "question": "元朝统治者的姓氏为？",
+        "answera": "孛儿只斤",
+        "answerb": "爱新觉罗",
+        "answerc": "完颜",
+        "answer": 1
+    },
+    {
+        "id": 95,
+        "question": "中国历史上疆域最辽阔的朝代？",
+        "answera": "元",
+        "answerb": "清",
+        "answerc": "唐",
+        "answer": 1
+    },
+    {
+        "id": 96,
+        "question": "以下几个朝代，最先为蒙古所灭的是？",
+        "answera": "西夏",
+        "answerb": "辽",
+        "answerc": "金",
+        "answer": 1
+    },
+    {
+        "id": 97,
+        "question": "中国历史上第一个少数民族建立的全国性王朝？",
+        "answera": "元",
+        "answerb": "金",
+        "answerc": "辽",
+        "answer": 1
+    },
+    {
+        "id": 98,
+        "question": "《富春山居图》是哪位大家的作品？",
+        "answera": "黄公望",
+        "answerb": "王蒙",
+        "answerc": "倪瓒",
+        "answer": 1
+    },
+    {
+        "id": 99,
+        "question": "向朱元璋建议“高筑墙，广积粮，缓称王”的谋士是？",
+        "answera": "李善长",
+        "answerb": "刘基",
+        "answerc": "朱升",
+        "answer": 3
+    },
+    {
+        "id": 100,
+        "question": "下列王朝，不曾设置丞相的是？",
+        "answera": "清",
+        "answerb": "明",
+        "answerc": "汉",
+        "answer": 1
+    },
+    {
+        "id": 101,
+        "question": "为适应国外客户的需要，烧制了带有阿拉伯文和梵文装饰图案瓷器的是？",
+        "answera": "唐代",
+        "answerb": "元代",
+        "answerc": "明代",
+        "answer": 3
+    },
+    {
+        "id": 102,
+        "question": "明代宦官控制的机构有哪些?",
+        "answera": "内阁",
+        "answerb": "锦衣卫",
+        "answerc": "东厂",
+        "answer": 3
+    },
+    {
+        "id": 103,
+        "question": "于谦被哪位皇帝所杀？",
+        "answera": "明英宗",
+        "answerb": "明孝宗",
+        "answerc": "明武宗",
+        "answer": 1
+    },
+    {
+        "id": 104,
+        "question": "明朝历史上唯一一位只有一位后宫的皇帝是谁？",
+        "answera": "明英宗",
+        "answerb": "明孝宗",
+        "answerc": "明武宗",
+        "answer": 2
+    },
+    {
+        "id": 105,
+        "question": "明朝历史上使用年号最长年号使用了多少年？",
+        "answera": "43",
+        "answerb": "44",
+        "answerc": "48",
+        "answer": 3
+    },
+    {
+        "id": 106,
+        "question": "明成祖时期，设立的特务机构是？",
+        "answera": "锦衣卫",
+        "answerb": "东厂",
+        "answerc": "西厂",
+        "answer": 2
+    },
+    {
+        "id": 107,
+        "question": "明朝时，掌管地方的是？",
+        "answera": "行中书省",
+        "answerb": "中书省",
+        "answerc": "三司",
+        "answer": 3
+    },
+    {
+        "id": 108,
+        "question": "朱元璋建立明朝时，将都城建在？",
+        "answera": "西安",
+        "answerb": "北京",
+        "answerc": "南京",
+        "answer": 3
+    },
+    {
+        "id": 109,
+        "question": "明朝科举试卷的命题范围是？",
+        "answera": "程朱理学",
+        "answerb": "四书五经",
+        "answerc": "诸子百家",
+        "answer": 2
+    },
+    {
+        "id": 110,
+        "question": "明朝科举考试与隋唐初创时的主要不同点是？",
+        "answera": "目的",
+        "answerb": "性质",
+        "answerc": "内容",
+        "answer": 1
+    },
+    {
+        "id": 111,
+        "question": "被明朝封为顺义王的俺答汗是下列哪部的首领？",
+        "answera": "兀良哈",
+        "answerb": "鞑靼",
+        "answerc": "瓦剌",
+        "answer": 2
+    },
+    {
+        "id": 112,
+        "question": "清代小说家蒲松龄字留仙，号是？",
+        "answera": "剑臣",
+        "answerb": "柳泉居士",
+        "answerc": "梦阮",
+        "answer": 2
+    },
+    {
+        "id": 113,
+        "question": "请问“人是万物的尺度”是哪位先贤的主张？",
+        "answera": "普罗塔格拉",
+        "answerb": "特拉斯",
+        "answerc": "毕达哥拉斯",
+        "answer": 1
+    },
+    {
+        "id": 114,
+        "question": "“两袖清风”指的是以下哪个人?",
+        "answera": "郭德纲",
+        "answerb": "海瑞",
+        "answerc": "于谦",
+        "answer": 3
+    },
+    {
+        "id": 115,
+        "question": "隋唐时，中印交流促进了双方文化的发展。下列人物中为此做出了重大贡献的是?",
+        "answera": "甘英",
+        "answerb": "玄奘",
+        "answerc": "一行",
+        "answer": 2
+    },
+    {
+        "id": 116,
+        "question": "在中国古代“家国一体”的社会中，忠孝观念源远流长，其源头是?",
+        "answera": "宗法制",
+        "answerb": "郡县制",
+        "answerc": "君主专制",
+        "answer": 1
+    },
+    {
+        "id": 117,
+        "question": "“阳春白雪”是中国古典十大名曲之一，它是由何种乐器弹奏的？",
+        "answera": "琵琶",
+        "answerb": "琴",
+        "answerc": "筝",
+        "answer": 1
+    },
+    {
+        "id": 118,
+        "question": "下面不属于道教“三清”的是：",
+        "answera": "玄清",
+        "answerb": "太清",
+        "answerc": "玉清",
+        "answer": 1
+    },
+    {
+        "id": 119,
+        "question": "与白居易一起发起“新乐府运动”的是：",
+        "answera": "韩愈",
+        "answerb": "元稹",
+        "answerc": "刘禹锡",
+        "answer": 2
+    },
+    {
+        "id": 120,
+        "question": "古代的“六礼”不包括：",
+        "answera": "纳彩",
+        "answerb": "纳名",
+        "answerc": "纳吉",
+        "answer": 2
+    },
+    {
+        "id": 121,
+        "question": "中国古代乐曲“梅花三弄”表达了怎样的心境？",
+        "answera": "咏怀呤志",
+        "answerb": "游子思乡",
+        "answerc": "追求爱情",
+        "answer": 1
+    },
+    {
+        "id": 122,
+        "question": "清府首次发行的邮票“大龙票”，请推断邮票取名“大龙”的主要原因是:",
+        "answera": "皇室的象征",
+        "answerb": "龙有霸气",
+        "answerc": "皇帝审批",
+        "answer": 1
+    },
+    {
+        "id": 123,
+        "question": "“齐家，治国，平天下”原出自:",
+        "answera": "大学",
+        "answerb": "中庸",
+        "answerc": "论语",
+        "answer": 1
+    },
+    {
+        "id": 124,
+        "question": "象征着“天圆地方”圆形方孔钱币，这一钱币是:",
+        "answera": "三铢钱",
+        "answerb": "五铢钱",
+        "answerc": "半两钱",
+        "answer": 3
+    },
+    {
+        "id": 125,
+        "question": "“身是菩提树，心如明镜台”语出：",
+        "answera": "道信",
+        "answerb": "神秀",
+        "answerc": "弘忍",
+        "answer": 2
+    },
+    {
+        "id": 126,
+        "question": "“班禅额尔德尼”封号源于清朝哪一位皇帝的赐予?",
+        "answera": "顺治帝",
+        "answerb": "康熙帝",
+        "answerc": "雍正帝",
+        "answer": 2
+    },
+    {
+        "id": 127,
+        "question": "与爱因斯坦的理论有直接联系的科技成果是?",
+        "answera": "人造卫星",
+        "answerb": "原子弹",
+        "answerc": "晶体管",
+        "answer": 2
+    },
+    {
+        "id": 128,
+        "question": "被列宁誉为“11世纪的改革家”的历史人物是?",
+        "answera": "苏东坡",
+        "answerb": "司马光",
+        "answerc": "王安石",
+        "answer": 3
+    },
+    {
+        "id": 129,
+        "question": "中国文官制度确立于：",
+        "answera": "秦汉时期",
+        "answerb": "西周时期",
+        "answerc": "明清时期",
+        "answer": 1
+    },
+    {
+        "id": 130,
+        "question": "我国科举制度正式形成于",
+        "answera": "汉朝",
+        "answerb": "三国",
+        "answerc": "隋朝",
+        "answer": 3
+    },
+    {
+        "id": 131,
+        "question": "626年发动“玄武门之变”的是:",
+        "answera": "李渊",
+        "answerb": "李建成",
+        "answerc": "李世民",
+        "answer": 3
+    },
+    {
+        "id": 132,
+        "question": "唐太宗时期，先后进谏200多次的著名大臣是:",
+        "answera": "房玄龄",
+        "answerb": "魏征",
+        "answerc": "姚崇",
+        "answer": 2
+    },
+    {
+        "id": 133,
+        "question": "历史上把唐太宗统治时期称为:",
+        "answera": "贞观之治",
+        "answerb": "开元盛世",
+        "answerc": "开皇之治",
+        "answer": 1
+    },
+    {
+        "id": 134,
+        "question": "维吾尔族的祖先在唐玄宗时被称作:",
+        "answera": "突厥",
+        "answerb": "回纥",
+        "answerc": "回鹘",
+        "answer": 3
+    },
+    {
+        "id": 135,
+        "question": "唐朝的外国留学生中，人数最多的是:",
+        "answera": "新罗人",
+        "answerb": "高丽人",
+        "answerc": "日本人",
+        "answer": 1
+    },
+    {
+        "id": 136,
+        "question": "今天的印度半岛各国，唐朝时称为:",
+        "answera": "安息",
+        "answerb": "大秦",
+        "answerc": "天竺",
+        "answer": 3
+    },
+    {
+        "id": 137,
+        "question": "唐玄宗统治后期的年号是:",
+        "answera": "贞观",
+        "answerb": "开元",
+        "answerc": "天宝",
+        "answer": 3
+    },
+    {
+        "id": 138,
+        "question": "唐朝由强盛走向衰落的转折点是",
+        "answera": "任用奸臣",
+        "answerb": "藩镇割据",
+        "answerc": "安史之乱",
+        "answer": 3
+    },
+    {
+        "id": 139,
+        "question": "建于隋朝的建筑物是",
+        "answera": "赵州桥",
+        "answerb": "大雁塔",
+        "answerc": "大昭寺",
+        "answer": 1
+    },
+    {
+        "id": 140,
+        "question": "欧洲第一部由国家编定并颁布的药典比我国晚了",
+        "answera": "600年",
+        "answerb": "700年",
+        "answerc": "800年",
+        "answer": 3
+    },
+    {
+        "id": 141,
+        "question": "被后人尊称“诗圣”的唐朝诗人是",
+        "answera": "李白",
+        "answerb": "杜甫",
+        "answerc": "白居易",
+        "answer": 2
+    },
+    {
+        "id": 142,
+        "question": "《天王送子图》的作者是",
+        "answera": "吴道子",
+        "answerb": "阎立本",
+        "answerc": "颜真卿",
+        "answer": 1
+    },
+    {
+        "id": 143,
+        "question": "隋朝建立于",
+        "answera": "581年",
+        "answerb": "585年",
+        "answerc": "586年",
+        "answer": 1
+    },
+    {
+        "id": 144,
+        "question": "杜甫在《八阵图》《蜀相》和《咏怀古迹》诗中都写到同一个人，这个人是",
+        "answera": "诸葛亮",
+        "answerb": "刘备",
+        "answerc": "曹操",
+        "answer": 1
+    },
+    {
+        "id": 145,
+        "question": "岳飞《满江红》中，有“笑谈渴饮匈奴血”一句，其中“匈奴”是指",
+        "answera": "女真统治者",
+        "answerb": "西夏统治者",
+        "answerc": "蒙古统治者",
+        "answer": 1
+    },
+    {
+        "id": 146,
+        "question": "下列著作中属于语录体散文集的是",
+        "answera": "《史记》",
+        "answerb": "《战国策》",
+        "answerc": "《论语》",
+        "answer": 3
+    },
+    {
+        "id": 147,
+        "question": "标志着我国古代文学批评和文学理论发展最高峰的文学批评巨著是南朝文学理论家刘勰所著的",
+        "answera": "《典论论文》",
+        "answerb": "《文赋》",
+        "answerc": "《文心雕龙》",
+        "answer": 3
+    },
+    {
+        "id": 148,
+        "question": "史湘云是下列哪一部作品中的人物？",
+        "answera": "《西厢记》",
+        "answerb": "《水浒传》",
+        "answerc": "《红楼梦》",
+        "answer": 3
+    },
+    {
+        "id": 149,
+        "question": "“项庄舞剑，意在沛公”这个成语出自",
+        "answera": "《史记》",
+        "answerb": "《汉书》",
+        "answerc": "《后汉书》",
+        "answer": 1
+    },
+    {
+        "id": 150,
+        "question": "我国古代戏曲中的杰作《西厢记》的作者是",
+        "answera": "王实甫",
+        "answerb": "关汉卿",
+        "answerc": "白朴",
+        "answer": 1
+    },
+    {
+        "id": 151,
+        "question": "北宋词坛豪放派的代表作家是",
+        "answera": "欧阳修",
+        "answerb": "苏轼",
+        "answerc": "王安石",
+        "answer": 2
+    },
+    {
+        "id": 152,
+        "question": "被尊奉为华夏族祖先的人是",
+        "answera": "盘古",
+        "answerb": "女娲",
+        "answerc": "黄帝",
+        "answer": 3
+    },
+    {
+        "id": 153,
+        "question": "儒家学派创始人孔子的中心学说是",
+        "answera": "中庸之道",
+        "answerb": "“仁”",
+        "answerc": "“生而知之”",
+        "answer": 2
+    },
+    {
+        "id": 154,
+        "question": "道家学派在春秋时期与战国时期的代表人物分别是",
+        "answera": "老子和墨子",
+        "answerb": "老子和孟子",
+        "answerc": "老子和庄子",
+        "answer": 3
+    },
+    {
+        "id": 155,
+        "question": "建立历史上第一个大一统的封建帝国的人是",
+        "answera": "秦昭襄王",
+        "answerb": "秦始皇",
+        "answerc": "汉高祖",
+        "answer": 2
+    },
+    {
+        "id": 156,
+        "question": "我国最早的一段长城是谁下令修建的？",
+        "answera": "秦始皇",
+        "answerb": "赵武灵王",
+        "answerc": "秦穆公",
+        "answer": 2
+    },
+    {
+        "id": 157,
+        "question": "我国历史上第一个女皇帝是",
+        "answera": "吕雉",
+        "answerb": "北魏冯太后",
+        "answerc": "武则天",
+        "answer": 3
+    },
+    {
+        "id": 158,
+        "question": "下列作品属于编年体历史著作的是",
+        "answera": "《左传》",
+        "answerb": "《史记》",
+        "answerc": "《国语》",
+        "answer": 1
+    },
+    {
+        "id": 159,
+        "question": "杭州是我国七大古都之一，下列哪个朝代的都城在杭州？",
+        "answera": "东汉",
+        "answerb": "西汉",
+        "answerc": "南宋",
+        "answer": 3
+    },
+    {
+        "id": 160,
+        "question": "我国历史上最早、最完整的一部军事著作是",
+        "answera": "《孙膑兵法》",
+        "answerb": "《孙子兵法》",
+        "answerc": "《老子》",
+        "answer": 2
+    },
+    {
+        "id": 161,
+        "question": "最早设立“太学”培养人才的皇帝是",
+        "answera": "秦始皇",
+        "answerb": "汉高祖",
+        "answerc": "汉武帝",
+        "answer": 3
+    },
+    {
+        "id": 162,
+        "question": "关汉卿的代表作是",
+        "answera": "《窦娥冤》",
+        "answerb": "《琵琶记》",
+        "answerc": "《牡丹亭》",
+        "answer": 1
+    },
+    {
+        "id": 163,
+        "question": "下列哪部著作不列入“五经”？",
+        "answera": "《书经》",
+        "answerb": "《孝经》",
+        "answerc": "《礼记》",
+        "answer": 2
+    },
+    {
+        "id": 164,
+        "question": "“琴挑文君”这个典故的主人公是",
+        "answera": "司马迁",
+        "answerb": "司马相如",
+        "answerc": "司马光",
+        "answer": 2
+    },
+    {
+        "id": 165,
+        "question": "2008年在我国北京举办的奥运会是第几届夏季奥运会？",
+        "answera": "28",
+        "answerb": "29",
+        "answerc": "30",
+        "answer": 2
+    },
+    {
+        "id": 166,
+        "question": "提出“我爱我师,但我更爱真理”名言的哲学家是",
+        "answera": "苏格拉底",
+        "answerb": "柏拉图",
+        "answerc": "亚里士多德",
+        "answer": 3
+    },
+    {
+        "id": 167,
+        "question": "下列哪个皇帝在位期间大力灭佛",
+        "answera": "李亨",
+        "answerb": "李昂",
+        "answerc": "李炎",
+        "answer": 3
+    },
+    {
+        "id": 168,
+        "question": "现在的重庆市主城九区在唐时期属于哪个行政单位？",
+        "answera": "剑南道",
+        "answerb": "山南道",
+        "answerc": "江南道",
+        "answer": 2
+    },
+    {
+        "id": 169,
+        "question": "北宋大名府属于下列哪个军区？",
+        "answera": "河北东路",
+        "answerb": "河北西路",
+        "answerc": "京东西路",
+        "answer": 1
+    },
+    {
+        "id": 170,
+        "question": "宋朝时期，现在的那个省份不在北宋辖区",
+        "answera": "云南",
+        "answerb": "广东",
+        "answerc": "陕西",
+        "answer": 1
+    },
+    {
+        "id": 171,
+        "question": "黄道婆在哪个皇帝时期从海南学成返乡？",
+        "answera": "世祖",
+        "answerb": "成宗",
+        "answerc": "仁宗",
+        "answer": 2
+    },
+    {
+        "id": 172,
+        "question": "下列不是汉武帝妻妾的有？",
+        "answera": "赵勾弋",
+        "answerb": "邢娙娥",
+        "answerc": "王娡",
+        "answer": 3
+    },
+    {
+        "id": 173,
+        "question": "秦朝的中央机构实行什么制度？",
+        "answera": "三公九卿",
+        "answerb": "三省六部",
+        "answerc": "行省",
+        "answer": 1
+    },
+    {
+        "id": 174,
+        "question": "宋初以杨亿为代表的重要文学流派和风格是？",
+        "answera": "白体",
+        "answerb": "晚唐体",
+        "answerc": "西昆体",
+        "answer": 3
+    },
+    {
+        "id": 175,
+        "question": "严羽《沧浪诗话》提出的著名诗论观点是？",
+        "answera": "以俗为雅",
+        "answerb": "别材别趣",
+        "answerc": "点铁成金",
+        "answer": 2
+    },
+    {
+        "id": 176,
+        "question": "宋代文学的主调是？",
+        "answera": "浪漫主义",
+        "answerb": "现实主义",
+        "answerc": "爱国主义",
+        "answer": 2
+    },
+    {
+        "id": 177,
+        "question": "被后人评为“疏隽开子瞻，深婉开少游”的北宋作家是？",
+        "answera": "晏殊",
+        "answerb": "欧阳修",
+        "answerc": "柳永",
+        "answer": 2
+    },
+    {
+        "id": 178,
+        "question": "姜夔白石词所创立的词派是？",
+        "answera": "清雅词派",
+        "answerb": "清雅词派",
+        "answerc": "咏物词派",
+        "answer": 1
+    },
+    {
+        "id": 179,
+        "question": "秦观词作内容绝大多数是？",
+        "answera": "儿女柔情",
+        "answerb": "羁旅行役",
+        "answerc": "家国兴亡",
+        "answer": 1
+    },
+    {
+        "id": 180,
+        "question": "“永嘉四灵”是指当时生长在浙江永嘉的诗人，其中包括下列哪位诗人？",
+        "answera": "徐照",
+        "answerb": "徐渭",
+        "answerc": "王沂孙",
+        "answer": 1
+    },
+    {
+        "id": 181,
+        "question": "妇女缠足的陋习从哪个朝代开始？",
+        "answera": "宋代",
+        "answerb": "明代",
+        "answerc": "汉代",
+        "answer": 1
+    },
+    {
+        "id": 182,
+        "question": "宋朝民俗节日很多，其中哪个最受重视？",
+        "answera": "春节",
+        "answerb": "重阳节",
+        "answerc": "清明节",
+        "answer": 1
+    },
+    {
+        "id": 183,
+        "question": "宋代的代表性刑罚是？",
+        "answera": "刺配",
+        "answerb": "五马分尸",
+        "answerc": "凌迟",
+        "answer": 1
+    },
+    {
+        "id": 184,
+        "question": "北宋前期,创作慢词较多的词人是？",
+        "answera": "欧阳修",
+        "answerb": "张先",
+        "answerc": "柳永",
+        "answer": 3
+    },
+    {
+        "id": 185,
+        "question": "周邦彦的词集是？",
+        "answera": "《片玉词》",
+        "answerb": "《漱玉词》",
+        "answerc": "《珠玉词》",
+        "answer": 1
+    },
+    {
+        "id": 186,
+        "question": "天府之国，历来不乏文人墨客，下列文学家中，谁不是四川人？",
+        "answera": "苏轼",
+        "answerb": "司马相如",
+        "answerc": "杜甫",
+        "answer": 3
+    },
+    {
+        "id": 187,
+        "question": "下列文学家中，不属于“唐宋八大家”的是？",
+        "answera": "欧阳修",
+        "answerb": "王勃",
+        "answerc": "柳宗元",
+        "answer": 2
+    },
+    {
+        "id": 188,
+        "question": "“但愿人长久，千里共婵娟”，其中婵娟指的是什么？",
+        "answera": "月亮",
+        "answerb": "姻缘",
+        "answerc": "寿命",
+        "answer": 1
+    },
+    {
+        "id": 189,
+        "question": "李清照词中的'绿肥红瘦'描写的是什么季节的景色？",
+        "answera": "晚春",
+        "answerb": "仲夏",
+        "answerc": "初秋",
+        "answer": 1
+    },
+    {
+        "id": 190,
+        "question": "被赞为“诗中有画，画中有诗”的唐代诗人是？",
+        "answera": "孟浩然",
+        "answerb": "王勃",
+        "answerc": "王维",
+        "answer": 3
+    },
+    {
+        "id": 191,
+        "question": "提出“词别是一家”的作家是？",
+        "answera": "周邦彦",
+        "answerb": "辛弃疾",
+        "answerc": "李清照",
+        "answer": 3
+    },
+    {
+        "id": 192,
+        "question": "成吉思汗的功绩是？",
+        "answera": "灭亡西夏",
+        "answerb": "统一蒙古",
+        "answerc": "建立元朝",
+        "answer": 2
+    },
+    {
+        "id": 193,
+        "question": "“人生自古谁无死，留取丹心照汗青”是谁的诗句？",
+        "answera": "岳飞",
+        "answerb": "文天祥",
+        "answerc": "于谦",
+        "answer": 2
+    },
+    {
+        "id": 194,
+        "question": "自忽必烈定元朝国号起，共几年？",
+        "answera": "97",
+        "answerb": "98",
+        "answerc": "99",
+        "answer": 1
+    },
+    {
+        "id": 195,
+        "question": "元朝最早开始使用的活字印刷是？",
+        "answera": "铜活字",
+        "answerb": "泥活字",
+        "answerc": "锡活字",
+        "answer": 3
+    },
+    {
+        "id": 196,
+        "question": "最著名的元曲作家关汉卿，其代表作是？",
+        "answera": "长生殿",
+        "answerb": "窦娥冤",
+        "answerc": "桃花扇",
+        "answer": 2
+    },
+    {
+        "id": 197,
+        "question": "友谊的深浅，由下列那一个成语可以看出情义最为深重？",
+        "answera": "莫逆之交",
+        "answerb": "金兰之交",
+        "answerc": "刎颈之交",
+        "answer": 3
+    },
+    {
+        "id": 198,
+        "question": "“四羊方尊”是哪个朝代的文物？",
+        "answera": "周",
+        "answerb": "元",
+        "answerc": "商",
+        "answer": 3
+    },
+    {
+        "id": 199,
+        "question": "“天道有常，不为尧存，不为桀亡。”是百家中那位思想家的观点？",
+        "answera": "孟子",
+        "answerb": "韩非子",
+        "answerc": "荀子",
+        "answer": 3
+    },
+    {
+        "id": 200,
+        "question": "爵是一种典礼时用的酒器，那么爵有几只脚？",
+        "answera": "两只脚",
+        "answerb": "三只脚",
+        "answerc": "四只脚",
+        "answer": 2
+    },
+    {
+        "id": 201,
+        "question": "下列哪一个名称的由来与伍子胥有关？",
+        "answera": "月老",
+        "answerb": "千金小姐",
+        "answerc": "新郎",
+        "answer": 2
+    },
+    {
+        "id": 202,
+        "question": "下列不属于中医别称的的是？",
+        "answera": "杏林",
+        "answerb": "悬壶",
+        "answerc": "黄芪",
+        "answer": 3
+    },
+    {
+        "id": 203,
+        "question": "下列不属于“十三经”的是？",
+        "answera": "周易",
+        "answerb": "尚书",
+        "answerc": "史记",
+        "answer": 3
+    },
+    {
+        "id": 204,
+        "question": "“形存则神存，形谢则神灭”是由谁提出的？",
+        "answera": "范缜",
+        "answerb": "柳宗元",
+        "answerc": "周敦颐",
+        "answer": 1
+    },
+    {
+        "id": 205,
+        "question": "“西出阳关无故人”中的“阳关”位于现在哪个省？",
+        "answera": "新疆",
+        "answerb": "甘肃",
+        "answerc": "宁夏",
+        "answer": 2
+    },
+    {
+        "id": 206,
+        "question": "我国第一所创办国学研究机构的大学是？",
+        "answera": "北京大学",
+        "answerb": "清华大学",
+        "answerc": "厦门大学",
+        "answer": 1
+    },
+    {
+        "id": 207,
+        "question": "“文章合为时而著，歌诗合为事而作”是由谁提出的？",
+        "answera": "白居易",
+        "answerb": "柳宗元",
+        "answerc": "周敦颐",
+        "answer": 1
+    },
+    {
+        "id": 208,
+        "question": "“金声玉振”这个成语是说哪位才德兼备的名人？",
+        "answera": "孟子",
+        "answerb": "孔子",
+        "answerc": "庄子",
+        "answer": 2
+    },
+    {
+        "id": 209,
+        "question": "厦门大学校训“自强不息，止于至善”中的“止于至善”出自？",
+        "answera": "《论语》",
+        "answerb": "《诗经》",
+        "answerc": "《礼记》",
+        "answer": 3
+    },
+    {
+        "id": 210,
+        "question": "下面哪个不是《易传》的内容？",
+        "answera": "彖传",
+        "answerb": "穀梁传",
+        "answerc": "象传",
+        "answer": 2
+    },
+    {
+        "id": 211,
+        "question": "唐代著作《五经正义》出自以下谁人之手？",
+        "answera": "韩愈",
+        "answerb": "孙复",
+        "answerc": "孔颖达",
+        "answer": 3
+    },
+    {
+        "id": 212,
+        "question": "被世人称为“梅妻鹤子”的诗人是哪一位？",
+        "answera": "林逋",
+        "answerb": "梅尧臣",
+        "answerc": "苏舜钦",
+        "answer": 1
+    },
+    {
+        "id": 213,
+        "question": "我们通常所说的“韩孟诗派”中的孟是指？",
+        "answera": "孟郊",
+        "answerb": "孟浩然",
+        "answerc": "孟光",
+        "answer": 1
+    },
+    {
+        "id": 214,
+        "question": "“仓廪实则知礼节，衣食足则知荣辱”出自？",
+        "answera": "《管子》",
+        "answerb": "《孟子》",
+        "answerc": "《论语》",
+        "answer": 1
+    },
+    {
+        "id": 215,
+        "question": "黄老学派集大成著作：《淮南子》是以谁为首的一批黄老学派作者集体撰著的？",
+        "answera": "刘安",
+        "answerb": "董仲舒",
+        "answerc": "扬雄",
+        "answer": 1
+    },
+    {
+        "id": 216,
+        "question": "“四书”中不包括？",
+        "answera": "《大学》",
+        "answerb": "《尚书》",
+        "answerc": "《孟子》",
+        "answer": 2
+    },
+    {
+        "id": 217,
+        "question": "下列四个朝代中，时间最靠前的是？",
+        "answera": "北魏",
+        "answerb": "南唐",
+        "answerc": "西晋",
+        "answer": 3
+    },
+    {
+        "id": 218,
+        "question": "“静以修身，俭以养德”对我们提出修身养德的基本要求，这句话出自？",
+        "answera": "诸葛亮",
+        "answerb": "孔子",
+        "answerc": "欧阳修",
+        "answer": 1
+    },
+    {
+        "id": 219,
+        "question": "中国绘画历史悠久，源远流长，下列画家时代最早的是？",
+        "answera": "阎立本",
+        "answerb": "唐寅",
+        "answerc": "郑板桥",
+        "answer": 1
+    },
+    {
+        "id": 220,
+        "question": "田园诗派的开创者是？",
+        "answera": "谢灵运",
+        "answerb": "陶渊明",
+        "answerc": "王维",
+        "answer": 2
+    },
+    {
+        "id": 221,
+        "question": "先秦两汉时期成就最高、影响最大、通过人物描写来反映历史面貌的是？",
+        "answera": "《左传》",
+        "answerb": "《史记》",
+        "answerc": "《国语》",
+        "answer": 2
+    },
+    {
+        "id": 222,
+        "question": "《资治通鉴》是我国北宋年间何人主编的一部编年体的历史巨著？",
+        "answera": "王安石",
+        "answerb": "司马光",
+        "answerc": "欧阳修",
+        "answer": 2
+    },
+    {
+        "id": 223,
+        "question": "“爆竹声中一岁除，春风送暖入屠苏”，这里的“屠苏”指的是?",
+        "answera": "苏州",
+        "answerb": "房屋",
+        "answerc": "酒",
+        "answer": 3
+    },
+    {
+        "id": 224,
+        "question": "“月上柳梢头，人约黄昏后”描写的是哪个传统节日？",
+        "answera": "中秋节",
+        "answerb": "元宵节",
+        "answerc": "端午节",
+        "answer": 2
+    },
+    {
+        "id": 225,
+        "question": "《百家姓》中没有下面哪个姓？",
+        "answera": "乌",
+        "answerb": "巫",
+        "answerc": "肖",
+        "answer": 3
+    },
+    {
+        "id": 226,
+        "question": "古人的婚礼在什么时间举行？",
+        "answera": "早上",
+        "answerb": "中午",
+        "answerc": "傍晚",
+        "answer": 3
+    },
+    {
+        "id": 227,
+        "question": "在古代人们尊称对方的妻子？",
+        "answera": "令爱",
+        "answerb": "令正",
+        "answerc": "令尊",
+        "answer": 2
+    },
+    {
+        "id": 228,
+        "question": "梨园用来指代戏曲界，那么“杏林”指代的是？",
+        "answera": "教育界",
+        "answerb": "医学界",
+        "answerc": "文艺界",
+        "answer": 2
+    },
+    {
+        "id": 229,
+        "question": "下列哪个成语和“道听途说”一词意思更接近？",
+        "answera": "空穴来风",
+        "answerb": "三人成虎",
+        "answerc": "马马虎虎",
+        "answer": 2
+    },
+    {
+        "id": 230,
+        "question": "一部著作的完成需要很长的时间，请问下列哪部著作的成书时间最长？",
+        "answera": "徐霞客游记",
+        "answerb": "说文解字",
+        "answerc": "天工开物",
+        "answer": 1
+    },
+    {
+        "id": 231,
+        "question": "孔子提倡的中庸之道的理论基础是？",
+        "answera": "阴阳五行",
+        "answerb": "天人合一",
+        "answerc": "道法自然",
+        "answer": 2
+    },
+    {
+        "id": 232,
+        "question": "墨子的主要思想是“兼爱”，他所反对的“爱有差等”这一观点是哪家学派的?",
+        "answera": "儒家",
+        "answerb": "法家",
+        "answerc": "道家",
+        "answer": 1
+    },
+    {
+        "id": 233,
+        "question": "俗话说“化干戈为玉帛”，干、戈都是武器，其中哪个指的是防御武器？",
+        "answera": "干",
+        "answerb": "戈",
+        "answerc": "都不指",
+        "answer": 1
+    },
+    {
+        "id": 234,
+        "question": "古代战争中指挥军队撤退时要敲击？",
+        "answera": "鼓",
+        "answerb": "锣",
+        "answerc": "钟",
+        "answer": 2
+    },
+    {
+        "id": 235,
+        "question": "下列哪个成语与秦始皇有关?",
+        "answera": "指鹿为马",
+        "answerb": "奇货可居",
+        "answerc": "图穷匕见",
+        "answer": 3
+    },
+    {
+        "id": 236,
+        "question": "下列哪项不是端午节的习俗？",
+        "answera": "挂香包",
+        "answerb": "插艾蒿",
+        "answerc": "登高采菊",
+        "answer": 3
+    },
+    {
+        "id": 237,
+        "question": "“态生两靥之愁，娇袭一身之病”是宝玉对黛玉的第一印象，其中“靥”是指？",
+        "answera": "酒窝",
+        "answerb": "眼睛",
+        "answerc": "嘴角",
+        "answer": 1
+    },
+    {
+        "id": 238,
+        "question": "“水则载舟，水则覆舟”是谁的名言？",
+        "answera": "老子",
+        "answerb": "荀子",
+        "answerc": "庄子",
+        "answer": 2
+    },
+    {
+        "id": 239,
+        "question": "下面哪位诗人是“初唐四杰”之一？",
+        "answera": "王维",
+        "answerb": "王勃",
+        "answerc": "李白",
+        "answer": 2
+    },
+    {
+        "id": 240,
+        "question": "“词苑千载，群芳竞秀，盛开一枝女儿花”说的是哪位历史上的哪位才女？",
+        "answera": "朱淑真",
+        "answerb": "秦良玉",
+        "answerc": "李清照",
+        "answer": 3
+    },
+    {
+        "id": 241,
+        "question": "古人用“父母教，须敬听；父母责，须顺承”来劝谕人们要尊敬父母，这句话出自？",
+        "answera": "《弟子规》",
+        "answerb": "《三字经》",
+        "answerc": "《千字文》",
+        "answer": 1
+    },
+    {
+        "id": 242,
+        "question": "“入木三分”这个成语原本是用来形容什么的？",
+        "answera": "文章",
+        "answerb": "书法",
+        "answerc": "绘画",
+        "answer": 2
+    },
+    {
+        "id": 243,
+        "question": "河姆渡遗址位于？",
+        "answera": "黄河流域",
+        "answerb": "长江流域",
+        "answerc": "赣江流域",
+        "answer": 2
+    },
+    {
+        "id": 244,
+        "question": "《孙子兵法》的作者是？",
+        "answera": "孙武",
+        "answerb": "孙膑",
+        "answerc": "孙权",
+        "answer": 1
+    },
+    {
+        "id": 245,
+        "question": "“海上升明月，天涯共此时”是谁的名句？",
+        "answera": "王勃",
+        "answerb": "张九龄",
+        "answerc": "张若虚",
+        "answer": 2
+    },
+    {
+        "id": 246,
+        "question": "成语“机不可失”出自张九龄之笔，它的下句是？",
+        "answera": "时不再来",
+        "answerb": "失不再来",
+        "answerc": "时不在来",
+        "answer": 1
+    },
+    {
+        "id": 247,
+        "question": "陕西省一块著名的“无字碑”，它与哪位皇帝有关？",
+        "answera": "秦始皇",
+        "answerb": "武则天",
+        "answerc": "李世民",
+        "answer": 2
+    },
+    {
+        "id": 248,
+        "question": "西湖的白堤的得名与哪位诗人有关？",
+        "answera": "白居易",
+        "answerb": "李白",
+        "answerc": "王维",
+        "answer": 1
+    },
+    {
+        "id": 249,
+        "question": "孟子说：“不以规矩，不成方圆”，这里“规矩”的意思是？",
+        "answera": "法律条文",
+        "answerb": "美德善行",
+        "answerc": "圆规曲尺",
+        "answer": 3
+    },
+    {
+        "id": 250,
+        "question": "“一琴一鹤”所形容的是？",
+        "answera": "为政清简",
+        "answerb": "平安长春",
+        "answerc": "淡泊名利",
+        "answer": 1
+    },
+    {
+        "id": 251,
+        "question": "“夕阳无限好，只是近黄昏”是谁的诗句？",
+        "answera": "李商隐",
+        "answerb": "骆宾王",
+        "answerc": "李白",
+        "answer": 1
+    },
+    {
+        "id": 252,
+        "question": "《红楼梦》是我国古代著名的长篇小说之一，它的别名是？",
+        "answera": "《金陵记》",
+        "answerb": "《石头记》",
+        "answerc": "《西厢记》",
+        "answer": 2
+    },
+    {
+        "id": 253,
+        "question": "成语“一衣带水”中的“水”原指？",
+        "answera": "黄河",
+        "answerb": "长江",
+        "answerc": "淮河",
+        "answer": 2
+    },
+    {
+        "id": 254,
+        "question": "“问世间情为何物，直教生死相许”这句诗是谁写的？",
+        "answera": "元好问",
+        "answerb": "柳永",
+        "answerc": "晏殊",
+        "answer": 1
+    },
+    {
+        "id": 255,
+        "question": "中国历史上被誉为“药王“的是？",
+        "answera": "扁鹊",
+        "answerb": "华佗",
+        "answerc": "孙思邈",
+        "answer": 3
+    },
+    {
+        "id": 256,
+        "question": "“文章千古事，得失寸心知”是谁的名句？",
+        "answera": "李白",
+        "answerb": "杜甫",
+        "answerc": "孟浩然",
+        "answer": 2
+    },
+    {
+        "id": 257,
+        "question": "“生当作人杰，死亦为鬼雄，至今思项羽，不肯过江东。”是谁咏赞项羽的名句？",
+        "answera": "辛弃疾",
+        "answerb": "李清照",
+        "answerc": "高适",
+        "answer": 2
+    },
+    {
+        "id": 258,
+        "question": "陛下是古时对君王的尊称，其中“陛”的意思是？",
+        "answera": "宫殿的台阶",
+        "answerb": "天的别称",
+        "answerc": "玉玺",
+        "answer": 1
+    },
+    {
+        "id": 259,
+        "question": "下面哪个剧种被称为“中国百戏之师”？",
+        "answera": "京剧",
+        "answerb": "黄梅戏",
+        "answerc": "昆曲",
+        "answer": 3
+    },
+    {
+        "id": 260,
+        "question": "我国现在存最早的兵书是?",
+        "answera": "《孙子兵法》",
+        "answerb": "《孙膑兵法》",
+        "answerc": "《司马法》",
+        "answer": 1
+    },
+    {
+        "id": 261,
+        "question": "“苦心人，无不负，卧薪尝胆，三千越申可吞吴”描写的是谁？",
+        "answera": "伍子胥",
+        "answerb": "勾践",
+        "answerc": "李世民",
+        "answer": 2
+    },
+    {
+        "id": 262,
+        "question": "《在水一方》的歌词来源于？",
+        "answera": "《诗经》",
+        "answerb": "《陌上桑》",
+        "answerc": "《楚辞》",
+        "answer": 1
+    },
+    {
+        "id": 263,
+        "question": "我国古代对于年龄有很多独特的称呼，其中满一百岁被称为？",
+        "answera": "期颐",
+        "answerb": "耄耋",
+        "answerc": "不惑之年",
+        "answer": 1
+    },
+    {
+        "id": 264,
+        "question": "“金戈铁马，气吞万里如虎“是谁的词句？",
+        "answera": "岳飞",
+        "answerb": "辛弃疾",
+        "answerc": "王维",
+        "answer": 2
+    },
+    {
+        "id": 265,
+        "question": "“会当凌绝顶，一览众山小”是杜甫登上了哪座山而发出了这样的感慨？",
+        "answera": "黄山",
+        "answerb": "泰山",
+        "answerc": "华山",
+        "answer": 2
+    },
+    {
+        "id": 266,
+        "question": "风筝最初是用来做什么的？",
+        "answera": "比赛",
+        "answerb": "选取伴侣",
+        "answerc": "通报消息",
+        "answer": 3
+    },
+    {
+        "id": 267,
+        "question": "“老吾老以及人之老”是中华民族的传统美德，这句话是谁最早提出的？",
+        "answera": "孔子",
+        "answerb": "孟子",
+        "answerc": "老子",
+        "answer": 2
+    },
+    {
+        "id": 268,
+        "question": "吃年糕的习俗与下列哪位历史人物有关？",
+        "answera": "伍子胥",
+        "answerb": "范蠡",
+        "answerc": "屈原",
+        "answer": 1
+    },
+    {
+        "id": 269,
+        "question": "甲骨文最早是在哪种物品上发现的？",
+        "answera": "青铜器",
+        "answerb": "药材",
+        "answerc": "墓碑",
+        "answer": 2
+    },
+    {
+        "id": 270,
+        "question": "下列哪个成语典故说的是吕不韦的故事？",
+        "answera": "一字千金",
+        "answerb": "一诺千金",
+        "answerc": "一饭千金",
+        "answer": 1
+    },
+    {
+        "id": 271,
+        "question": "成语“万事俱备，只欠东风”是出自哪部古典名著？",
+        "answera": "《三国演义》",
+        "answerb": "《水浒传》",
+        "answerc": "《红楼梦》",
+        "answer": 1
+    },
+    {
+        "id": 272,
+        "question": "笔名为“茅盾”的作家是谁？",
+        "answera": "周树人",
+        "answerb": "舒庆春",
+        "answerc": "沈雁冰",
+        "answer": 3
+    },
+    {
+        "id": 273,
+        "question": "下列哪部是鲁迅的散文集？",
+        "answera": "《朝花夕拾》",
+        "answerb": "《呐喊》",
+        "answerc": "《野草》",
+        "answer": 1
+    },
+    {
+        "id": 274,
+        "question": "“出师未捷身先死，常使英雄泪满襟”是描写谁的诗句？",
+        "answera": "刘备",
+        "answerb": "关云长",
+        "answerc": "诸葛亮",
+        "answer": 3
+    },
+    {
+        "id": 275,
+        "question": "《二十年目睹之怪现象》讲述的是以什么为题材的故事？",
+        "answera": "官场",
+        "answerb": "温室效应",
+        "answerc": "克隆",
+        "answer": 1
+    },
+    {
+        "id": 276,
+        "question": "《搜神记》的作者是谁？",
+        "answera": "老舍",
+        "answerb": "干宝",
+        "answerc": "刘禹锡",
+        "answer": 2
+    },
+    {
+        "id": 277,
+        "question": "与《木兰诗》合称“乐府双璧”的是？",
+        "answera": "《陌上桑》",
+        "answerb": "《长歌行》",
+        "answerc": "《孔雀东南飞》",
+        "answer": 3
+    },
+    {
+        "id": 278,
+        "question": "被苏拭赞为“诗中有画，画中有诗”的唐代诗人是？",
+        "answera": "孟浩然",
+        "answerb": "王勃",
+        "answerc": "王维",
+        "answer": 3
+    },
+    {
+        "id": 279,
+        "question": "在《三国演义》中，过五关，斩六将的猛将是？",
+        "answera": "吕布",
+        "answerb": "关羽",
+        "answerc": "赵云",
+        "answer": 2
+    },
+    {
+        "id": 280,
+        "question": "“名不正则言不顺”是哪家的思想？",
+        "answera": "儒家",
+        "answerb": "道家",
+        "answerc": "法家",
+        "answer": 1
+    },
+    {
+        "id": 281,
+        "question": "“业精于勤，荒于嬉”是我国哪位古人提出来的思想？",
+        "answera": "孔子",
+        "answerb": "韩愈",
+        "answerc": "老子",
+        "answer": 2
+    },
+    {
+        "id": 282,
+        "question": "“十年树木，百年树人”出自谁的名言？",
+        "answera": "管仲",
+        "answerb": "孟子",
+        "answerc": "陶行知",
+        "answer": 1
+    },
+    {
+        "id": 283,
+        "question": "“大珠小珠落玉盘”所形容的是什么乐器的弹奏声？",
+        "answera": "琵琶",
+        "answerb": "二胡",
+        "answerc": "马琴",
+        "answer": 1
+    },
+    {
+        "id": 284,
+        "question": "请选中不是《骆驼祥子》中的角色。",
+        "answera": "四凤",
+        "answerb": "祥子",
+        "answerc": "虎妞",
+        "answer": 1
+    },
+    {
+        "id": 285,
+        "question": "“先天下之忧而忧，后天下之乐而乐”出自？",
+        "answera": "岳阳楼记",
+        "answerb": "醉翁亭记",
+        "answerc": "桃花源记",
+        "answer": 1
+    },
+    {
+        "id": 286,
+        "question": "“袅袅兮秋风，洞庭波兮木叶下”，此句出自《楚辞》中的哪篇？",
+        "answera": "离骚",
+        "answerb": "涉江",
+        "answerc": "湘夫人",
+        "answer": 3
+    },
+    {
+        "id": 287,
+        "question": "我国历史上著名故事《完璧归赵》的主人公是？",
+        "answera": "诸葛亮",
+        "answerb": "蔺相如",
+        "answerc": "曹操",
+        "answer": 2
+    },
+    {
+        "id": 288,
+        "question": "民间的端午节，相传是为了纪念哪一个人物？",
+        "answera": "孔子",
+        "answerb": "司马迁",
+        "answerc": "屈原",
+        "answer": 3
+    },
+    {
+        "id": 289,
+        "question": "神话的基本特性之一是？",
+        "answera": "幻想性",
+        "answerb": "现实性",
+        "answerc": "理论性",
+        "answer": 1
+    },
+    {
+        "id": 290,
+        "question": "被后人称为“南曲之宗”的作品是？",
+        "answera": "《琵琶记》",
+        "answerb": "《荆钗记》",
+        "answerc": "《拜月记》",
+        "answer": 1
+    },
+    {
+        "id": 291,
+        "question": "梅尧臣诗歌的主要风格是？",
+        "answera": "平淡浑厚",
+        "answerb": "平易流畅",
+        "answerc": "奔放豪健",
+        "answer": 1
+    },
+    {
+        "id": 292,
+        "question": "元曲在元代被称作？",
+        "answera": "新诗",
+        "answerb": "新词",
+        "answerc": "新曲",
+        "answer": 1
+    },
+    {
+        "id": 293,
+        "question": "为《毛诗》作笺的儒学大师是？",
+        "answera": "董仲舒",
+        "answerb": "郑玄",
+        "answerc": "王充",
+        "answer": 2
+    },
+    {
+        "id": 294,
+        "question": "“春秋三传”除了《左传》、《春秋公羊传》还包括？",
+        "answera": "《春秋》",
+        "answerb": "《春秋外传》",
+        "answerc": "《春秋谷梁传》",
+        "answer": 3
+    },
+    {
+        "id": 295,
+        "question": "宋代最早提倡复古和文体复古的代表人物是？",
+        "answera": "姚铉",
+        "answerb": "穆修",
+        "answerc": "柳开",
+        "answer": 3
+    },
+    {
+        "id": 296,
+        "question": "梁启超说“初读《定庵文集》，若受电然”，《定庵文集》的作者是？",
+        "answera": "顾炎武",
+        "answerb": "龚自珍",
+        "answerc": "魏源",
+        "answer": 2
+    },
+    {
+        "id": 297,
+        "question": "《左传》内容反映的历史时期是？",
+        "answera": "先秦",
+        "answerb": "西周",
+        "answerc": "春秋",
+        "answer": 3
+    },
+    {
+        "id": 298,
+        "question": "《庄子》散文运用的主要手法是？",
+        "answera": "重言",
+        "answerb": "卮言",
+        "answerc": "寓言",
+        "answer": 3
+    },
+    {
+        "id": 299,
+        "question": "《离骚》在诗歌形式上所属的体式是？",
+        "answera": "四言体",
+        "answerb": "五言体",
+        "answerc": "七言体",
+        "answer": 3
+    },
+    {
+        "id": 300,
+        "question": "以《谏逐客书》为代表的李斯散文最鲜明的特色是？",
+        "answera": "流畅谐偶",
+        "answerb": "铺陈排比",
+        "answerc": "质实无华",
+        "answer": 2
+    },
+    {
+        "id": 301,
+        "question": "《汉书》所属的历史编纂体例是？",
+        "answera": "编年史",
+        "answerb": "纪传体通史",
+        "answerc": "断代史",
+        "answer": 3
+    },
+    {
+        "id": 302,
+        "question": "形制完整的文人五言诗，最早出现的时期是？",
+        "answera": "西汉中期",
+        "answerb": "西汉末年",
+        "answerc": "东汉前期",
+        "answer": 1
+    },
+    {
+        "id": 303,
+        "question": "刘禹锡的《酬乐天扬州初逢席上见赠》所属的诗歌类型是？",
+        "answera": "讽谕诗",
+        "answerb": "感遇诗",
+        "answerc": "咏史诗",
+        "answer": 2
+    },
+    {
+        "id": 304,
+        "question": "后人称韩愈为韩昌黎的原因是？",
+        "answera": "籍贯昌黎",
+        "answerb": "郡望昌黎",
+        "answerc": "被贬昌黎",
+        "answer": 2
+    },
+    {
+        "id": 305,
+        "question": "“商女不知亡国恨，隔江犹唱后庭花”出自于杜牧的？",
+        "answera": "咏史诗",
+        "answerb": "伤别诗",
+        "answerc": "纪行诗",
+        "answer": 1
+    },
+    {
+        "id": 306,
+        "question": "著名的元代杂剧《西厢记》取材于？",
+        "answera": "《任氏传》",
+        "answerb": "《莺莺传》",
+        "answerc": "《柳毅传》",
+        "answer": 2
+    },
+    {
+        "id": 307,
+        "question": "钟惺《浣花溪记》中所写的浣花溪位于现在的？",
+        "answera": "湖北武汉",
+        "answerb": "贵州贵阳",
+        "answerc": "四川成都",
+        "answer": 3
+    },
+    {
+        "id": 308,
+        "question": "龚自珍《咏史》“牢盆狎客操全算，团扇才人踞上游”中，“团扇才人”是指？",
+        "answera": "名妓",
+        "answerb": "高官",
+        "answerc": "文人",
+        "answer": 3
+    },
+    {
+        "id": 309,
+        "question": "《董西厢》属于什么剧种？",
+        "answera": "杂剧",
+        "answerb": "散曲",
+        "answerc": "说唱",
+        "answer": 3
+    },
+    {
+        "id": 310,
+        "question": "在《水浒传》中“怒杀阎婆惜”的是？",
+        "answera": "林冲",
+        "answerb": "宋江",
+        "answerc": "鲁智深",
+        "answer": 2
+    },
+    {
+        "id": 311,
+        "question": "保尔柯察金是一位？",
+        "answera": "资本家",
+        "answerb": "党员",
+        "answerc": "共青团员",
+        "answer": 3
+    },
+    {
+        "id": 312,
+        "question": "鲁迅作品中藤野先生是教什么的？",
+        "answera": "医学",
+        "answerb": "生物",
+        "answerc": "经济",
+        "answer": 1
+    },
+    {
+        "id": 313,
+        "question": "《童年》中对阿廖沙影响最大的是？",
+        "answera": "他的舅舅",
+        "answerb": "外祖父",
+        "answerc": "外祖母",
+        "answer": 3
+    },
+    {
+        "id": 314,
+        "question": "《格列佛游记》是哪个英国杰出作家斯威夫特的作品。",
+        "answera": "十六世纪",
+        "answerb": "十七世纪",
+        "answerc": "十八世纪",
+        "answer": 3
+    },
+    {
+        "id": 315,
+        "question": "《西游记》中的四人去过以下哪个地方？",
+        "answera": "大人国",
+        "answerb": "小人国",
+        "answerc": "比丘国",
+        "answer": 3
+    },
+    {
+        "id": 316,
+        "question": "“期期艾艾”这个典故讲的是西汉的周昌和西晋的邓艾两个人说话时的什么毛病？",
+        "answera": "口吃",
+        "answerb": "好说谎",
+        "answerc": "喜欢骂人",
+        "answer": 1
+    },
+    {
+        "id": 317,
+        "question": "在《繁星•春水》中有以下哪首诗。",
+        "answera": "小桔灯",
+        "answerb": "一朵白蔷薇",
+        "answerc": "母亲",
+        "answer": 3
+    },
+    {
+        "id": 318,
+        "question": "下列作品中不属于莫泊桑的是？",
+        "answera": "《一生》",
+        "answerb": "《俊友》",
+        "answerc": "《死魂灵》",
+        "answer": 3
+    },
+    {
+        "id": 319,
+        "question": "《西游记》中“大闹五庄观、推倒人参果树”的是？",
+        "answera": "孙悟空",
+        "answerb": "沙憎",
+        "answerc": "猪八戒 ",
+        "answer": 1
+    },
+    {
+        "id": 320,
+        "question": "不是《水浒传》中三位女将的是？",
+        "answera": "扈三娘 ",
+        "answerb": "孙二娘",
+        "answerc": "林二嫂  ",
+        "answer": 3
+    },
+    {
+        "id": 321,
+        "question": "鲁迅的回忆性散文集《朝花夕拾》原名是？",
+        "answera": "童年回忆录",
+        "answerb": "旧事重提",
+        "answerc": "呐喊",
+        "answer": 2
+    },
+    {
+        "id": 322,
+        "question": "《西游记》中，师徒一行经过千难万险，终于得正果，最后沙僧封为？",
+        "answera": "金身罗汉",
+        "answerb": "旃檀功德佛",
+        "answerc": "斗战圣佛",
+        "answer": 1
+    },
+    {
+        "id": 323,
+        "question": "《繁星》、《春水》诗集中没有表现的主题？",
+        "answera": "母爱",
+        "answerb": "童真",
+        "answerc": "爱情",
+        "answer": 3
+    },
+    {
+        "id": 324,
+        "question": "下列是《三国演义》的情节是？",
+        "answera": "火烧赤壁 ",
+        "answerb": "智救星期五",
+        "answerc": "大闹野猪林",
+        "answer": 1
+    },
+    {
+        "id": 325,
+        "question": "下列不是《水浒》的人物？",
+        "answera": "武松",
+        "answerb": "周瑜",
+        "answerc": "鲁提辖",
+        "answer": 2
+    },
+    {
+        "id": 326,
+        "question": "小说《少年维特的烦恼》是谁的作品？",
+        "answera": "歌德",
+        "answerb": "都德",
+        "answerc": "大仲马",
+        "answer": 1
+    },
+    {
+        "id": 327,
+        "question": "我国古代文学名作《世说新语》的作者是谁？",
+        "answera": "刘义庆",
+        "answerb": "汤显祖",
+        "answerc": "干宝",
+        "answer": 1
+    },
+    {
+        "id": 328,
+        "question": "《简爱》和《呼啸山庄》的作者是什么关系？",
+        "answera": "姐妹",
+        "answerb": "兄弟",
+        "answerc": "兄妹",
+        "answer": 1
+    },
+    {
+        "id": 329,
+        "question": "美国女作家玛格丽特·米切尔的《飘》以哪场大战作背景的？",
+        "answera": "第一次世界大战",
+        "answerb": "第二次世界大战",
+        "answerc": "美国南北战争",
+        "answer": 3
+    },
+    {
+        "id": 330,
+        "question": "中国古代小说源远流长，小说在唐代叫做？",
+        "answera": "传奇",
+        "answerb": "话本",
+        "answerc": "拟话本",
+        "answer": 1
+    },
+    {
+        "id": 331,
+        "question": "“维纳斯”是希腊神话中的？",
+        "answera": "智慧女神",
+        "answerb": "爱神和美神",
+        "answerc": "自由女神",
+        "answer": 2
+    },
+    {
+        "id": 332,
+        "question": "“破釜沉舟”这个成语出于哪次战争？",
+        "answera": "赤壁之战",
+        "answerb": "长平之战",
+        "answerc": "巨鹿之战",
+        "answer": 3
+    },
+    {
+        "id": 333,
+        "question": "我国第一部长篇章回体历史演义小说是？",
+        "answera": "《三国演义》",
+        "answerb": "《汉书》",
+        "answerc": "《水浒传》",
+        "answer": 1
+    },
+    {
+        "id": 334,
+        "question": "下列人物中，不属于“欧美三大短篇小说大师”的是？",
+        "answera": "莫泊桑",
+        "answerb": "契诃夫",
+        "answerc": "狄更斯",
+        "answer": 3
+    },
+    {
+        "id": 335,
+        "question": "名著《呼啸山庄》是采用了一种什么叙述方法？",
+        "answera": "倒叙",
+        "answerb": "插叙",
+        "answerc": "补叙",
+        "answer": 2
+    },
+    {
+        "id": 336,
+        "question": "<<西游记>>中的火焰山是今天的？",
+        "answera": "吐鲁番盆地",
+        "answerb": "四川盆地",
+        "answerc": "塔里木盆地",
+        "answer": 1
+    },
+    {
+        "id": 337,
+        "question": "中国小说的起源主要有？",
+        "answera": "神话传说",
+        "answerb": "寓言故事",
+        "answerc": "史传",
+        "answer": 1
+    },
+    {
+        "id": 338,
+        "question": "“女娲补天”这则神话出自？",
+        "answera": "《山海经》",
+        "answerb": "《吕氏春秋》",
+        "answerc": "《淮南子》",
+        "answer": 1
+    },
+    {
+        "id": 339,
+        "question": "《名人传》的作者是？",
+        "answera": "罗曼•罗兰",
+        "answerb": "大仲马",
+        "answerc": "莫泊桑",
+        "answer": 1
+    },
+    {
+        "id": 340,
+        "question": "《一千零一夜》是阿拉伯的民间故事集，又叫作什么？",
+        "answera": "《天方夜谭》",
+        "answerb": "《圣经》",
+        "answerc": "《玩偶之家》",
+        "answer": 1
+    },
+    {
+        "id": 341,
+        "question": "近年来以魔幻小说《哈里·波特》系列风靡世界的女作家J.K.罗琳是？",
+        "answera": "美国人",
+        "answerb": "英国人",
+        "answerc": "法国人",
+        "answer": 2
+    },
+    {
+        "id": 342,
+        "question": "名著《茶花女》的作者是谁？",
+        "answera": "巴尔扎克",
+        "answerb": "大仲马",
+        "answerc": "小仲马",
+        "answer": 3
+    },
+    {
+        "id": 343,
+        "question": "在《水浒传》众多人物形象中，被称为“黑旋风”的是？",
+        "answera": "鲁智深",
+        "answerb": "李逵",
+        "answerc": "宋江",
+        "answer": 2
+    },
+    {
+        "id": 344,
+        "question": "在《水浒传》众多人物形象中，被称为“青面兽”的是？",
+        "answera": "杨志",
+        "answerb": "吴用",
+        "answerc": "武松",
+        "answer": 1
+    },
+    {
+        "id": 345,
+        "question": "出师未捷身先死，常使英雄泪满襟。对联中提到的人物是？",
+        "answera": "杜甫",
+        "answerb": "岳飞",
+        "answerc": "诸葛亮",
+        "answer": 3
+    },
+    {
+        "id": 346,
+        "question": "“小说”之名，始见于？",
+        "answera": "《孟子》",
+        "answerb": "《庄子》",
+        "answerc": "《韩非子》",
+        "answer": 2
+    },
+    {
+        "id": 347,
+        "question": "下列不属于王小波的时代三部曲是什么？",
+        "answera": "《黄金时代》",
+        "answerb": "《白银时代》",
+        "answerc": "《水晶时代》",
+        "answer": 3
+    },
+    {
+        "id": 348,
+        "question": "莫泊桑的成名作是？",
+        "answera": "《俊友》",
+        "answerb": "《羊脂球》",
+        "answerc": "《娜娜》",
+        "answer": 2
+    },
+    {
+        "id": 349,
+        "question": "下列不是吝啬鬼的是 ?",
+        "answera": "严监生 ",
+        "answerb": "葛朗台  ",
+        "answerc": " 希礼 ",
+        "answer": 3
+    },
+    {
+        "id": 350,
+        "question": "台湾文学作品的感情基调是什么？",
+        "answera": "乡愁",
+        "answerb": "爱情",
+        "answerc": "社会批判",
+        "answer": 1
+    },
+    {
+        "id": 351,
+        "question": "香港科幻小说的代表作家是谁？",
+        "answera": "张小娴",
+        "answerb": "亦舒",
+        "answerc": "倪匡",
+        "answer": 3
+    },
+    {
+        "id": 352,
+        "question": "“创造社”是由郭沫若和谁一起发起组织的？",
+        "answera": "胡适",
+        "answerb": "矛盾",
+        "answerc": "郁达夫",
+        "answer": 3
+    },
+    {
+        "id": 353,
+        "question": "金庸小说《天龙八部》的书名有什么含义？",
+        "answera": "武术招式",
+        "answerb": "佛教名词",
+        "answerc": "宗教派别",
+        "answer": 2
+    },
+    {
+        "id": 354,
+        "question": "巴金《爱情三部曲》中结构最完整、人物心理剖析最深刻的一部是？",
+        "answera": "《雾》",
+        "answerb": "《雨》",
+        "answerc": "《电》",
+        "answer": 2
+    },
+    {
+        "id": 355,
+        "question": "赵树理的哪部小说被誉为'解放区文艺代表之作'？",
+        "answera": "小二黑结婚",
+        "answerb": "李有才板话",
+        "answerc": "李家庄的变迁",
+        "answer": 1
+    },
+    {
+        "id": 356,
+        "question": "萧红的哪部小说被鲁迅称作'力透纸背的，北方人民于生的坚强，于死的挣扎'的作品？",
+        "answera": "八月的乡村",
+        "answerb": "呼兰河传",
+        "answerc": "生死场",
+        "answer": 3
+    },
+    {
+        "id": 357,
+        "question": "沈从文以哪部短篇小说的发表为标志分为前后两个时期？",
+        "answera": "《丈夫》",
+        "answerb": "《牛》",
+        "answerc": "《柏子》",
+        "answer": 3
+    },
+    {
+        "id": 358,
+        "question": "在现代文学史上，主要以田园牧歌风格著称的小说家是？",
+        "answera": "废名",
+        "answerb": "张爱玲",
+        "answerc": "芦焚",
+        "answer": 1
+    },
+    {
+        "id": 359,
+        "question": "艺术形象'祁家老太爷'出自哪部小说？",
+        "answera": "四世同堂",
+        "answerb": "骆驼祥子",
+        "answerc": "家",
+        "answer": 1
+    },
+    {
+        "id": 360,
+        "question": "一直称自己是'乡下人'的作家是？",
+        "answera": "王统照",
+        "answerb": "赵树理",
+        "answerc": "沈从文",
+        "answer": 3
+    },
+    {
+        "id": 361,
+        "question": "“寻根文学”的首倡者是谁？",
+        "answera": "阿城",
+        "answerb": "韩少功",
+        "answerc": "王安忆",
+        "answer": 2
+    },
+    {
+        "id": 362,
+        "question": "高晓声的小说创作中最具影响的人物典型是谁？",
+        "answera": "陈奂生",
+        "answerb": "牛百岁",
+        "answerc": "禾禾",
+        "answer": 1
+    },
+    {
+        "id": 363,
+        "question": "迄今为止两次获得茅盾文学奖的作家是谁？",
+        "answera": "阿来",
+        "answerb": "张洁",
+        "answerc": "贾平凹",
+        "answer": 2
+    },
+    {
+        "id": 364,
+        "question": "下列不属于史铁生的作品的是？",
+        "answera": "《门外青山》",
+        "answerb": "《命若琴弦》",
+        "answerc": "《我与地坛》",
+        "answer": 1
+    },
+    {
+        "id": 365,
+        "question": "下列选项中，倡导中唐古文运动的是？",
+        "answera": "司马迁",
+        "answerb": "柳宗元",
+        "answerc": "韩愈",
+        "answer": 3
+    },
+    {
+        "id": 366,
+        "question": "“二十四史”在体例上属于什么类型的史书？",
+        "answera": "编年体",
+        "answerb": "纪传体",
+        "answerc": "国别体",
+        "answer": 2
+    },
+    {
+        "id": 367,
+        "question": "柳宗元的山水游记中最富盛名，代表了我国古代山水文学的最高成就的是?",
+        "answera": "《朋党论》",
+        "answerb": "《永州八记》",
+        "answerc": "《仇池笔记》",
+        "answer": 2
+    },
+    {
+        "id": 368,
+        "question": "下列选项中，属于我国第一部语录体散文的是?",
+        "answera": "《诗经》",
+        "answerb": "《春秋》",
+        "answerc": "《论语》",
+        "answer": 3
+    },
+    {
+        "id": 369,
+        "question": "“新文学运动”开始了白话散文的创作，形成峻冷峭拔风格的作家是?",
+        "answera": "胡适",
+        "answerb": "鲁迅",
+        "answerc": "朱自清",
+        "answer": 2
+    },
+    {
+        "id": 370,
+        "question": "林海音的散文《城南旧事》以低沉的笔调描写出哪个城市的段段往事。",
+        "answera": "台湾",
+        "answerb": "上海",
+        "answerc": "北京",
+        "answer": 3
+    },
+    {
+        "id": 371,
+        "question": "奥地利作家茨威格笔下的《世间最美的坟墓》的主人是？",
+        "answera": "马克思",
+        "answerb": "托尔斯泰",
+        "answerc": "莎士比亚",
+        "answer": 2
+    },
+    {
+        "id": 372,
+        "question": "不负民族气节，在苏门答腊被害的现代著名作家是？",
+        "answera": "沈从文",
+        "answerb": "郁达夫",
+        "answerc": "徐志摩",
+        "answer": 2
+    },
+    {
+        "id": 373,
+        "question": "'民为贵，社稷次之，君为轻'一语出自？",
+        "answera": "《论语》",
+        "answerb": "《孟子》",
+        "answerc": "《战国策》",
+        "answer": 2
+    },
+    {
+        "id": 374,
+        "question": "“率妻子邑人来此绝境”中，“妻子”指的是？",
+        "answera": "男子的配偶",
+        "answerb": "妻子儿女",
+        "answerc": "妻子和儿子",
+        "answer": 2
+    },
+    {
+        "id": 375,
+        "question": "以下被誉为“白洋淀派”的代表作家是？",
+        "answera": "赵树理",
+        "answerb": "艾青",
+        "answerc": "孙犁",
+        "answer": 3
+    },
+    {
+        "id": 376,
+        "question": "《谏太宗十思疏》是谁写给唐太宗的奏章。",
+        "answera": "房玄龄",
+        "answerb": "魏征",
+        "answerc": "杜如晦",
+        "answer": 2
+    },
+    {
+        "id": 377,
+        "question": "“斯芬克斯之谜”中的“斯芬克斯”的身躯是？",
+        "answera": "马克思",
+        "answerb": "狮子",
+        "answerc": "老虎",
+        "answer": 2
+    },
+    {
+        "id": 378,
+        "question": "由刘德华主演的大片《墨攻》的思想精髓来自于下列哪个诸子百家的思想？",
+        "answera": "墨家",
+        "answerb": "道家",
+        "answerc": "儒家",
+        "answer": 1
+    },
+    {
+        "id": 379,
+        "question": "巴金先生对“文革”进行深刻反思的散文著作是？",
+        "answera": "《寒夜》",
+        "answerb": "《憩园》",
+        "answerc": "《随想录》",
+        "answer": 3
+    },
+    {
+        "id": 380,
+        "question": "下列不是俄国作家的是？",
+        "answera": "泰戈尔",
+        "answerb": "普希金",
+        "answerc": "高尔基",
+        "answer": 1
+    },
+    {
+        "id": 381,
+        "question": "我们平时常说“如果冬天来了，春天还会远吗？”请问，这句名言出自于英国的哪位作家？",
+        "answera": "雨果 ",
+        "answerb": "拜论",
+        "answerc": "雪莱",
+        "answer": 3
+    },
+    {
+        "id": 382,
+        "question": "娜拉是下列哪部文学作品中的典型？",
+        "answera": "《礼物》",
+        "answerb": "《玩偶之家》",
+        "answerc": "《罗亭》",
+        "answer": 2
+    },
+    {
+        "id": 383,
+        "question": "下列俄国作家中唯一以短篇小说创作登上世界文坛高峰的是？",
+        "answera": "屠格涅夫",
+        "answerb": "高尔基",
+        "answerc": "契诃夫",
+        "answer": 3
+    },
+    {
+        "id": 384,
+        "question": "下列不属于卢梭的作品的是？",
+        "answera": "《爱弥儿》",
+        "answerb": "《忏悔录》",
+        "answerc": "《红与黑》",
+        "answer": 3
+    },
+    {
+        "id": 385,
+        "question": "下列不是东山魁夷的作品的是？",
+        "answera": "《一片树叶》",
+        "answerb": "《听泉》",
+        "answerc": "《冬天之美》",
+        "answer": 3
+    },
+    {
+        "id": 386,
+        "question": "下列莎士比亚的剧作中不属于悲剧的是？",
+        "answera": "《麦克白》",
+        "answerb": "《李尔王》",
+        "answerc": "《威尼斯商人》",
+        "answer": 3
+    },
+    {
+        "id": 387,
+        "question": "下列作家中不属于现实主义文学代表人物的是？",
+        "answera": "果戈理",
+        "answerb": "塞万提斯",
+        "answerc": "裴多菲",
+        "answer": 3
+    },
+    {
+        "id": 388,
+        "question": "我们都知道《老人与海》是美国当代文学大师海明威的顶峰作品，哪年获得诺贝尔奖的？",
+        "answera": "1953年",
+        "answerb": "1950年",
+        "answerc": "1954年",
+        "answer": 3
+    },
+    {
+        "id": 389,
+        "question": "现在的中学生都喜欢看侦察小说，那《福尔摩斯探案集》是谁的作品呢？",
+        "answera": "柯南道尔",
+        "answerb": "哈代",
+        "answerc": "巴尔扎克",
+        "answer": 1
+    },
+    {
+        "id": 390,
+        "question": "“东山再起”这个典故出自？",
+        "answera": "曹操",
+        "answerb": "刘备",
+        "answerc": "谢安",
+        "answer": 3
+    },
+    {
+        "id": 391,
+        "question": "“知识就是力量”是英国哪个著名的哲学家、思想家的名言？",
+        "answera": "培根",
+        "answerb": "居里夫人",
+        "answerc": "达尔文",
+        "answer": 1
+    },
+    {
+        "id": 392,
+        "question": "在《老人与海》中，海明威着力刻画的“硬汉子”形象是？",
+        "answera": "杰克",
+        "answerb": "圣地亚哥",
+        "answerc": "亨利",
+        "answer": 2
+    },
+    {
+        "id": 393,
+        "question": "下列哪一作家是苏联作家?",
+        "answera": "狄更斯 ",
+        "answerb": "高尔基",
+        "answerc": "巴尔扎克",
+        "answer": 2
+    },
+    {
+        "id": 394,
+        "question": "被誉为“短篇小说之王”的作家是？",
+        "answera": "莫泊桑",
+        "answerb": "屠格涅夫",
+        "answerc": "左拉",
+        "answer": 1
+    },
+    {
+        "id": 395,
+        "question": "下列哪一作品是日本作品?",
+        "answera": "《罗摩衍那》",
+        "answerb": "《源氏物语》",
+        "answerc": "《天方夜谭》",
+        "answer": 2
+    },
+    {
+        "id": 396,
+        "question": "下列诗歌中，哪一首属于乐府诗？",
+        "answera": "《湘夫人》",
+        "answerb": "《孔雀东南飞》",
+        "answerc": "《声声慢》",
+        "answer": 2
+    },
+    {
+        "id": 397,
+        "question": "诗句“每逢佳节倍思亲”中的“佳节”原意是指",
+        "answera": "元宵节",
+        "answerb": "重阳节",
+        "answerc": "中秋节",
+        "answer": 2
+    },
+    {
+        "id": 398,
+        "question": "下列哪位不是“三曹七子”中的人物？",
+        "answera": "曹操",
+        "answerb": "曹丕",
+        "answerc": "曹错",
+        "answer": 3
+    },
+    {
+        "id": 399,
+        "question": "下列诗人中，不属于山水田园诗风的是？",
+        "answera": "岑参",
+        "answerb": "王维",
+        "answerc": "陶渊明",
+        "answer": 1
+    },
+    {
+        "id": 400,
+        "question": "下列诗人中，不属于边塞诗人的是？",
+        "answera": "高适",
+        "answerb": "岑参",
+        "answerc": "白居易",
+        "answer": 3
+    },
+    {
+        "id": 401,
+        "question": "被苏轼评价为“诗中有画，画中有诗”的唐代诗人是？",
+        "answera": "李白",
+        "answerb": "王维",
+        "answerc": "杜甫",
+        "answer": 2
+    },
+    {
+        "id": 402,
+        "question": "我国四大名亭中的“爱晚亭”是因为谁的诗句而成名？",
+        "answera": "李白",
+        "answerb": "杜甫",
+        "answerc": "杜牧",
+        "answer": 3
+    },
+    {
+        "id": 403,
+        "question": "不属于“婉约派”词人的是？",
+        "answera": "辛弃疾",
+        "answerb": "李清照",
+        "answerc": "柳永",
+        "answer": 1
+    },
+    {
+        "id": 404,
+        "question": "电影《一江春水向东流》的片名取自我国古代一位词人词作中的句子。这位词人是？",
+        "answera": "辛弃疾",
+        "answerb": "李煜",
+        "answerc": "宴殊",
+        "answer": 2
+    },
+    {
+        "id": 405,
+        "question": "《野有蔓草》与下列哪项无关。",
+        "answera": "《诗经》",
+        "answerb": "比兴",
+        "answerc": "大雅",
+        "answer": 3
+    },
+    {
+        "id": 406,
+        "question": "李清照的《如梦令》里的“绿肥红瘦”是描写什么季节的景象？",
+        "answera": "晚春",
+        "answerb": "盛夏",
+        "answerc": "初秋",
+        "answer": 1
+    },
+    {
+        "id": 407,
+        "question": "我国古代诗歌史上被称为“双璧”的一篇是《孔雀东南飞》，另一篇是：",
+        "answera": "木兰诗",
+        "answerb": "木兰辞",
+        "answerc": "琵琶行",
+        "answer": 1
+    },
+    {
+        "id": 408,
+        "question": "与杜甫没有关系的是？",
+        "answera": "诗史",
+        "answerb": "诗仙",
+        "answerc": "诗圣",
+        "answer": 2
+    },
+    {
+        "id": 409,
+        "question": "“民间疾苦，笔底波澜；世上疮痍，诗中圣哲”说的是？",
+        "answera": "杜甫",
+        "answerb": "白居易",
+        "answerc": "屈原",
+        "answer": 1
+    },
+    {
+        "id": 410,
+        "question": "“无边落木萧萧下，不尽长江滚滚来”一句出自杜甫的诗？",
+        "answera": "《春望》",
+        "answerb": "《登高》",
+        "answerc": "《石壕吏》",
+        "answer": 2
+    },
+    {
+        "id": 411,
+        "question": "下列哪个选项不是白朴的杂剧作品？",
+        "answera": "《西厢记》",
+        "answerb": "《东墙记》",
+        "answerc": "《墙头马上》",
+        "answer": 1
+    },
+    {
+        "id": 412,
+        "question": "《诗经》中的“风”是指什么类型的作品？",
+        "answera": "民歌",
+        "answerb": "宫廷御乐",
+        "answerc": "祭祀乐歌",
+        "answer": 1
+    },
+    {
+        "id": 413,
+        "question": "屈原是战国时期末期哪国人？",
+        "answera": "齐国",
+        "answerb": "魏国",
+        "answerc": "楚国",
+        "answer": 3
+    },
+    {
+        "id": 414,
+        "question": "下列哪一位不是“初唐四杰”中的诗人？",
+        "answera": "王勃",
+        "answerb": "杨炯",
+        "answerc": "陈子昂",
+        "answer": 3
+    },
+    {
+        "id": 415,
+        "question": "被恩格斯评价为：“是中世纪的最后一位诗人，同时又是新时代的最初一位诗人。”的是：",
+        "answera": "但丁",
+        "answerb": "波特莱尔",
+        "answerc": "叶芝",
+        "answer": 1
+    },
+    {
+        "id": 416,
+        "question": "中国新诗派的主要代表诗人是？",
+        "answera": "穆旦",
+        "answerb": "冯至",
+        "answerc": "方然",
+        "answer": 1
+    },
+    {
+        "id": 417,
+        "question": "在中国现代文坛上，以诗歌为主的作家是：",
+        "answera": "郭沫若",
+        "answerb": "艾青",
+        "answerc": "郁达夫",
+        "answer": 2
+    },
+    {
+        "id": 418,
+        "question": "“卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭”，该诗句的作者是：",
+        "answera": "北岛",
+        "answerb": "顾城",
+        "answerc": "食指",
+        "answer": 1
+    },
+    {
+        "id": 419,
+        "question": "茅盾所谓“中国布尔乔亚开山的同时又是末代的一位诗人”指的是？",
+        "answera": "徐志摩",
+        "answerb": "闻一多",
+        "answerc": "冯至",
+        "answer": 1
+    },
+    {
+        "id": 420,
+        "question": "被称为“泥土诗人”的臧克家的第一本诗歌集是？",
+        "answera": "《烙印》",
+        "answerb": "《泥土的歌》",
+        "answerc": "《泥淖集》",
+        "answer": 1
+    },
+    {
+        "id": 421,
+        "question": "“黑夜给了我黑色的眼睛，我却用它来寻找光明。”的作者是？",
+        "answera": "北岛",
+        "answerb": "顾城",
+        "answerc": "杨炼",
+        "answer": 2
+    },
+    {
+        "id": 422,
+        "question": "代表中国十四行诗最高水平，这位诗人是？",
+        "answera": "朱湘",
+        "answerb": "穆旦",
+        "answerc": "冯至",
+        "answer": 3
+    },
+    {
+        "id": 423,
+        "question": "所作的诗歌具有浓重的中国意识和深沉的历史感，被称为“乡愁诗人”的是？",
+        "answera": "艾青",
+        "answerb": "郑愁予",
+        "answerc": "余光中",
+        "answer": 3
+    },
+    {
+        "id": 424,
+        "question": "具有隽永意味的短诗名作《断章》的作者是？",
+        "answera": "卞之琳",
+        "answerb": "何其芳",
+        "answerc": "徐志摩",
+        "answer": 1
+    },
+    {
+        "id": 425,
+        "question": "创作的诗句委婉柔丽，韵律自然，并以《人间四月天》一诗蜚声文坛的女诗人是？",
+        "answera": "冰心",
+        "answerb": "林徽因",
+        "answerc": "罗隐",
+        "answer": 2
+    },
+    {
+        "id": 426,
+        "question": "新月诗派提倡“新格律诗”的阵地是？",
+        "answera": "《新诗》",
+        "answerb": "《诗镌》",
+        "answerc": "《诗创造》",
+        "answer": 2
+    },
+    {
+        "id": 427,
+        "question": "下列不属于朦胧诗派诗人的一位是？",
+        "answera": "舒婷",
+        "answerb": "西川",
+        "answerc": "顾城",
+        "answer": 2
+    },
+    {
+        "id": 428,
+        "question": "一般被称为中国现代诗歌的尝试派的成熟标志是以下哪个诗集的出版。",
+        "answera": "《尝试集》",
+        "answerb": "《飞鸟集》",
+        "answerc": "《白话诗八首》",
+        "answer": 1
+    },
+    {
+        "id": 429,
+        "question": "被高尔基赞誉为“伟大的俄国人民诗人”的是",
+        "answera": "果戈里",
+        "answerb": "陀思妥耶夫斯基",
+        "answerc": "普希金",
+        "answer": 3
+    },
+    {
+        "id": 430,
+        "question": "德国最早的浪漫主义文学流派是？",
+        "answera": "耶拿派",
+        "answerb": "海德堡派",
+        "answerc": "湖畔派",
+        "answer": 1
+    },
+    {
+        "id": 431,
+        "question": "目前发现的世界文学中最古老的史诗是？",
+        "answera": "罗摩衍那",
+        "answerb": "吉尔伽美什",
+        "answerc": "埃涅阿斯纪",
+        "answer": 2
+    },
+    {
+        "id": 432,
+        "question": "裴多菲最为中国人熟知的抒情诗是？",
+        "answera": "《致意大利》",
+        "answerb": "《先人祭》",
+        "answerc": "《自由与爱情》",
+        "answer": 3
+    },
+    {
+        "id": 433,
+        "question": "《远与近》是哪一位著名诗人的作品?",
+        "answera": "顾城",
+        "answerb": "北岛",
+        "answerc": "江河",
+        "answer": 1
+    },
+    {
+        "id": 434,
+        "question": "北岛写于1976年的代表作的是：",
+        "answera": "《相信未来》",
+        "answerb": "《土地》",
+        "answerc": "《回答》",
+        "answer": 3
+    },
+    {
+        "id": 435,
+        "question": "1923年获得诺贝尔文学奖，并有诗作《当你老了》入选读本的诗人是？",
+        "answera": "艾略特",
+        "answerb": "惠特曼",
+        "answerc": "叶芝",
+        "answer": 3
+    },
+    {
+        "id": 436,
+        "question": "下列诗人中，不是“七月诗派”成员的是？",
+        "answera": "绿原",
+        "answerb": "曾卓",
+        "answerc": "辛笛",
+        "answer": 3
+    },
+    {
+        "id": 437,
+        "question": "戴望舒《雨巷》的主要表现方法是？",
+        "answera": "象征",
+        "answerb": "烘托",
+        "answerc": "对比",
+        "answer": 1
+    },
+    {
+        "id": 438,
+        "question": "第一部被介绍到欧洲去的中国古典戏曲是哪部？",
+        "answera": "《红楼梦》",
+        "answerb": "《赵氏孤儿》",
+        "answerc": "《白蛇传》",
+        "answer": 2
+    },
+    {
+        "id": 439,
+        "question": "戏剧作品《雷雨》、《日出》的作者是？",
+        "answera": "鲁迅",
+        "answerb": "郭沫若",
+        "answerc": "曹禺",
+        "answer": 3
+    },
+    {
+        "id": 440,
+        "question": "什么剧的兴盛，使元代成为中国戏曲史上的黄金时代。",
+        "answera": "杂剧",
+        "answerb": "京剧",
+        "answerc": "越剧",
+        "answer": 1
+    },
+    {
+        "id": 441,
+        "question": "《日出》中俗不可耐、搔手弄姿的富孀是？",
+        "answera": "翠喜",
+        "answerb": "顾八奶奶",
+        "answerc": "陈白露",
+        "answer": 2
+    },
+    {
+        "id": 442,
+        "question": "老舍的戏剧作品有：",
+        "answera": "《龙须沟》",
+        "answerb": "《日出》",
+        "answerc": "《四世同堂》",
+        "answer": 1
+    },
+    {
+        "id": 443,
+        "question": "历史剧《屈原》是谁的作品？",
+        "answera": "胡适",
+        "answerb": "郭沫若",
+        "answerc": "矛盾",
+        "answer": 2
+    },
+    {
+        "id": 444,
+        "question": "古典悲剧《汉宫秋》的作者是？",
+        "answera": "纪君祥",
+        "answerb": "马致远",
+        "answerc": "关汉卿",
+        "answer": 2
+    },
+    {
+        "id": 445,
+        "question": "各种说唱艺术的总称的是？",
+        "answera": "曲艺",
+        "answerb": "相声",
+        "answerc": "杂剧",
+        "answer": 1
+    },
+    {
+        "id": 446,
+        "question": "下面哪位不是古希腊三大悲剧作家之一？",
+        "answera": "埃斯库罗斯",
+        "answerb": "欧里庇得斯",
+        "answerc": "阿里斯托芬",
+        "answer": 3
+    },
+    {
+        "id": 447,
+        "question": "套曲《高祖还乡》的作者是？",
+        "answera": "关汉卿",
+        "answerb": "睢景臣",
+        "answerc": "马致远",
+        "answer": 2
+    },
+    {
+        "id": 448,
+        "question": "首批列入“人类口头和非物质文化遗产”名录的是我国的哪一个剧种？",
+        "answera": "杂剧",
+        "answerb": "相声",
+        "answerc": "昆曲",
+        "answer": 2
+    },
+    {
+        "id": 449,
+        "question": "一般认为，古希腊戏剧起源于对某个神的祭祀，这个神是？",
+        "answera": "酒神",
+        "answerb": "天神",
+        "answerc": "爱神",
+        "answer": 1
+    },
+    {
+        "id": 450,
+        "question": "秦琼是哪回戏里的人物？",
+        "answera": "《一箭仇》",
+        "answerb": "《二进宫》",
+        "answerc": "《三家店》",
+        "answer": 3
+    },
+    {
+        "id": 451,
+        "question": "下列元代戏剧作品作品中，属于四大爱情剧的有？",
+        "answera": "《西厢记》",
+        "answerb": "《窦娥冤》",
+        "answerc": "《梧桐雨》",
+        "answer": 1
+    },
+    {
+        "id": 452,
+        "question": "下列元代戏剧作品作品中，属于四大悲剧的？",
+        "answera": "《西厢记》",
+        "answerb": "《窦娥冤》 ",
+        "answerc": "《拜月亭》",
+        "answer": 2
+    },
+    {
+        "id": 453,
+        "question": "《阴谋与爱情》的作者是？",
+        "answera": "希勒",
+        "answerb": "歌德",
+        "answerc": "莱辛",
+        "answer": 1
+    },
+    {
+        "id": 454,
+        "question": "被誉为“现代戏剧之父”的是？",
+        "answera": "席勒",
+        "answerb": "易卜生",
+        "answerc": "歌德",
+        "answer": 2
+    },
+    {
+        "id": 455,
+        "question": "英国萧伯纳的哪一部作品奠定了他作为西欧戏剧大师的地位？",
+        "answera": "《人与超人》",
+        "answerb": "《吝啬鬼》",
+        "answerc": "《伪君子》",
+        "answer": 1
+    },
+    {
+        "id": 456,
+        "question": "马致远属于哪一个朝代？",
+        "answera": "宋",
+        "answerb": "元",
+        "answerc": "明",
+        "answer": 2
+    },
+    {
+        "id": 457,
+        "question": "《牡丹亭》属于哪一剧种？",
+        "answera": "昆曲",
+        "answerb": "杂剧",
+        "answerc": "戏剧",
+        "answer": 1
+    },
+    {
+        "id": 458,
+        "question": "《梧桐雨》是谁的作品？",
+        "answera": "关汉卿",
+        "answerb": "马致远",
+        "answerc": "白朴",
+        "answer": 3
+    },
+    {
+        "id": 459,
+        "question": "被誉为“元剧之冠”的是？",
+        "answera": "关汉卿",
+        "answerb": "王实甫",
+        "answerc": "马致远",
+        "answer": 3
+    },
+    {
+        "id": 460,
+        "question": "《日出》属于？",
+        "answera": "独幕剧",
+        "answerb": "三幕剧",
+        "answerc": "四幕剧",
+        "answer": 3
+    },
+    {
+        "id": 461,
+        "question": "《游园惊梦》属于？",
+        "answera": "话剧",
+        "answerb": "昆曲",
+        "answerc": "戏剧",
+        "answer": 2
+    },
+    {
+        "id": 462,
+        "question": "陈白露是哪一部作品中的人物？",
+        "answera": "《日出》",
+        "answerb": "《雷雨》",
+        "answerc": "《原野》",
+        "answer": 1
+    },
+    {
+        "id": 463,
+        "question": "莎士比亚的历史剧是？",
+        "answera": "《理查三世》",
+        "answerb": "《威尼斯商人》",
+        "answerc": "《第十二夜》",
+        "answer": 1
+    },
+    {
+        "id": 464,
+        "question": "在法国戏剧史上，被人们称之为“悲剧之父”的是？",
+        "answera": "拉辛",
+        "answerb": "高乃依",
+        "answerc": "莫里哀",
+        "answer": 2
+    },
+    {
+        "id": 465,
+        "question": "易卜生是哪个国家的戏剧作家?",
+        "answera": "英国",
+        "answerb": "法国",
+        "answerc": "挪威",
+        "answer": 3
+    },
+    {
+        "id": 466,
+        "question": "“春眠不觉晓”出自哪部诗篇？",
+        "answera": "春晓",
+        "answerb": "登高",
+        "answerc": "过故人庄",
+        "answer": 1
+    },
+    {
+        "id": 467,
+        "question": "被称为诗圣的诗人是哪一位？",
+        "answera": "杜甫",
+        "answerb": "李白",
+        "answerc": "王昌龄",
+        "answer": 1
+    },
+    {
+        "id": 468,
+        "question": "被称为诗仙的诗人是哪一位？",
+        "answera": "杜甫",
+        "answerb": "李白",
+        "answerc": "王昌龄",
+        "answer": 2
+    },
+    {
+        "id": 469,
+        "question": "《将进酒》的作者是哪一位诗人？",
+        "answera": "杜甫",
+        "answerb": "李白",
+        "answerc": "王昌龄",
+        "answer": 2
+    },
+    {
+        "id": 470,
+        "question": "西游记中，唐僧师徒一共要经历多少磨难？",
+        "answera": "八十一",
+        "answerb": "七十一",
+        "answerc": "九十九",
+        "answer": 1
+    },
+    {
+        "id": 471,
+        "question": "西游记中，孙悟空在天庭做过什么官？",
+        "answera": "卷帘大将",
+        "answerb": "天兵统帅",
+        "answerc": "弼马温",
+        "answer": 3
+    },
+    {
+        "id": 472,
+        "question": "下列不属于中国四大名著的是？",
+        "answera": "西游记",
+        "answerb": "水浒传",
+        "answerc": "聊斋",
+        "answer": 3
+    },
+    {
+        "id": 473,
+        "question": "水浒传中，梁山好汉一共有多少位？",
+        "answera": "一百零八",
+        "answerb": "二百零八",
+        "answerc": "九十八",
+        "answer": 1
+    },
+    {
+        "id": 474,
+        "question": "水浒传中，梁山好汉的头把交椅是谁？",
+        "answera": "林冲",
+        "answerb": "宋江",
+        "answerc": "武松",
+        "answer": 2
+    },
+    {
+        "id": 475,
+        "question": "三国志中，被称为“卧龙”的是谁？",
+        "answera": "诸葛亮",
+        "answerb": "庞统",
+        "answerc": "郭嘉",
+        "answer": 1
+    },
+    {
+        "id": 476,
+        "question": "三国志中，被称为“凤雏”的是谁？",
+        "answera": "诸葛亮",
+        "answerb": "庞统",
+        "answerc": "郭嘉",
+        "answer": 2
+    },
+    {
+        "id": 477,
+        "question": "红楼梦的作者是？",
+        "answera": "罗贯中",
+        "answerb": "曹雪芹",
+        "answerc": "吴承恩",
+        "answer": 2
+    },
+    {
+        "id": 478,
+        "question": "西游记的作者是？",
+        "answera": "罗贯中",
+        "answerb": "曹雪芹",
+        "answerc": "吴承恩",
+        "answer": 3
+    },
+    {
+        "id": 479,
+        "question": "三国演义的作者是？",
+        "answera": "罗贯中",
+        "answerb": "曹雪芹",
+        "answerc": "吴承恩",
+        "answer": 1
+    },
+    {
+        "id": 480,
+        "question": "“本是同根生，相煎何太急？”出自以下哪位文人之口？",
+        "answera": "曹操",
+        "answerb": "曹丕",
+        "answerc": "曹植",
+        "answer": 3
+    },
+    {
+        "id": 481,
+        "question": "五岳之中，衡山被称为？",
+        "answera": "南岳",
+        "answerb": "北岳",
+        "answerc": "东岳",
+        "answer": 1
+    },
+    {
+        "id": 482,
+        "question": "在三国志火烧赤壁中，被烧的一方是？",
+        "answera": "孙权",
+        "answerb": "刘备",
+        "answerc": "曹操",
+        "answer": 3
+    },
+    {
+        "id": 483,
+        "question": "以下哪个不是我国的国粹？",
+        "answera": "书法",
+        "answerb": "象棋",
+        "answerc": "麻将",
+        "answer": 3
+    },
+    {
+        "id": 484,
+        "question": "中国汉族的传统民族服装是？",
+        "answera": "汉服",
+        "answerb": "中山装",
+        "answerc": "西装",
+        "answer": 1
+    },
+    {
+        "id": 485,
+        "question": "每年的春节联欢晚会将会在农历什么时候播出？",
+        "answera": "腊月二十九",
+        "answerb": "腊月三十",
+        "answerc": "大年初一",
+        "answer": 2
+    },
+    {
+        "id": 486,
+        "question": "七步成诗说的是以下哪位？",
+        "answera": "曹操",
+        "answerb": "曹丕",
+        "answerc": "曹植",
+        "answer": 3
+    },
+    {
+        "id": 487,
+        "question": "中国最大的淡水湖是？",
+        "answera": "洞庭湖",
+        "answerb": "鄱阳湖",
+        "answerc": "太湖",
+        "answer": 2
+    },
+    {
+        "id": 488,
+        "question": "世界上最长的一条运河是？",
+        "answera": "京杭大运河",
+        "answerb": "苏伊士运河",
+        "answerc": "巴拿马运河",
+        "answer": 1
+    },
+    {
+        "id": 489,
+        "question": "长城是中国哪位皇帝主持修建的？",
+        "answera": "黄帝",
+        "answerb": "炎帝",
+        "answerc": "秦始皇",
+        "answer": 3
+    },
+    {
+        "id": 490,
+        "question": "神话故事中，嫦娥在月宫与什么动物相伴？",
+        "answera": "狗",
+        "answerb": "猫",
+        "answerc": "兔",
+        "answer": 3
+    },
+    {
+        "id": 491,
+        "question": "埃菲尔铁塔建于哪一年？",
+        "answera": "1886年",
+        "answerb": "1889年",
+        "answerc": "1896年",
+        "answer": 2
+    },
+    {
+        "id": 492,
+        "question": "下列不是矮行星的是哪一个？",
+        "answera": "谷神星",
+        "answerb": "冥王星",
+        "answerc": "景神星",
+        "answer": 3
+    },
+    {
+        "id": 493,
+        "question": "安全色标中表示安全的是？",
+        "answera": "绿色",
+        "answerb": "黑色",
+        "answerc": "白色",
+        "answer": 1
+    },
+    {
+        "id": 494,
+        "question": "下面哪种不是淡水豚类？",
+        "answera": "白稽豚",
+        "answerb": "刺豚",
+        "answerc": "拉河豚",
+        "answer": 2
+    },
+    {
+        "id": 495,
+        "question": "下面哪种力不是保守力？",
+        "answera": "摩擦力",
+        "answerb": "重力",
+        "answerc": "静电力",
+        "answer": 1
+    },
+    {
+        "id": 496,
+        "question": "暴雨指的是24小时降雨大于多少毫米？",
+        "answera": "30",
+        "answerb": "40",
+        "answerc": "50",
+        "answer": 3
+    },
+    {
+        "id": 497,
+        "question": "北斗七星中哪一颗其实是双星？",
+        "answera": "天璇",
+        "answerb": "开阳",
+        "answerc": "玉衡",
+        "answer": 2
+    },
+    {
+        "id": 498,
+        "question": "亚洲最大的铁路编组站在哪个城市？",
+        "answera": "北京",
+        "answerb": "郑州",
+        "answerc": "武汉",
+        "answer": 2
+    },
+    {
+        "id": 499,
+        "question": "空中下落的液滴呈现圆球状是因为？",
+        "answera": "地球重力",
+        "answerb": "空气浮力",
+        "answerc": "表面张力",
+        "answer": 3
+    },
+    {
+        "id": 500,
+        "question": "下列哪种是乙肝病毒的缩写？",
+        "answera": "HIV",
+        "answerb": "HBV",
+        "answerc": "HDV",
+        "answer": 2
+    },
+    {
+        "id": 501,
+        "question": "我国长征系列火箭诞生于哪一年？",
+        "answera": "1969年",
+        "answerb": "1970年",
+        "answerc": "1971年",
+        "answer": 2
+    },
+    {
+        "id": 502,
+        "question": "下列山脉中位于赤道附近的是哪一个？",
+        "answera": "安第斯山",
+        "answerb": "阿尔卑斯山",
+        "answerc": "乞力马扎罗山",
+        "answer": 3
+    },
+    {
+        "id": 503,
+        "question": "下列不是热量传递的方式的是？",
+        "answera": "热传导",
+        "answerb": "扩散",
+        "answerc": "对流",
+        "answer": 2
+    },
+    {
+        "id": 504,
+        "question": "下列不属于传统能源的是？",
+        "answera": "石油",
+        "answerb": "水能",
+        "answerc": "风能",
+        "answer": 3
+    },
+    {
+        "id": 505,
+        "question": "大笨钟位于英国的哪个城市？",
+        "answera": "伦敦",
+        "answerb": "曼彻斯特",
+        "answerc": "伯明翰",
+        "answer": 1
+    },
+    {
+        "id": 506,
+        "question": "大雁塔位于哪一个城市？",
+        "answera": "西安",
+        "answerb": "郑州",
+        "answerc": "洛阳",
+        "answer": 1
+    },
+    {
+        "id": 507,
+        "question": "下面不属于淡水鱼的是？",
+        "answera": "青鱼",
+        "answerb": "柴鱼",
+        "answerc": "鲢鱼",
+        "answer": 2
+    },
+    {
+        "id": 508,
+        "question": "下面那条河流中有电鳗生活？",
+        "answera": "长江",
+        "answerb": "尼罗河",
+        "answerc": "亚马逊河",
+        "answer": 3
+    },
+    {
+        "id": 509,
+        "question": "滑冰运动员在旋转时收回双臂，是为了？",
+        "answera": "保护身体",
+        "answerb": "增加转速",
+        "answerc": "减小转速",
+        "answer": 2
+    },
+    {
+        "id": 510,
+        "question": "多宝鱼的学名叫什么？",
+        "answera": "鲆鱼",
+        "answerb": "鲽鱼",
+        "answerc": "鳎鱼",
+        "answer": 1
+    },
+    {
+        "id": 511,
+        "question": "多米诺骨牌是以什么命名的？",
+        "answera": "动物名",
+        "answerb": "人名",
+        "answerc": "地名",
+        "answer": 2
+    },
+    {
+        "id": 512,
+        "question": "厄尔尼诺现象是哪国语言的音译？",
+        "answera": "英国",
+        "answerb": "法国",
+        "answerc": "西班牙",
+        "answer": 3
+    },
+    {
+        "id": 513,
+        "question": "人类最早的电池是意大利科学家付达在哪一年发明的？",
+        "answera": "1800年",
+        "answerb": "1801年",
+        "answerc": "1810年",
+        "answer": 1
+    },
+    {
+        "id": 514,
+        "question": "成功将哥德巴赫猜想推进的我国数学家是？",
+        "answera": "苏步青",
+        "answerb": "陈景润",
+        "answerc": "华罗庚",
+        "answer": 2
+    },
+    {
+        "id": 515,
+        "question": "我国劳动者工伤等级一共分为多少级？",
+        "answera": "8级",
+        "answerb": "9级",
+        "answerc": "10级",
+        "answer": 3
+    },
+    {
+        "id": 516,
+        "question": "英国的国花是哪一种？",
+        "answera": "玫瑰",
+        "answerb": "兰花",
+        "answerc": "梅花",
+        "answer": 1
+    },
+    {
+        "id": 517,
+        "question": "下面哪一个是国际单位制中的基本单位？",
+        "answera": "欧姆",
+        "answerb": "安培",
+        "answerc": "伏特",
+        "answer": 2
+    },
+    {
+        "id": 518,
+        "question": "下面元素哪一种不是过渡元素？",
+        "answera": "锰",
+        "answerb": "铁",
+        "answerc": "铝",
+        "answer": 3
+    },
+    {
+        "id": 519,
+        "question": "下列果树中属于浆果类果树的是？",
+        "answera": "猕猴桃",
+        "answerb": "苹果",
+        "answerc": "山楂",
+        "answer": 1
+    },
+    {
+        "id": 520,
+        "question": "下面不是十二星座的是哪一个？",
+        "answera": "白羊座",
+        "answerb": "猎户座",
+        "answerc": "人马座",
+        "answer": 2
+    },
+    {
+        "id": 521,
+        "question": "在交通标志中，表示警告一般用什么颜色？",
+        "answera": "红色",
+        "answerb": "黄色",
+        "answerc": "蓝色",
+        "answer": 2
+    },
+    {
+        "id": 522,
+        "question": "金鱼是一种观赏鱼类，它是由哪种鱼类演化而成的？",
+        "answera": "鲤鱼",
+        "answerb": "草鱼",
+        "answerc": "鲫鱼",
+        "answer": 3
+    },
+    {
+        "id": 523,
+        "question": "法国巴黎的凯旋门始建于哪一年？",
+        "answera": "1806年",
+        "answerb": "1808年",
+        "answerc": "1809年",
+        "answer": 1
+    },
+    {
+        "id": 524,
+        "question": "中国首座生态博物馆1998年在哪个省落成？",
+        "answera": "贵州",
+        "answerb": "云南",
+        "answerc": "广西",
+        "answer": 1
+    },
+    {
+        "id": 525,
+        "question": "狮子座流星雨每隔多少年出现一次？",
+        "answera": "18年",
+        "answerb": "33年",
+        "answerc": "42年",
+        "answer": 2
+    },
+    {
+        "id": 526,
+        "question": "北京十三陵是哪个封建王朝的皇家陵墓？",
+        "answera": "宋朝",
+        "answerb": "元朝",
+        "answerc": "明朝",
+        "answer": 3
+    },
+    {
+        "id": 527,
+        "question": "下面哪种材料可以用作中药？",
+        "answera": "石灰",
+        "answerb": "石蜡",
+        "answerc": "石膏",
+        "answer": 3
+    },
+    {
+        "id": 528,
+        "question": "下面不是中国四大名绣的是哪一个？",
+        "answera": "徽绣",
+        "answerb": "湘绣",
+        "answerc": "蜀绣",
+        "answer": 1
+    },
+    {
+        "id": 529,
+        "question": "著名的双子塔位于哪个城市？",
+        "answera": "新加坡",
+        "answerb": "吉隆坡",
+        "answerc": "雅加达",
+        "answer": 2
+    },
+    {
+        "id": 530,
+        "question": "太阳系中运行速度最快的行星是？",
+        "answera": "火星",
+        "answerb": "金星",
+        "answerc": "水星",
+        "answer": 3
+    },
+    {
+        "id": 531,
+        "question": "人们总说锦上添花，我国四大名锦中的宋锦产于哪里？",
+        "answera": "苏州",
+        "answerb": "南京",
+        "answerc": "成都",
+        "answer": 1
+    },
+    {
+        "id": 532,
+        "question": "苏州园林中外驰名，哪一年被列入世界文化遗产？",
+        "answera": "1995年",
+        "answerb": "1996年",
+        "answerc": "1997年",
+        "answer": 3
+    },
+    {
+        "id": 533,
+        "question": "泰姬陵位于哪个国家？",
+        "answera": "柬埔寨",
+        "answerb": "泰国",
+        "answerc": "印度",
+        "answer": 3
+    },
+    {
+        "id": 534,
+        "question": "下面行星中有光环是哪一个？",
+        "answera": "金星",
+        "answerb": "火星",
+        "answerc": "天王星",
+        "answer": 3
+    },
+    {
+        "id": 535,
+        "question": "下面哪种现象是由于缺乏维生素A引起的？",
+        "answera": "鸡胸",
+        "answerb": "脚气",
+        "answerc": "夜盲",
+        "answer": 3
+    },
+    {
+        "id": 536,
+        "question": "中医有五脏学说，下面哪个器官不在其之列？",
+        "answera": "心",
+        "answerb": "胃",
+        "answerc": "肾",
+        "answer": 2
+    },
+    {
+        "id": 537,
+        "question": "一个正常的成人共有多少颗牙齿？",
+        "answera": "28颗",
+        "answerb": "30颗",
+        "answerc": "32颗",
+        "answer": 3
+    },
+    {
+        "id": 538,
+        "question": "下列海洋中哪一个是我国最大的海？",
+        "answera": "南海",
+        "answerb": "东海",
+        "answerc": "黄海",
+        "answer": 1
+    },
+    {
+        "id": 539,
+        "question": "“人不可有傲气，但不可无傲骨”是谁的座右铭？",
+        "answera": "孙中山",
+        "answerb": "李大钊",
+        "answerc": "徐悲鸿",
+        "answer": 3
+    },
+    {
+        "id": 540,
+        "question": "我国第一颗原子弹研制成功是在哪一年？",
+        "answera": "1960年",
+        "answerb": "1962年",
+        "answerc": "1964年",
+        "answer": 3
+    },
+    {
+        "id": 541,
+        "question": "“丘比特”是西方传说中哪种神的别称？",
+        "answera": "天神",
+        "answerb": "爱神",
+        "answerc": "智慧之神",
+        "answer": 2
+    },
+    {
+        "id": 542,
+        "question": "孕妇多吃含哪种元素的食物很有利于分娩和健康？",
+        "answera": "铁",
+        "answerb": "锌",
+        "answerc": "钙",
+        "answer": 2
+    },
+    {
+        "id": 543,
+        "question": "世界电影著名男影星阿兰•德隆是何国人？",
+        "answera": "法国",
+        "answerb": "美国",
+        "answerc": "日本",
+        "answer": 1
+    },
+    {
+        "id": 544,
+        "question": "你知道世界上哪个国家拍摄电影最多吗？",
+        "answera": "中国",
+        "answerb": "美国",
+        "answerc": "印度",
+        "answer": 3
+    },
+    {
+        "id": 545,
+        "question": "撒尿小孩铜像坐落于什么地方？",
+        "answera": "纽约",
+        "answerb": "布鲁塞尔",
+        "answerc": "哥本哈根",
+        "answer": 2
+    },
+    {
+        "id": 546,
+        "question": "我国最大的瀑布“黄果树瀑布”位于哪个省？",
+        "answera": "湖南",
+        "answerb": "贵州",
+        "answerc": "四川",
+        "answer": 2
+    },
+    {
+        "id": 547,
+        "question": "电子计算机发明于哪一年？",
+        "answera": "1945年",
+        "answerb": "1946年",
+        "answerc": "1970年",
+        "answer": 2
+    },
+    {
+        "id": 548,
+        "question": "“世界无烟日”是在每年的哪一天？",
+        "answera": "3月31日",
+        "answerb": "4月7日",
+        "answerc": "5月31日",
+        "answer": 3
+    },
+    {
+        "id": 549,
+        "question": "我国草原候鸟冬天的栖息地在？",
+        "answera": "印度洋北岸",
+        "answerb": "东南亚",
+        "answerc": "中南半岛",
+        "answer": 1
+    },
+    {
+        "id": 550,
+        "question": "最早的校园歌曲出现在?",
+        "answera": "日本",
+        "answerb": "中国",
+        "answerc": "德国",
+        "answer": 1
+    },
+    {
+        "id": 551,
+        "question": "古代希腊奥运会每几年举行一届？",
+        "answera": "2年",
+        "answerb": "3年",
+        "answerc": "4年",
+        "answer": 3
+    },
+    {
+        "id": 552,
+        "question": "唯一能够前后左右飞行的鸟是？",
+        "answera": "海鸥",
+        "answerb": "金丝雀",
+        "answerc": "蜂鸟",
+        "answer": 3
+    },
+    {
+        "id": 553,
+        "question": "吉林省抚松县被人们称为是哪种药材之乡？",
+        "answera": "当归",
+        "answerb": "枸杞",
+        "answerc": "人参",
+        "answer": 3
+    },
+    {
+        "id": 554,
+        "question": "世界最大的内陆国是？",
+        "answera": "阿富汗",
+        "answerb": "哈塞克斯坦",
+        "answerc": "瑞士",
+        "answer": 2
+    },
+    {
+        "id": 555,
+        "question": "请问:火车连续发出两声长鸣,这表示:？",
+        "answera": "前进",
+        "answerb": "停留",
+        "answerc": "倒退",
+        "answer": 3
+    },
+    {
+        "id": 556,
+        "question": "第二次世界大战中死亡人数最多的国家是？",
+        "answera": "前苏联",
+        "answerb": "中国",
+        "answerc": "日本",
+        "answer": 1
+    },
+    {
+        "id": 557,
+        "question": "我国卫星火箭发射基地'西昌'位于？",
+        "answera": "西藏",
+        "answerb": "新疆",
+        "answerc": "四川",
+        "answer": 3
+    },
+    {
+        "id": 558,
+        "question": "文房四宝'中的毛笔是谁发明的?",
+        "answera": "乐毅",
+        "answerb": "闻仲",
+        "answerc": "蒙恬",
+        "answer": 3
+    },
+    {
+        "id": 559,
+        "question": "世界上使用人数最多的语言是？",
+        "answera": "英语",
+        "answerb": "汉语",
+        "answerc": "西班牙语",
+        "answer": 2
+    },
+    {
+        "id": 560,
+        "question": "世界上是被称为“教育王国”的哪一个国家？",
+        "answera": "中国",
+        "answerb": "美国",
+        "answerc": "以色列",
+        "answer": 3
+    },
+    {
+        "id": 561,
+        "question": "“豆寇年华”是指几岁？",
+        "answera": "13岁",
+        "answerb": "14岁",
+        "answerc": "15岁",
+        "answer": 1
+    },
+    {
+        "id": 562,
+        "question": "下列哪个奖项不在诺贝尔奖之列？",
+        "answera": "文学奖",
+        "answerb": "数学奖",
+        "answerc": "物理学奖",
+        "answer": 2
+    },
+    {
+        "id": 563,
+        "question": "中国面积最大的省份是哪一个?",
+        "answera": "四川",
+        "answerb": "新疆",
+        "answerc": "内蒙古",
+        "answer": 2
+    },
+    {
+        "id": 564,
+        "question": "著名通讯社路透社是哪一个国家的通讯社?",
+        "answera": "中国",
+        "answerb": "美国",
+        "answerc": "英国",
+        "answer": 3
+    },
+    {
+        "id": 565,
+        "question": "下列哪个岛国不是欧洲国家？",
+        "answera": "爱尔兰",
+        "answerb": "马尔代夫",
+        "answerc": "马耳他",
+        "answer": 2
+    },
+    {
+        "id": 566,
+        "question": "'念慈'是古代对对方亲属中哪一位的尊称？",
+        "answera": "父亲",
+        "answerb": "母亲",
+        "answerc": "伯父",
+        "answer": 2
+    },
+    {
+        "id": 567,
+        "question": "'下半旗致哀'的由来是源于什么人物的去世？",
+        "answera": "族长",
+        "answerb": "酋长",
+        "answerc": "船长",
+        "answer": 3
+    },
+    {
+        "id": 568,
+        "question": "下列哪个节日原是为纪念耶稣出生的？",
+        "answera": "圣诞节",
+        "answerb": "复活节",
+        "answerc": "愚人节",
+        "answer": 1
+    },
+    {
+        "id": 569,
+        "question": "我国少数民族分布最多的省份是？",
+        "answera": "广西",
+        "answerb": "西藏",
+        "answerc": "云南",
+        "answer": 3
+    },
+    {
+        "id": 570,
+        "question": "下列哪一个国家的货币名称不是'盾'？",
+        "answera": "印尼",
+        "answerb": "肯尼亚",
+        "answerc": "荷兰",
+        "answer": 2
+    },
+    {
+        "id": 571,
+        "question": "奔驰汽车原产于哪一个国家?",
+        "answera": "美国",
+        "answerb": "日本",
+        "answerc": "德国",
+        "answer": 3
+    },
+    {
+        "id": 572,
+        "question": "馒头是谁发明的?",
+        "answera": "李冰",
+        "answerb": "诸葛亮",
+        "answerc": "曹操",
+        "answer": 2
+    },
+    {
+        "id": 573,
+        "question": "人体最大的器官是？",
+        "answera": "皮肤",
+        "answerb": "脾",
+        "answerc": "肝脏",
+        "answer": 1
+    },
+    {
+        "id": 574,
+        "question": "亚洲第一个举办奥运会的国家?",
+        "answera": "韩国",
+        "answerb": "日本",
+        "answerc": "新加坡",
+        "answer": 2
+    },
+    {
+        "id": 575,
+        "question": "成语'卧薪尝胆'说的是哪个人物的故事?",
+        "answera": "夫差",
+        "answerb": "勾践",
+        "answerc": "伍子胥",
+        "answer": 2
+    },
+    {
+        "id": 576,
+        "question": "我国面积最大的湖泊是？",
+        "answera": "青海湖",
+        "answerb": "鄱阳湖",
+        "answerc": "洞庭湖",
+        "answer": 1
+    },
+    {
+        "id": 577,
+        "question": "世界国土面积最小的国家是？",
+        "answera": "梵蒂冈",
+        "answerb": "摩纳哥",
+        "answerc": "瑙鲁",
+        "answer": 1
+    },
+    {
+        "id": 578,
+        "question": "下列古都哪个被称为'六朝古都'?",
+        "answera": "洛阳",
+        "answerb": "西安",
+        "answerc": "南京",
+        "answer": 3
+    },
+    {
+        "id": 579,
+        "question": "下列历史上的事变是李世民发动的?",
+        "answera": "玄武门之变",
+        "answerb": "陈桥兵变",
+        "answerc": "靖康之变",
+        "answer": 1
+    },
+    {
+        "id": 580,
+        "question": "下列古代四大美女哪位是西汉时期的?",
+        "answera": "西施",
+        "answerb": "王昭君",
+        "answerc": "貂婵",
+        "answer": 2
+    },
+    {
+        "id": 581,
+        "question": "避雷针的发明者是?",
+        "answera": "富兰克林",
+        "answerb": "爱迪生",
+        "answerc": "伏打",
+        "answer": 1
+    },
+    {
+        "id": 582,
+        "question": "'冰激凌'是从哪国传进的外来语?",
+        "answera": "英国",
+        "answerb": "法国",
+        "answerc": "美国",
+        "answer": 1
+    },
+    {
+        "id": 583,
+        "question": "诺贝尔发明了什么?",
+        "answera": "炸药",
+        "answerb": "留声机",
+        "answerc": "电视",
+        "answer": 1
+    },
+    {
+        "id": 584,
+        "question": "《孙子兵法》共有多少篇?",
+        "answera": "13篇",
+        "answerb": "18篇",
+        "answerc": "36篇",
+        "answer": 1
+    },
+    {
+        "id": 585,
+        "question": "哈雷慧星的平均周期为?",
+        "answera": "54年",
+        "answerb": "66年",
+        "answerc": "76年",
+        "answer": 3
+    },
+    {
+        "id": 586,
+        "question": "被称为'诗圣'的唐代诗人为？",
+        "answera": "李白",
+        "answerb": "杜甫",
+        "answerc": "白居易",
+        "answer": 2
+    },
+    {
+        "id": 587,
+        "question": "泼水节是我国哪一民族一年中的最盛大的节日?",
+        "answera": "傣族",
+        "answerb": "苗族",
+        "answerc": "白族",
+        "answer": 1
+    },
+    {
+        "id": 588,
+        "question": "奥运会每四年举办一次,会期不超过多少天？",
+        "answera": "14天",
+        "answerb": "15天",
+        "answerc": "16天",
+        "answer": 3
+    },
+    {
+        "id": 589,
+        "question": "人体含水量百分比最高的器官是？",
+        "answera": "肝",
+        "answerb": "肾",
+        "answerc": "眼球",
+        "answer": 3
+    },
+    {
+        "id": 590,
+        "question": "下列名称不属于二十四节气的是？",
+        "answera": "谷雨",
+        "answerb": "芒种",
+        "answerc": "大伏",
+        "answer": 3
+    },
+    {
+        "id": 591,
+        "question": "血并不都是红色的,田螺的血是什么颜色？",
+        "answera": "黑色",
+        "answerb": "红色",
+        "answerc": "白色",
+        "answer": 3
+    },
+    {
+        "id": 592,
+        "question": "“文章千古事，得失寸心知”是谁的名言？",
+        "answera": "李白",
+        "answerb": "杜甫",
+        "answerc": "白居易",
+        "answer": 2
+    },
+    {
+        "id": 593,
+        "question": "张家界位于我国哪个省份？",
+        "answera": "四川",
+        "answerb": "湖北",
+        "answerc": "湖南",
+        "answer": 3
+    },
+    {
+        "id": 594,
+        "question": "“孑孓”是那种动物的幼虫？",
+        "answera": "蚊子",
+        "answerb": "苍蝇",
+        "answerc": "蜗牛",
+        "answer": 1
+    },
+    {
+        "id": 595,
+        "question": "世界上种植面积最大种植量最广泛的粮食作物是？",
+        "answera": "水稻",
+        "answerb": "小麦",
+        "answerc": "玉米",
+        "answer": 2
+    },
+    {
+        "id": 596,
+        "question": "脍炙人口的美食涮羊肉，起源于哪个朝代？",
+        "answera": "唐朝",
+        "answerb": "宋朝",
+        "answerc": "元朝",
+        "answer": 3
+    },
+    {
+        "id": 597,
+        "question": "电影《刘三姐》是反映什么民族的生活故事？",
+        "answera": "彝族",
+        "answerb": "苗族",
+        "answerc": "壮族",
+        "answer": 3
+    },
+    {
+        "id": 598,
+        "question": "我国发现最早的纸币是在哪个时期?",
+        "answera": "唐朝",
+        "answerb": "宋朝",
+        "answerc": "元朝",
+        "answer": 2
+    },
+    {
+        "id": 599,
+        "question": "'破釜沉舟'讲的是历史上哪位名人的事迹?",
+        "answera": "李煜",
+        "answerb": "项羽",
+        "answerc": "贾岛",
+        "answer": 2
+    },
+    {
+        "id": 600,
+        "question": "有“植物熊猫”之称的植物是？",
+        "answera": "银杏",
+        "answerb": "银杉",
+        "answerc": "水杉",
+        "answer": 2
+    },
+    {
+        "id": 601,
+        "question": "下列哪种维生素可治脚气病?",
+        "answera": "维生素A",
+        "answerb": "维生素B",
+        "answerc": "维生素C",
+        "answer": 2
+    },
+    {
+        "id": 602,
+        "question": "蜻蜓“点水”的目的是什么？",
+        "answera": "产卵",
+        "answerb": "喝水",
+        "answerc": "觅食",
+        "answer": 1
+    },
+    {
+        "id": 603,
+        "question": "“打蛇打七寸”的七寸是指？",
+        "answera": "咽喉",
+        "answerb": "心脏",
+        "answerc": "头部",
+        "answer": 2
+    },
+    {
+        "id": 604,
+        "question": "被列为'世界十大文豪'之一的中国文学家是？",
+        "answera": "茅盾",
+        "answerb": "郭沫若",
+        "answerc": "鲁迅",
+        "answer": 3
+    },
+    {
+        "id": 605,
+        "question": "彩虹的顶部是什么颜色的？",
+        "answera": "蓝",
+        "answerb": "紫",
+        "answerc": "红",
+        "answer": 3
+    },
+    {
+        "id": 606,
+        "question": "人体内的水份约占体重的百分比是多少？",
+        "answera": "0.5",
+        "answerb": "0.55",
+        "answerc": "0.6",
+        "answer": 3
+    },
+    {
+        "id": 607,
+        "question": "七大洲中面积最小的是？",
+        "answera": "非洲",
+        "answerb": "大洋洲",
+        "answerc": "南极洲",
+        "answer": 2
+    },
+    {
+        "id": 608,
+        "question": "石头城是对我国哪座城市的美称？",
+        "answera": "南昌",
+        "answerb": "南京",
+        "answerc": "拉萨",
+        "answer": 2
+    },
+    {
+        "id": 609,
+        "question": "有“世界花城”之称的是那个城市？",
+        "answera": "纽约",
+        "answerb": "伦敦",
+        "answerc": "巴黎",
+        "answer": 3
+    },
+    {
+        "id": 610,
+        "question": "人体最大的解毒器官是？",
+        "answera": "胃",
+        "answerb": "肾脏",
+        "answerc": "肝脏",
+        "answer": 3
+    },
+    {
+        "id": 611,
+        "question": "哪种花有毒却可止喘？",
+        "answera": "天山雪莲",
+        "answerb": "曼佗罗",
+        "answerc": "夹竹桃",
+        "answer": 2
+    },
+    {
+        "id": 612,
+        "question": "哪种水果多吃上火？",
+        "answera": "荔枝",
+        "answerb": "橙子",
+        "answerc": "桃子",
+        "answer": 1
+    },
+    {
+        "id": 613,
+        "question": "国鸟是公鸡的国家是？",
+        "answera": "美国",
+        "answerb": "英国",
+        "answerc": "法国",
+        "answer": 3
+    },
+    {
+        "id": 614,
+        "question": "《四库全书》是什么时候纂修的？",
+        "answera": "清朝",
+        "answerb": "明朝",
+        "answerc": "元朝",
+        "answer": 1
+    },
+    {
+        "id": 615,
+        "question": "在江浙一带最流行的地方戏曲是？",
+        "answera": "越剧",
+        "answerb": "黄梅戏",
+        "answerc": "京剧",
+        "answer": 1
+    },
+    {
+        "id": 616,
+        "question": "“五十步笑百步”出自？",
+        "answera": "《三国志》",
+        "answerb": "《孟子》",
+        "answerc": "《晏子春秋》",
+        "answer": 2
+    },
+    {
+        "id": 617,
+        "question": "成语“脱颖而出”的‘颖’是什么意思？",
+        "answera": "优秀",
+        "answerb": "稻穗",
+        "answerc": "锥尖",
+        "answer": 3
+    },
+    {
+        "id": 618,
+        "question": "诗名“蓦然回首，那人却在灯火栏栅处”出自哪个诗人？",
+        "answera": "李清照",
+        "answerb": "杜甫",
+        "answerc": "辛弃疾",
+        "answer": 3
+    },
+    {
+        "id": 619,
+        "question": "'红娘'由来是出自下列哪部古典名剧？",
+        "answera": "《琵琶记》",
+        "answerb": "《西厢记》",
+        "answerc": "《长生殿》",
+        "answer": 2
+    },
+    {
+        "id": 620,
+        "question": "下列什么物质会破坏臭氧层？",
+        "answera": "铁、锌",
+        "answerb": "氢、氧",
+        "answerc": "溴、氯",
+        "answer": 3
+    },
+    {
+        "id": 621,
+        "question": "下面哪座山是中国佛教四大名山之一？",
+        "answera": "峨眉山",
+        "answerb": "泰山",
+        "answerc": "华山",
+        "answer": 1
+    },
+    {
+        "id": 622,
+        "question": "代表“自负、自恋、尊敬”的花是？",
+        "answera": "水仙",
+        "answerb": "茉莉",
+        "answerc": "百合",
+        "answer": 1
+    },
+    {
+        "id": 623,
+        "question": "吃海鲜时不宜饮用哪种酒？",
+        "answera": "啤酒",
+        "answerb": "白酒",
+        "answerc": "红酒",
+        "answer": 1
+    },
+    {
+        "id": 624,
+        "question": "青蛙除了用肺外还用什么器官呼吸？",
+        "answera": "肌肉",
+        "answerb": "皮肤",
+        "answerc": "脾脏",
+        "answer": 2
+    },
+    {
+        "id": 625,
+        "question": "吉它有几根弦？",
+        "answera": "4根",
+        "answerb": "5根",
+        "answerc": "6根",
+        "answer": 3
+    },
+    {
+        "id": 626,
+        "question": "龙在十二生肖中排行第几？",
+        "answera": "3",
+        "answerb": "4",
+        "answerc": "5",
+        "answer": 3
+    },
+    {
+        "id": 627,
+        "question": "在糖水中加少量盐，尝起来会怎样？",
+        "answera": "变涩",
+        "answerb": "变咸",
+        "answerc": "更甜",
+        "answer": 3
+    },
+    {
+        "id": 628,
+        "question": "羊肉不能与下列哪个在一起吃，否则会中毒？",
+        "answera": "西瓜",
+        "answerb": "梨",
+        "answerc": "芒果",
+        "answer": 1
+    },
+    {
+        "id": 629,
+        "question": "我国的载人航天发射场是下列哪一个？",
+        "answera": "酒泉",
+        "answerb": "太原",
+        "answerc": "山西",
+        "answer": 1
+    },
+    {
+        "id": 630,
+        "question": "美国第一任总统是？",
+        "answera": "林肯",
+        "answerb": "华盛顿",
+        "answerc": "罗斯福",
+        "answer": 2
+    },
+    {
+        "id": 631,
+        "question": "以下哪一种动物属于鱼类？",
+        "answera": "娃娃鱼",
+        "answerb": "海马",
+        "answerc": "鳄鱼",
+        "answer": 2
+    },
+    {
+        "id": 632,
+        "question": "巴西人最喜爱的一种舞蹈是？",
+        "answera": "华尔兹",
+        "answerb": "桑巴",
+        "answerc": "探戈",
+        "answer": 2
+    },
+    {
+        "id": 633,
+        "question": "猩猩最讨厌什么线？",
+        "answera": "电线",
+        "answerb": "平行线",
+        "answerc": "弧线",
+        "answer": 2
+    },
+    {
+        "id": 634,
+        "question": "“风马牛不相及”这个成语出自哪部古著？",
+        "answera": "左传",
+        "answerb": "红楼梦",
+        "answerc": "道德经",
+        "answer": 1
+    },
+    {
+        "id": 635,
+        "question": "若有小面积皮肤损伤或烧伤、烫伤，应该涂上少许什么缓解疼痛？",
+        "answera": "牙膏",
+        "answerb": "红花油",
+        "answerc": "爽肤水",
+        "answer": 1
+    },
+    {
+        "id": 636,
+        "question": "巧克力的原材料是什么？",
+        "answera": "黑豆",
+        "answerb": "可可",
+        "answerc": "巧克力粉",
+        "answer": 2
+    },
+    {
+        "id": 637,
+        "question": "下列哪个不是十二生肖？",
+        "answera": "狗",
+        "answerb": "猪",
+        "answerc": "猫",
+        "answer": 3
+    },
+    {
+        "id": 638,
+        "question": "田园诗人是指的谁？",
+        "answera": "李白",
+        "answerb": "杜甫",
+        "answerc": "陶渊明",
+        "answer": 3
+    },
+    {
+        "id": 639,
+        "question": "以下哪个不是春节时的习俗？",
+        "answera": "放鞭炮",
+        "answerb": "贴对联",
+        "answerc": "剪头发",
+        "answer": 3
+    },
+    {
+        "id": 640,
+        "question": "最大的哺乳类动物是？",
+        "answera": "大象",
+        "answerb": "蓝鲸",
+        "answerc": "黑熊",
+        "answer": 2
+    },
+    {
+        "id": 641,
+        "question": "泰山在我国的哪个省份？",
+        "answera": "山东",
+        "answerb": "福建",
+        "answerc": "湖南",
+        "answer": 1
+    },
+    {
+        "id": 642,
+        "question": "美国的首都是？",
+        "answera": "旧金山",
+        "answerb": "纽约",
+        "answerc": "华盛顿",
+        "answer": 3
+    },
+    {
+        "id": 643,
+        "question": "亚马逊河位于哪个国家？",
+        "answera": "墨西哥",
+        "answerb": "巴西",
+        "answerc": "荷兰",
+        "answer": 2
+    },
+    {
+        "id": 644,
+        "question": "会对大气层造成巨大破坏的气体是？",
+        "answera": "氯",
+        "answerb": "氟",
+        "answerc": "氧",
+        "answer": 2
+    },
+    {
+        "id": 645,
+        "question": "交通信号灯一般以哪些颜色作为指示？",
+        "answera": "红、绿、黄",
+        "answerb": "红、蓝、绿",
+        "answerc": "黄、蓝、白",
+        "answer": 1
+    },
+    {
+        "id": 646,
+        "question": "人行横道一般采用哪种颜色作为标记？",
+        "answera": "白",
+        "answerb": "红",
+        "answerc": "蓝",
+        "answer": 1
+    },
+    {
+        "id": 647,
+        "question": "超级玛丽的兄弟路易是什么颜色？",
+        "answera": "红",
+        "answerb": "黄",
+        "answerc": "绿",
+        "answer": 3
+    },
+    {
+        "id": 648,
+        "question": "百家姓中，排行第一的姓氏是？",
+        "answera": "赵",
+        "answerb": "钱",
+        "answerc": "孙",
+        "answer": 1
+    },
+    {
+        "id": 649,
+        "question": "乔布斯所在的一家以水果为名的公司名字为？",
+        "answera": "凤梨",
+        "answerb": "樱桃",
+        "answerc": "苹果",
+        "answer": 3
+    },
+    {
+        "id": 650,
+        "question": "安卓的标识是一个绿色的什么？",
+        "answera": "坦克",
+        "answerb": "飞机",
+        "answerc": "机器人",
+        "answer": 3
+    },
+    {
+        "id": 651,
+        "question": "为了庆祝中华人民共和国成立所诞生的节日是？",
+        "answera": "国庆节",
+        "answerb": "劳动节",
+        "answerc": "儿童节",
+        "answer": 1
+    },
+    {
+        "id": 652,
+        "question": "超人在传统形象中，外穿的内裤是什么颜色？",
+        "answera": "黄色",
+        "answerb": "蓝色",
+        "answerc": "红色",
+        "answer": 3
+    },
+    {
+        "id": 653,
+        "question": "以下哪个超级英雄不能自由的飞行？",
+        "answera": "蝙蝠侠",
+        "answerb": "绿灯侠",
+        "answerc": "超人",
+        "answer": 1
+    },
+    {
+        "id": 654,
+        "question": "在中国，白天最长的季节是？",
+        "answera": "春",
+        "answerb": "夏",
+        "answerc": "秋",
+        "answer": 2
+    },
+    {
+        "id": 655,
+        "question": "下列哪个是地球的卫星？",
+        "answera": "火星",
+        "answerb": "月球",
+        "answerc": "木星",
+        "answer": 2
+    },
+    {
+        "id": 656,
+        "question": "如今，拥有国土最多的国家是？",
+        "answera": "俄罗斯",
+        "answerb": "中国",
+        "answerc": "印度",
+        "answer": 1
+    },
+    {
+        "id": 657,
+        "question": "2016年，哪国宣布退出欧盟？",
+        "answera": "德国",
+        "answerb": "法国",
+        "answerc": "英国",
+        "answer": 3
+    },
+    {
+        "id": 658,
+        "question": "俄罗斯的首都是哪个城市？",
+        "answera": "叶卡捷琳堡",
+        "answerb": "莫斯科",
+        "answerc": "下诺夫哥罗德",
+        "answer": 2
+    },
+    {
+        "id": 659,
+        "question": "砸缸救人的是下列哪一位？",
+        "answera": "司马缸",
+        "answerb": "司马光",
+        "answerc": "司马迁",
+        "answer": 2
+    },
+    {
+        "id": 660,
+        "question": "中国历史上第一位统一华夏的帝王是？",
+        "answera": "朱元璋",
+        "answerb": "嬴政",
+        "answerc": "孙权",
+        "answer": 2
+    },
+    {
+        "id": 661,
+        "question": "西游记中，谁将孙悟空压在五指山下？",
+        "answera": "玉帝",
+        "answerb": "王母娘娘",
+        "answerc": "如来",
+        "answer": 3
+    },
+    {
+        "id": 662,
+        "question": "水浒传中，谁在景阳岗中徒手打虎？",
+        "answera": "宋江",
+        "answerb": "武松",
+        "answerc": "卢俊义",
+        "answer": 2
+    }
+]

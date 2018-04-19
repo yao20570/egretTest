@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="HeroRendererSkin" minHeight="50" minWidth="100" xmlns:e="http://ns.egret.com/eui"
+        xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing" width="600" states="up,down" >
+	<e:Image id="bg1" scale9Grid="1,3,8,8" width="600" height="130" source="v1_img_kelashen6_png" x="0" y="0"/>
+	<e:Image id="bg2" scale9Grid="1,3,8,8" source="v1_img_kelashen6_b_png" width="600" height="128" x="0" y="0"/>
+	<e:Image id="box" width="108" height="108" x="12" y="12" source="{data.box}"/>
+	<components:Button id="icon" label="" x="18" y="18" bgStr="{data.icon}" skinName="skins.ButtonASkin" width="96" height="96"/>
+	<e:Image id="tip" width="20" height="20" x="110" y="8" source="v1_img_hongdiantishi_png"/>
+	<e:Image id="troopType" width="34" height="34" x="12" y="12" source="{data.troopType}"/>
+	<e:Label id="nameLb" text="{data.name}" x="148" y="12" size="22" fontFamily="黑体" textColor="{data.color}"/>
+	<e:Label id="lvLb" text="{data.lv}" x="238" y="12" size="22" fontFamily="黑体" textColor="{data.color}"/>
+	<e:Label id="atkNote" text="攻击" x="148" y="61" size="20" fontFamily="黑体"/>
+	<e:Label id="atkLb" text="{data.atk}" x="208" y="61" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+	<e:Label id="defNote" text="防御" x="282" y="61" size="20" fontFamily="黑体"/>
+	<e:Label id="defLb" text="{data.def}" x="342" y="61" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+	<e:Label id="troopsNote" text="兵力" x="148" y="94" size="20" fontFamily="黑体"/>
+	<components:Progress id="troops" width="140" height="20" x="208" y="95" value="45" onStr="v1_bar_blue_3_png" onUStr="v1_bar_b1_png"/>
+	<e:Label id="troopsLb" text="13010/13010" x="231.35" y="96" size="18" fontFamily="黑体"/>
+	<components:Button id="addTroops" label="" x="362" y="87" width="34" height="34" skinName="skins.ButtonASkin" bgStr="v1_btn_increase_png"/>
+	<e:Image id="warState" width="29" height="40" x="496" y="0" source="{data.warState}"/>
+	<components:Button id="changeBtn" label="更换" x="438" y="61"/>
+	<e:Label id="noteLb" text="{data.note}" x="148" size="20" fontFamily="黑体" verticalCenter="0"/>
+	<e:Rect id="_rect" width="100%" height="100%" fillAlpha="0.4" includeIn="down" x="0" y="0"/>	
+</e:Skin>

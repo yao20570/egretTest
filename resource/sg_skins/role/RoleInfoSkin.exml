@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoleInfoSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView width="100%" height="100%" x="0" y="0" closeImg="v1_btn_closebig_png" title="主公信息" skinName="skins.PanelSkin">
+		<e:Group x="0" y="78" anchorOffsetY="0" width="100%" height="94%">
+			<e:Group x="0" y="0" anchorOffsetY="0" height="511">
+				<e:Image id="role_img" width="640" height="526" x="0" y="2" source="nanzhu_png" scale9Grid="80,64,480,387" anchorOffsetY="0"/>
+				<e:Image id="contry_img" width="89" height="220" x="5" y="0" scale9Grid="11,27,67,166" source=""/>
+				<e:Image width="320" height="353" x="0" y="434.9" anchorOffsetY="0" source="v1_img_roleshade_png" scale9Grid="40,44,240,265"/>
+				<e:Image width="320" height="353" x="640" y="434.9" anchorOffsetY="0" source="v1_img_roleshade_png" scale9Grid="40,44,240,265" scaleX="-1"/>
+				<e:Image width="285" height="63" y="500" source="v1_btn_fighting_png" scale9Grid="35,7,215,49" x="178"/>
+				<e:Image width="33" height="35" x="194" y="498" scale9Grid="4,5,30,30" source="v2_img_zjd_amw_png"/>
+				<e:Image width="74" height="22" x="226" y="516" source="v2_fonts_fighting_png" scale9Grid="9,2,56,18"/>
+				<e:BitmapLabel id="score" width="130" height="20" x="304" y="520" font="score_num_fnt" text=""/>
+			</e:Group>
+			<e:Group x="75" y="600">
+				<e:Image width="104" height="104" x="2" y="2" source="i130000_tx_png"/>
+				<e:Image width="108" height="108" x="0" y="0" source="v2_img_kapaiygwc_png" scale9Grid="13,13,82,82"/>
+				<e:Group x="135" y="34">
+					<e:Image width="298" height="40" source="v1_img_shurukuang_png" scale9Grid="5,5,30,30" verticalCenter="0" horizontalCenter="0"/>
+					<e:Label id="role_name" text="Label" size="25" textColor="0x77d4fd" horizontalCenter="0" verticalCenter="0"/>
+				</e:Group>
+				<e:Image id="rename" width="34" height="34" x="456" y="36" source="v1_btn_change_png" scale9Grid="4,4,26,26"/>
+			</e:Group>
+			<e:Group x="0" y="800">
+				<e:Image width="640" height="200" x="0" y="0" source="v1_img_black20_png"/>
+				<e:Image width="29" height="30" x="32.5" y="17" anchorOffsetX="2" source="v2_img_paihangzg_png"/>
+				<e:Image width="29" height="30" x="304.5" y="17" anchorOffsetX="2" source="v2_img_vipzg_png"/>
+				<e:Image id="inc_vip" width="34" height="34" x="584.5" y="15" anchorOffsetX="2" source="v1_btn_increase_png"/>
+				<e:Image width="31" height="30" x="32.5" y="82" anchorOffsetX="2" source="v2_img_jueweizg_png"/>
+				<e:Image width="31" height="30" x="304.5" y="82" anchorOffsetX="2" source="v2_img_tilizg_png"/>
+				<components:Progress id="egProgress" width="142" height="14" x="412.5" y="93" onStr="v1_bar_blue_3_png" onUStr="v1_bar_b1_png"/>
+				<e:Label id="egLabel" text="" x="412.5" y="92" width="142" height="14" size="18" verticalAlign="middle" textAlign="center"/>
+				<e:Image id="inc_p_strength" width="34" height="34" x="584.5" y="80" anchorOffsetX="2" source="v1_btn_increase_png"/>
+				<e:Image width="31" height="30" x="32.5" y="147" anchorOffsetX="2" source="v2_img_wj_zhangong_png"/>
+				<e:Image width="31" height="30" x="304.5" y="147" anchorOffsetX="2" source="v2_img_dengjizg_png"/>
+				<components:Progress id="expProgress" width="142" height="14" x="412.5" y="155" onStr="v1_bar_yellow_8_png" onUStr="v1_bar_b1_png"/>
+				<e:Label id="expLabel" text="" x="412.5" y="154" width="142" height="14" size="18" verticalAlign="middle" textAlign="center"/>
+				<e:Label text="排行:" x="73.5" y="22" size="20" anchorOffsetY="0" height="20"/>
+				<e:Label text="VIP等级:" x="345.5" y="22" size="20"/>
+				<e:Label id="rank" text="未上榜" x="139.5" y="22" size="20"/>
+				<e:BitmapLabel id="vip" width="50" height="20" x="476.5" y="22" font="score_num_fnt" text=""/>
+				<e:Label text="爵位:" x="73.5" y="87" size="20"/>
+				<e:Label text="体力:" x="345.5" y="87" size="20"/>
+				<e:Label id="levelLabel" text="" x="345.5" y="151" size="20"/>
+				<e:Label id="knight" text="" x="139.5" y="87" size="20"/>
+				<e:Label text="战功:" x="73.5" y="151" size="20"/>
+				<e:Label id="war_work" text="" x="139.5" y="151" size="20"/>
+			</e:Group>
+			<e:Group y="1100" x="38">
+				<components:Button id="set_head_btn" label="头像设置" x="0" y="0" bgStr="v1_btn_blue1_png" skinName="skins.ButtonSkin"/>
+				<components:Button id="help_btn" label="帮助" x="190" y="0" bgStr="v1_btn_blue1_png" skinName="skins.ButtonSkin"/>
+				<components:Button id="set_btn" label="设置" x="382" y="0" bgStr="v1_btn_yellow1_png" skinName="skins.ButtonSkin"/>
+				<e:layout>
+				<e:HorizontalLayout paddingLeft="0" gap="50" horizontalAlign="center" paddingBottom="20"/>
+				</e:layout>
+			</e:Group>
+			<e:layout>
+				<e:VerticalLayout horizontalAlign="center" verticalAlign="justify" paddingBottom="20" paddingTop="0" gap="6"/>
+			</e:layout>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

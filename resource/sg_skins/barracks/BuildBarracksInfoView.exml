@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuildBarracksInfoView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView x="0" y="0" title="弓兵营">
+		<components:Button id="btnhelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+		<e:Image width="640" x="0" y="68" anchorOffsetY="0" source="v1_img_bb_jpg"/>
+		<e:Group id="info" width="640" height="192" x="0" y="74" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Image id="barracksIcon" x="20" y="12" source="v1_img_gongbing1_png" scale9Grid="27,35,47,42" width="49" height="56"/>
+			<e:Image id="barrackType" x="78" y="-4" source="v1_img_gongbingqs1_png"/>
+			<e:Label text="克制：" x="208" y="20" size="20" fontFamily="黑体"/>
+			<e:Label id="restrainType" text="弓兵" x="266" y="20" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+			<e:Label text="本营容量：" x="208" y="60" size="20" fontFamily="黑体"/>
+			<e:Label id="capacity" text="140000" x="306" y="60" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+			<e:Label text="当前兵力：" x="208" y="100" size="20" fontFamily="黑体"/>
+			<e:Label id="curNum" text="4399" x="310" y="100" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+			<e:Label text="扩充加成：" x="208" y="140" size="20" fontFamily="黑体"/>
+			<e:Label id="addition" text="+0" x="310" y="140" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+			<e:Group width="232" height="192" x="400" y="0" anchorOffsetX="0">
+				<e:Label text="募兵令" x="110" y="22" size="20" textColor="0x77d4fd" fontFamily="黑体"/>
+				<e:Label text="未激活" x="110" y="56" size="20" fontFamily="黑体" textColor="0xd72322"/>
+				<e:Image height="72" x="20" y="12" source="v1_img_touxiangkuangzi_png" scale9Grid="22,23,67,55" width="72"/>
+				<e:Image x="20" y="98" source="v1_img_yu_png" width="72" height="72"/>
+				<e:Label text="阵雨" x="110" y="108" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+				<e:Label text="银币采集" x="110" y="142" size="20" fontFamily="黑体" textColor="0xed8e0b"/>
+			</e:Group>
+			<e:Image width="640" height="3" x="0" y="192" source="v1_line_blue1_png" scale9Grid="2,0,16,2"/>
+		</e:Group>
+		<e:Group width="640" height="112" x="0" y="268">
+			<e:Label text="募兵数" x="50" y="20" size="20" fontFamily="黑体"/>
+			<e:Label id="mubingNum" text="550" x="124" y="20" size="20" textColor="0x77d4fd" fontFamily="黑体"/>
+			<e:Label text="剩余时间" x="217.33" y="20" size="20" fontFamily="黑体"/>
+			<e:Label text="00:10:59" x="315.33" y="20" size="20" textColor="0x77d4fd" fontFamily="黑体"/>
+			<e:Group width="200" height="112" x="440" y="0">
+				<e:Image x="16" y="0" source="i2_png" width="50" height="50"/>
+				<e:Label text="260K" x="67.01" y="15" size="20" fontFamily="黑体" textColor="0x77d4fd"/>
+				<e:Label text="/2.61K" x="112.36" y="15" size="20" fontFamily="黑体"/>
+				<components:Button label="招募" x="43.67" y="40" width="130" height="50"/>
+			</e:Group>
+			<components:Progress width="20" height="20" x="112" y="65"/>
+			<e:Image width="640" height="3" x="0" y="112" source="v1_line_blue1_png" scale9Grid="2,0,16,2"/>
+		</e:Group>
+		<e:Group width="640" height="112" x="0" y="384.54">
+			<e:Label text="扩充招募队列" x="50" y="20" size="20" fontFamily="黑体"/>
+			<components:Button label="扩充" x="485" y="40" width="130" height="50"/>
+			<e:Label text="点击扩充招募队列，并增加本营容量" x="50" y="78" size="16" fontFamily="黑体" textColor="0xc0cdd3"/>
+			<e:Label id="kcNum" text="3000" x="310.73" y="78" size="16" fontFamily="黑体" textColor="0x77d4fd"/>
+			<e:Image width="640" height="3" x="0" y="112" source="v1_line_blue1_png" scale9Grid="2,0,16,2"/>
+		</e:Group>
+		<e:Group width="640" height="120" x="0" y="1280" anchorOffsetY="120">
+			<e:Image width="640" height="120" x="0" y="0" source="v1_img_kelashen6_png"/>
+			<components:Button label="购买弓兵" x="60" y="29" bgStr="v1_btn_yellow1_png" bgGrayStr="v1_btn_yellow1_png"/>
+			<components:Button label="募兵上线" x="430" y="29"/>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

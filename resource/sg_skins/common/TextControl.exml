@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TextControl" width="150" height="50" currentState="up" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" states="up,down,disabled" >
+	<e:Image width="100%" height="100%" x.disabled="0" x.down="0" y.disabled="0" y.down="0" source="{background}" source.up="{normalTextrue}" source.down="{selectTexture}" source.disabled="{disabledTextrue}" left.up="0" top.up="0" width.up="100%" height.up="100%" x="0" y="0"/>
+	<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" scaleX.down="1" scaleY.down="1" text="" text.down="button"/>
+</e:Skin>

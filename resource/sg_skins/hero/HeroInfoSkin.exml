@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroInfoSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView width="100%" height="100%" x="0" y="0" title="武将">
+		<e:TabBar id="tabBar" width="640" height="65" x="0" y="78" selectedIndex="0" scaleX="1" scaleY="1" itemRendererSkinName="skins.TabBarSkin">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object name="主力武将" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+					<e:Object name="采集队列" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+					<e:Object name="城防队列" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+				</e:Array>
+			</e:ArrayCollection>
+		</e:TabBar>
+		<e:Group x="0" y="137" width="640" height="515" scaleX="1" scaleY="1">
+			<e:Group id="_hero_img_group" width="640" height="515"/>
+			<e:Image id="qualifi" x="14" y="0" source="v2_img_pelgzi_png"/>
+			<e:Image id="kindImg" x="38.5" y="24" source="v2_img_gong_png"/>
+			<e:Label id="nameLb" text="鲁智深" x="27.5" y="73.5" anchorOffsetX="0" width="47" anchorOffsetY="0" height="128" textAlign="center" size="36" fontFamily="SimHei" wordWrap="false" lineSpacing="5"/>
+			<e:Image id="_arrow_up_left" x="27.5" verticalCenter="0" source="v1_btn_jiantou_png"/>
+			<e:Image id="_arrow_up_right" verticalCenter="0.5" scaleX="-1" source="v1_btn_jiantou_png" x="612.5"/>
+		</e:Group>
+		<e:Group x="0" y="554">
+			<e:Image x="0" y="0" source="v2_img_roleshade_wujiang_png"/>
+			<e:Image x="640" y="1" source="v2_img_roleshade_wujiang_png" scaleX="-1"/>
+			<e:Group x="0" y="-26">
+				<e:Image x="0" y="0" source="v2_btn_ZBqiang_png"/>
+				<e:Image x="0" y="0" source="v2_btn_zhuangbeizi_png"/>
+				<e:Image x="0" y="0" source="i2019_png"/>
+				<e:Image x="14" y="100" source="v2_img_wj_star_png"/>
+				<e:Image x="46" y="116" source="v2_img_wj_star_png"/>
+				<e:Image x="76" y="100" source="v2_img_wj_star_png"/>
+				<e:Image x="78" y="2" source="v1_img_hongdiantishi_png"/>
+			</e:Group>
+			<e:Group x="98" y="26">
+				<e:Image x="0" y="98" source="v2_btn_ZBjian_png" scaleY="-1"/>
+				<e:Image x="0" y="0" source="v2_btn_zhuangbeizi_png"/>
+				<e:Image x="4" y="6" source="i2020_png"/>
+				<e:Image x="12" y="102" source="v2_img_wj_starb_png"/>
+				<e:Image x="78" y="102" source="v2_img_wj_starb_png"/>
+				<e:Image x="44" y="122" source="v2_img_wj_starb_png"/>
+				<e:Image x="82" y="2" source="v1_img_hongdiantishi_png"/>
+			</e:Group>
+			<e:Image x="210" y="42" source="v2_btn_ZBjia_png"/>
+			<e:Image x="324" y="42" source="v2_btn_ZBkui_png"/>
+			<e:Image x="434" y="24" source="v2_btn_ZBshu_png"/>
+			<e:Image x="532" y="-26" source="v2_btn_ZByin_png"/>
+			<e:Image x="210" y="42" source="v2_btn_zhuangbeizi_png"/>
+			<e:Image x="324" y="42" source="v2_btn_zhuangbeizi_png"/>
+		</e:Group>
+		<e:Group x="0" y="725">
+			<e:Image x="0" y="0" source="v1_img_kelashen6_b_png" scale9Grid="43,2,264,14" width="640" height="50"/>
+			<e:Image x="0" y="0" source="v2_img_xiaobiaoti3_png"/>
+			<e:Label text="基础资质" x="96" y="14" size="22"/>
+			<e:Image x="196" y="5" source="v2_btn_wj_fenxiang_png"/>
+			<e:Label text="武将属性" x="412" y="14" size="22"/>
+			<e:Image id="_hero_attribute" x="510" y="9" source="v2_btn_wj_xiangqing_png"/>
+		</e:Group>
+		<e:Group x="0" y="775" height="238">
+			<e:Image x="0" y="0" source="v1_bg_kelashen_png" width="640" height="238" scale9Grid="5,5,34,34"/>
+			<e:Group id="base" x="0" y="0" width="640" height="238">
+				<e:Group x="28" y="23">
+					<e:Image x="0" y="0" source="v2_img_wj_zizhi_png" rotation="359.54"/>
+					<e:Label text="资质" x="52" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+					<e:Label id="qulifiLb" text="102+110" x="112" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+					<e:Image x="0" y="50" source="v2_img_wj_gong_png" rotation="359.54"/>
+					<e:Label text="攻" x="52" y="57" size="22" fontFamily="Arial"/>
+					<components:Progress id="gongProBar" width="140" height="22" x="92" y="57"/>
+					<e:Label id="gongLb" text="90" x="247" y="57" size="22" fontFamily="Arial"/>
+					<e:Image x="0" y="100" source="v2_img_wj_fang_png" rotation="359.54"/>
+					<e:Label text="防" x="52" y="104" size="22" fontFamily="Arial"/>
+					<components:Progress id="fangProBar" width="140" height="22" x="92" y="105"/>
+					<e:Label id="fangLb" text="90" x="247" y="105" size="22" fontFamily="Arial"/>
+					<e:Image x="0" y="150" source="v2_img_wj_bing_png" rotation="359.54"/>
+					<e:Label text="兵" x="52" y="154" size="22" fontFamily="Arial"/>
+					<components:Progress id="bingProBar" width="140" height="22" x="92" y="153"/>
+					<e:Label id="bingLb" text="90" x="247" y="153" size="22" fontFamily="Arial"/>
+				</e:Group>
+				<e:Group x="338" y="23">
+					<e:Image x="0" y="0" rotation="359.54" source="v2_img_dengjizg_png"/>
+					<e:Label text="等级" x="40" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+					<components:Progress id="lvProBar" width="140" height="22" x="94" y="5" onStr="v2_bar_yellow_wujing_png"/>
+					<e:Image x="0" y="52" rotation="359.54" source="v2_img_wj_gongji_png"/>
+					<e:Label text="攻击" x="40" y="57" size="22" fontFamily="Arial"/>
+					<e:Label id="atkLb" text="" x="94" y="57" size="22" fontFamily="Arial" textColor="0x77d4fd"/>
+					<e:Image x="0" y="100" rotation="359.54" source="v2_img_wj_fangyu_png"/>
+					<e:Label text="防御" x="40" y="104" size="22" fontFamily="Arial"/>
+					<e:Label id="defLb" text="" x="94" y="105" size="22" fontFamily="Arial" textColor="0x77d4fd"/>
+					<e:Image x="0" y="150" rotation="359.54" source="v2_img_wj_bingli_png"/>
+					<e:Label text="兵力" x="40" y="154" size="22" fontFamily="Arial"/>
+					<e:Label id="troopsLb" text="" x="94" y="153" size="22" fontFamily="Arial" textColor="0x77d4fd"/>
+					<e:Image id="addLv" x="240" y="0" source="v1_btn_increase_png"/>
+				</e:Group>
+				<e:Image source="v2_line_wujiang_png" y="0" horizontalCenter="0"/>
+				<e:Image x="294" y="209" source="v1_img_huanyedian2_png"/>
+				<e:Image x="326" y="211" source="v1_img_huanyedian1_png"/>
+			</e:Group>
+			<e:Group id="detail" x="640" y="0" width="640" height="238">
+				<e:Image y="10" source="v1_line_blue1_png" width="100%" scale9Grid="2,0,16,1" horizontalCenter="0"/>
+				<e:Group x="0" y="23" width="100%">
+					<e:Group x="0" y="0" scaleX="1" scaleY="1">
+						<e:Image x="0" y="0" rotation="359.54" source="v2_img_wj_gongji_png"/>
+						<e:Label text="攻击" x="38" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+						<e:Label id="attrAtkLb" text="1252+2377" x="89" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+						<e:Image x="0" y="50" rotation="359.54" source="v2_img_wj_qg_png"/>
+						<e:Label text="强攻" x="38" y="57" size="22" fontFamily="Arial"/>
+						<e:Label id="attrHardAtkLb" text="90+66" x="89" y="57" size="22" fontFamily="Arial"/>
+						<e:Image x="0" y="100" rotation="359.54" source="v2_img_wj_sc_png"/>
+						<e:Label text="守城" x="38" y="104" size="22" fontFamily="Arial"/>
+						<e:Label id="attrGuardLb" text="90+88" x="89" y="105" size="22" fontFamily="Arial"/>
+						<e:Image x="0" y="150" rotation="359.54" source="v2_img_wj_bj_png"/>
+						<e:Label text="暴击" x="38" y="154" size="22" fontFamily="Arial"/>
+						<e:Label id="attrCritLb" text="10%" x="89" y="155" size="22" fontFamily="Arial"/>
+					</e:Group>
+					<e:Group x="207" y="0" scaleX="1" scaleY="1">
+						<e:Image x="0" y="0" rotation="359.54" source="v2_img_wj_fangyu_png"/>
+						<e:Label text="防御" x="38" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+						<e:Label id="attrDefLb" text="1252+2377" x="89" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+						<e:Image x="0" y="50" rotation="359.54" source="v2_img_wj_qf_png"/>
+						<e:Label text="强防" x="38" y="57" size="22" fontFamily="Arial"/>
+						<e:Label id="attrHardDefLb" text="90+66" x="89" y="57" size="22" fontFamily="Arial"/>
+						<e:Image x="0" y="100" rotation="359.54" source="v2_img_wj_mz_png"/>
+						<e:Label text="命中" x="38" y="104" size="22" fontFamily="Arial"/>
+						<e:Label id="attrHitfLb" text="90+88" x="89" y="105" size="22" fontFamily="Arial"/>
+						<e:Image x="0" y="150" rotation="359.54" source="v2_img_wj_jr_png"/>
+						<e:Label text="坚韧" x="38" y="154" size="22" fontFamily="Arial"/>
+						<e:Label id="attrToughLb" text="0" x="89" y="155" size="22" fontFamily="Arial"/>
+					</e:Group>
+					<e:Group x="413" y="0" scaleX="1" scaleY="1">
+						<e:Image x="0" y="0" rotation="359.54" source="v2_img_wj_bingli_png"/>
+						<e:Label text="兵力" x="38" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+						<e:Label id="attrTroopsLb" text="1252+2377" x="89" y="5" size="22" fontFamily="Arial" rotation="359.54"/>
+						<e:Image x="0" y="50" rotation="359.54" source="v2_img_wj_gc_png"/>
+						<e:Label text="攻城" x="38" y="57" size="22" fontFamily="Arial"/>
+						<e:Label id="attrAtkCityLb" text="90+66" x="89" y="57" size="22" fontFamily="Arial"/>
+						<e:Image x="0" y="100" rotation="359.54" source="v2_img_wj_sb_png"/>
+						<e:Label text="闪避" x="38" y="104" size="22" fontFamily="Arial"/>
+						<e:Label id="attrDodgeLb" text="0" x="89" y="105" size="22" fontFamily="Arial"/>
+					</e:Group>
+					<e:layout>
+						<e:HorizontalLayout horizontalAlign="justify"/>
+					</e:layout>
+				</e:Group>
+			</e:Group>
+			<e:Image id="_arrow_down_left" x="27.5" y="97" source="v1_btn_jiantou_png"/>
+			<e:Image id="_arrow_down_right" x="612.5" y="97" source="v1_btn_jiantou_png" scaleX="-1"/>
+		</e:Group>
+		<e:Group x="0" width="640" bottom="20">
+			<components:Button label="一键卸下" x="0" y="0"/>
+			<components:Button id="_hero_train" label="武将培养" x="160" y="0"/>
+			<components:Button id="_hero_soul" label="武将星魂" x="320" y="0"/>
+			<components:Button id="_hero_forward" label="普通进阶" x="480" y="0" bgStr="v1_btn_yellow1_png"/>
+			<e:layout>
+				<e:HorizontalLayout/>
+			</e:layout>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ProduceCompSkin" width="640" height="1150" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:components="components.*">
+	<e:Group id="panel_root" width="640" height="100%" y="0" horizontalCenter="0">
+		<e:Group id="gourp_top" width="640" height="160" x="0" scaleX="1" scaleY="1" top="0">
+			<e:Image id="img_top_bg" width="640" height="160" x="0" scaleX="1" scaleY="1" top="0" fillMode="clip" source="v2_img_xlp_jpg"/>
+			<e:Label id="lab_smith_name" text="Label" x="169" y="32"/>
+			<e:Label id="lab_smith_desc1" text="Label" x="169" y="74"/>
+			<e:Label id="lab_smith_desc2" text="Label" x="169" y="104"/>
+			<e:Label id="lab_smith_left_time" text="Label" x="449" y="104"/>
+			<e:Image id="img_state" width="140" height="46" x="441" y="39" source="v2_fonts_guyongzhong_png"/>
+			<e:Group id="group_smith_icon" width="108" height="108" x="26" y="26"/>
+		</e:Group>
+		<e:Scroller id="scroller_mid" width="640" height="680" x="0" y="160" anchorOffsetY="0">
+			<e:Group width="640" height="680" anchorOffsetY="0">
+				<e:TabBar id="tab_quality" width="640" height="65" x="0" y="0" selectedIndex="0" itemRendererSkinName="skins.TabBarTipsSkin" scaleX="1" scaleY="1">
+					<e:ArrayCollection>
+						<e:Array>
+							<e:Object name="白装" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+							<e:Object name="绿装" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+							<e:Object name="蓝装" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+							<e:Object name="紫装" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+							<e:Object name="橙装" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+						</e:Array>
+					</e:ArrayCollection>
+				</e:TabBar>
+				<e:Group left="0" right="0" y="65" height="615">
+					<e:Image width="640" height="615" x="0" y="0" source="v2_bg_tiejiangpu_jpg" locked="true"/>
+					<e:Group id="icon_res_1" width="100" height="100" x="102" y="183"/>
+					<e:Group id="icon_res_2" width="100" height="100" x="112" y="193"/>
+					<e:Group id="icon_res_3" width="100" height="100" verticalCenter="-135.5" horizontalCenter="0"/>
+					<e:Group id="icon_res_4" width="100" height="100" x="132" y="213"/>
+					<e:Group id="icon_res_5" width="100" height="100" x="142" y="223"/>
+					<e:Group id="icon_res_6" width="100" height="100" x="152" y="233"/>
+					<e:Group id="icon_upgrade_equip" width="100" height="100" x="270" y="272"/>
+				</e:Group>
+				<e:Group id="group_equip_list" width="640" height="100" x="0" y="65">
+					<e:Group id="icon_equip_1" width="100" height="100" x="162" y="57"/>
+					<e:Group id="icon_equip_2" width="100" height="100" x="172" y="67"/>
+					<e:Group id="icon_equip_3" width="100" height="100" x="182" y="77"/>
+					<e:Group id="icon_equip_4" width="100" height="100" x="192" y="87"/>
+					<e:Group id="icon_equip_5" width="100" height="100" x="202" y="97"/>
+					<e:Group id="icon_equip_6" width="100" height="100" x="212" y="107"/>
+					<e:layout>
+					<e:HorizontalLayout/>
+					</e:layout>
+				</e:Group>
+				<e:Group id="group_produce_progress" width="640" height="66" horizontalCenter="0" bottom="0">
+					<e:Image width="640" height="66" x="0" y="0" source="v2_img_jinduyanjiudi_png"/>
+					<e:Image width="46" height="44" x="34" y="11" source="v1_img_qabb1_png"/>
+					<e:Image width="24" height="24" x="516" y="20" source="v1_img_clock_png"/>
+					<components:Progress id="progress_produce" width="400" height="20" verticalCenter="0" x="100" onStr="v1_bar_blue_4_png"/>
+					<e:Label id="lab_produce_left_time" text="Label" x="540" y="17"/>
+				</e:Group>
+			</e:Group>
+		</e:Scroller>
+		<e:Group id="group_bot" height="154" bottom="0" left="0" right="0">
+			<components:Button id="btn_produce" label="Button" horizontalCenter="0" verticalCenter="0"/>
+			<e:Label id="lab_desc" text="Label" horizontalCenter="0" top="6"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

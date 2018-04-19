@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="WindUpSkin" width="640" height="1280" currentState="win" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*" xmlns:components="components.*" states="win,lost" >
+	<w:Declarations>
+	</w:Declarations>
+	<e:Image source="v1_bg_fbd_jpg" width="640" height="100%" scale9Grid="80,408,480,11" horizontalCenter.win="0"/>
+	<e:Group horizontalCenter="0" verticalCenter="0">
+		<e:Image source="sg_dzjs_zzsk_xk_009_png" right="70" right.lost="70" y="734.66"/>
+		<e:Image source="sg_dzjs_zzsk_xk_009_png" scaleX="-1" left="74" left.lost="74" y="734.66"/>
+		<e:Image y="168.58" source="sg_dzjs_zzsk_xk_008_png" horizontalCenter.lost="0" horizontalCenter="0.5"/>
+		<e:Group horizontalCenter="0" visible.lost="false">
+			<e:Image y="55" source="sg_dzjs_zzsk_xk_004_png" scaleX="-1" right="0"/>
+			<e:Image y="55" source="sg_dzjs_zzsk_xk_004_png" left="0"/>
+			<e:Image y="112.61" source="sg_dzjs_zzsk_xk_0x001_png" horizontalCenter="0"/>
+			<e:Image source="sg_dzjs_zzsk_xk_002_png" y="0" horizontalCenter="0"/>
+			<e:Image y="193.57" source="sg_dzjs_zzsk_xk_001_png" horizontalCenter="0"/>
+			<e:Group id="starGroup" y="191.57" horizontalCenter="0.5" horizontalCenter.win="0">
+				<e:Image source="v1_img_star4_png" scaleX="0.6" scaleY="0.6" x="0" y="15" visible.win="false"/>
+				<e:Image y="8" source="v1_img_star4_png" scaleX="0.7" scaleY="0.7" horizontalCenter="0" visible.win="false"/>
+				<e:Image source="v1_img_star4_png" scaleX="0.6" scaleY="0.6" x="102" y="15" visible.win="false"/>
+			</e:Group>
+			<e:Image y="169" scaleX="-1" source="sg_dzjs_zzsk_xk01_3302_png" right="53"/>
+			<e:Image y="169" left="53" x="10" source="sg_dzjs_zzsk_xk01_3302_png"/>
+			<e:Image y="100" source="sg_dzjs_zzsk_xk_005_png" horizontalCenter="0"/>
+		</e:Group>
+		<e:Image source="v1_img_fbjs_png" horizontalCenter="0" visible.win="false"/>
+		<e:Component id="lord" y="264" skinName="OfficerListSkin" horizontalCenter="0"/>
+		<e:Group y="388.34" horizontalCenter="0.5">
+			<e:Image y="0" source="v1_img_jiesuantb02_png" width="418" scale9Grid="112,0,39,24" x="0"/>
+			<e:Label text="上阵武将" x="13.03" y="3.32" fontFamily="黑体" size="20"/>
+		</e:Group>
+		<e:Group y="578.67" horizontalCenter="0.5">
+			<e:Image y="0" source="v1_img_jiesuantb02_png" width="418" scale9Grid="112,0,39,24" x="0"/>
+			<e:Label text="获得道具" x="13.03" y="3.32" fontFamily="黑体" size="20" text.lost="提战途径"/>
+		</e:Group>
+		<e:DataGroup id="workHeroData" y="432.66" itemRendererSkinName="OfficerListSkin" left="121">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object null=""/>
+					<e:Object null=""/>
+					<e:Object null=""/>
+					<e:Object null=""/>
+				</e:Array>
+			</e:ArrayCollection>
+			<e:layout>
+				<e:HorizontalLayout gap="16"/>
+			</e:layout>
+		</e:DataGroup>
+		<e:DataGroup id="propData" y="622.66" itemRendererSkinName="PopeListSkin" horizontalCenter="0.5" visible.lost="false">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object null=""/>
+					<e:Object null=""/>
+					<e:Object null=""/>
+					<e:Object null=""/>
+				</e:Array>
+			</e:ArrayCollection>
+			<e:layout>
+				<e:TileLayout requestedColumnCount="2" verticalGap="10"/>
+			</e:layout>
+		</e:DataGroup>
+		<e:DataGroup id="liftWayData" y="622.66" itemRendererSkinName="LiftWayListSkin" left="121" visible.win="false">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object img="v1_img_kejikuaiyan_png" text="科技研究"/>
+					<e:Object img="v1_img_wujiangyangcheng_png" text="武将养成"/>
+					<e:Object img="v1_img_dazaozhuangbei_png" text="打造装备"/>
+					<e:Object img="v1_img_zhuangbeixilian_png" text="装备洗练"/>
+				</e:Array>
+			</e:ArrayCollection>
+			<e:layout>
+				<e:HorizontalLayout gap="16"/>
+			</e:layout>
+		</e:DataGroup>
+		<e:Group id="powGrop" x="405.7" y="952.99" width="150" visible.lost="false" visible="false">
+			<e:Label id="expendPow" text="消耗体力:10/800" fontFamily="黑体" scaleX="1" scaleY="1" size="19" verticalCenter="0" horizontalCenter="0"/>
+		</e:Group>
+		<e:Group y="987.33" horizontalCenter="0.5">
+			<components:Button id="closeView" label="关闭"  x="0" y="0" skinName="skins.ButtonASkin"/>
+			<components:Button id="goOn" label="继续挑战"  x="0" y="0" skinName="skins.ButtonASkin" includeInLayout.lost="false" visible.lost="false" includeInLayout="false" visible="false"/>
+			<e:layout>
+				<e:HorizontalLayout gap="168"/>
+			</e:layout>
+		</e:Group>
+	</e:Group>
+</e:Skin>

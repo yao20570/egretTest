@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.TabBarSkin" currentState="up" xmlns:e="http://ns.egret.com/eui" states="up,down,disabled" >
+	<e:Image  horizontalCenter="0" verticalCenter="0" width="100%" height="100%" source.down="{data.downStr}" source="{data.upStr}"/>
+	<e:Label text="{data.name}" horizontalCenter="0" verticalCenter="0" size="22" textColor="0xf9f7f7"/>
+</e:Skin>

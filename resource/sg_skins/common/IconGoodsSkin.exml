@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="IconGoodsSkin" width="108" height="148" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="group_icon" width="108" height="108" x="0" y="0">
+		<e:Image id="img_icon_bg" width="108" height="108" x="0" y="0" source="v1_img_touxiangkuanghong_png"/>
+		<e:Image id="img_icon" width="100" height="100" x="54" y="54" source="v1_img_touxiangkuanghong_png" anchorOffsetX="50" anchorOffsetY="50"/>
+		<e:Image id="img_num_bg" width="40" height="24" x="62" y="77" anchorOffsetX="0" anchorOffsetY="0" source="v1_img_black50_png"/>
+		<e:Label id="lab_num" text="20" x="71" y="81" size="20" textAlign="center"/>
+	</e:Group>
+	<e:Group id="group_name" width="108" height="40" x="0" y="108">
+		<e:Label id="lab_name" text="Label" size="20" width="108" verticalCenter="0" horizontalCenter="0" textAlign="center" textColor="0xa5c61f"/>
+	</e:Group>
+</e:Skin>

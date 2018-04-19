@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlanFightSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView id="panelView" title="6.秦王" bgImg="v1_bg_kelashen_png" horizontalCenter="0" width="640" height="100%">
+		<e:Group top="78">
+			<e:Image source="v2_bg_duizhan_fuben_jpg" y="0" x="0"/>
+			<e:Group width="112" x="45" y="52" scaleX="1" scaleY="1">
+				<e:Image x="10" source="v2_img_wj_gongji_png" y="38"/>
+				<e:Label text="我方战力" x="0" y="0" fontFamily="黑体" size="26"/>
+				<e:Label id="myPower" text="9999999" fontFamily="黑体" size="18" anchorOffsetY="0" x="49" y="44"/>
+			</e:Group>
+			<e:Group width="112" x="483" y="52" scaleX="1" scaleY="1">
+				<e:Image x="10" source="v2_img_wj_gongji_png" y="38"/>
+				<e:Label text="敌方战力" x="0" y="0" fontFamily="黑体" size="26"/>
+				<e:Label id="foePower" text="5555" fontFamily="黑体" size="18" anchorOffsetY="0" x="49" y="44"/>
+			</e:Group>
+			<e:Image width="640" height="50" y="166" source="v2_img_biaoqiantiao_png" x="0" scaleX="1" scaleY="1"/>
+			<e:Label id="dragText" text="拖拽可更换出战顺序：若战败只消耗2点体力" y="182" fontFamily="黑体" size="18" horizontalCenter="0" textColor="0xc6c7da"/>
+		</e:Group>
+		<e:Image bottom="0" width="640" source="v1_bg_1_png" height="140" x="0" y="996" scaleX="1" scaleY="1"/>
+		<e:Group horizontalCenter="0" x="58" scaleX="1" scaleY="1" bottom="153">
+			<components:Button id="mopUp" label="扫荡次数" x="0" y="0" bgStr="v1_btn_blue1_png" includeInLayout="true" skinName="skins.ButtonSkin"/>
+			<e:Group x="370" y="0" includeInLayout="true">
+			<components:Button id="comBat" label="战斗" x="0" y="0" bgStr="v1_btn_yellow1_png" skinName="skins.ButtonSkin"/>
+			<e:Label id="overPower" text="剩余体力：10/5" fontFamily="黑体" size="20" textColor="0xc6c7da" y="-32.56" horizontalCenter="0"/>
+			</e:Group>
+			<e:layout>
+			<e:HorizontalLayout gap="215"/>
+			</e:layout>
+		</e:Group>
+		<e:Group x="45" top="877">
+			<e:Label text="主公预计获取经验：" fontFamily="黑体" size="20" scaleX="1" scaleY="1" left="0" verticalCenter="0" textColor="0x77d4fb"/>
+			<e:Label id="addUndergo" text="999" fontFamily="黑体" size="20" scaleX="1" scaleY="1" verticalCenter="0" left="180" textColor="0xffffff"/>
+		</e:Group>
+		<e:DataGroup id="foePowerData" width="318" itemRendererSkinName="FightItemSkin" right="0" top="308">
+			<e:ArrayCollection>
+			<e:Array>
+				<e:Object null=""/>
+				<e:Object null=""/>
+			</e:Array>
+			</e:ArrayCollection>
+			<e:layout>
+			<e:VerticalLayout gap="12"/>
+			</e:layout>
+		</e:DataGroup>
+		<e:DataGroup id="myPowerData" width="318" itemRendererSkinName="FightItemSkin" left="0" top="308">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object troops="100"/>
+					<e:Object troops="200"/>
+					<e:Object troops="300"/>
+					<e:Object troops="400"/>
+				</e:Array>
+			</e:ArrayCollection>
+			<e:layout>
+			<e:VerticalLayout gap="12"/>
+			</e:layout>
+		</e:DataGroup>
+	</components:PanelView>
+</e:Skin>

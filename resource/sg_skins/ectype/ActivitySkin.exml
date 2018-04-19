@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ActivitySkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick skinName="BgImgSkin" horizontalCenter="0" width="640" height="100%">
+		<e:Group horizontalCenter="0" verticalCenter="0" x="70" y="331" scaleX="1" scaleY="1" touchEnabled="false">
+			<e:Image source="v2_bg_popup_b_png" width="500" height="130" y="345"/>
+			<e:Image source="v2_bg_popup_a_png" width="500" height="350" scale9Grid="37,31,226,188"/>
+			<e:Group y="10" right="0" width="75" height="48" id="closeGroup">
+				<components:Button id="closeBtn" skinName="skins.ButtonASkin" bgStr="v1_btn_close_png" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<e:Label text="活动规则" top="24" horizontalCenter="0" fontFamily="黑体"/>
+			<e:Label text="活动期间：" x="30" y="94.03" fontFamily="黑体" size="20" lineSpacing="5"/>
+			<e:Group x="30" y="133.35" width="440">
+			<e:Label id="text1" text="1、活动期间中，主公通过挑战后扫荡任意副本关卡，都有记录活动行军加速道具哦；" y="0" fontFamily="黑体" size="20" lineSpacing="5" textColor="0xc6c7da" width="100%"/>
+			<e:Label id="text2" text="2、行军加速道具效果为：使用后，立刻减少剩余行军时间的50%;" x="0" y="50" fontFamily="黑体" size="20" lineSpacing="5" textColor="0xc6c7da" width="100%"/>
+			<e:Label text="3、仅在本活动期间才可获得，活动结束后副本不可掉落该加速道具；" x="0" y="86.17" fontFamily="黑体" size="20" lineSpacing="5" textColor="0xc6c7da" width="100%"/>
+			<e:layout>
+				<e:VerticalLayout gap="30"/>
+			</e:layout>
+			</e:Group>
+			<components:Button id="goLook" label="前往查看" y="380.96" bgStr="v1_btn_blue1_png" horizontalCenter="0.5" skinName="skins.ButtonSkin"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

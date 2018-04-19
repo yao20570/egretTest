@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PopeListSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="v1_img_blackjianbian_png" width="194" height="51" verticalCenter="0"/>
+	<e:Image id="quality" source="v1_img_touxiangkuanglan_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Label id="goodsText" text="物品名称*12" x="68" size="18" fontFamily="黑体" verticalCenter="0"/>
+	<e:Image id="headImg" width="52" height="52" source="i100032_png" y="2"/>
+</e:Skin>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FightBloodSkin" width="180" height="100" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="grpName" width="136" height="32" bottom="0" horizontalCenter="0">
+		<e:Image id="imgBg" source="v1_img_dkd_zd_png" x="0" height="32" y="0" width="136"/>
+		<e:Image id="imgType" x="105" y="-1" source="v1_img_qibing02b_png"/>
+		<e:Group id="grpIcon" width="32" height="32" x="0" y="0">
+			<e:Image id="imgHead" source="chengfangjun1_png" horizontalCenter="0" verticalCenter="0" scaleX="0.3" scaleY="0.3"/>
+		</e:Group>
+		<e:Label id="lbName" text="武将名字" x="35" y="4" size="14" fontFamily="SimHei"/>
+		<components:Progress id="pbarBlood" width="68" height="8" x="35" y="22" onUStr="v1_bar_b6_png" onStr="v1_bar_blue_9_png" value="50"/>
+	</e:Group>
+	<e:Group id="grpSkill" width="177" height="39" anchorOffsetX="88" anchorOffsetY="20" x="88" y="26">
+		<e:Image id="imgSkillBg" source="sg_skill_mc_dt_01_png" x="0" y="0"/>
+		<e:Image id="imgSkillName" source="sg_skill_mc_hsqj_01_png" x="24" y="0"/>
+	</e:Group>
+</e:Skin>

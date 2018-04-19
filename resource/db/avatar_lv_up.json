@@ -1,0 +1,1052 @@
+[
+    {
+        "level": 1,
+        "exp": "10",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 2,
+        "exp": "20",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 3,
+        "exp": "30",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 4,
+        "exp": "40",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 5,
+        "exp": "50",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 6,
+        "exp": "60",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 7,
+        "exp": "70",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 8,
+        "exp": "80",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 9,
+        "exp": "90",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 10,
+        "exp": "100",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 11,
+        "exp": "120",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 12,
+        "exp": "140",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 13,
+        "exp": "160",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 14,
+        "exp": "180",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 15,
+        "exp": "200",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 16,
+        "exp": "220",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 17,
+        "exp": "240",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 18,
+        "exp": "260",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 19,
+        "exp": "280",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 20,
+        "exp": "300",
+        "award": "50004",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 21,
+        "exp": "320",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 22,
+        "exp": "340",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 23,
+        "exp": "360",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 24,
+        "exp": "380",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 25,
+        "exp": "400",
+        "award": "50005",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 26,
+        "exp": "420",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 27,
+        "exp": "440",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 28,
+        "exp": "550",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 29,
+        "exp": "670",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 30,
+        "exp": "720",
+        "award": "50006",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 31,
+        "exp": "620",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 32,
+        "exp": "640",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 33,
+        "exp": "680",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 34,
+        "exp": "720",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 35,
+        "exp": "770",
+        "award": "50007",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 36,
+        "exp": "930",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 37,
+        "exp": "1110",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 38,
+        "exp": "1160",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 39,
+        "exp": "1220",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 40,
+        "exp": "1270",
+        "award": "50008",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 41,
+        "exp": "1480",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 42,
+        "exp": "1700",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 43,
+        "exp": "1770",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 44,
+        "exp": "1840",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 45,
+        "exp": "1900",
+        "award": "50009",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 46,
+        "exp": "2280",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 47,
+        "exp": "2670",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 48,
+        "exp": "3400",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 49,
+        "exp": "4280",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 50,
+        "exp": "5100",
+        "award": "50010",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 51,
+        "exp": "6690",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 52,
+        "exp": "8820",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 53,
+        "exp": "9700",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 54,
+        "exp": "11600",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 55,
+        "exp": "13500",
+        "award": "50011",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 56,
+        "exp": "15400",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 57,
+        "exp": "17300",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 58,
+        "exp": "20000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 59,
+        "exp": "22000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 60,
+        "exp": "24500",
+        "award": "50012",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 61,
+        "exp": "26800",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 62,
+        "exp": "29200",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 63,
+        "exp": "31500",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 64,
+        "exp": "35200",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 65,
+        "exp": "38200",
+        "award": "50013",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 66,
+        "exp": "40300",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 67,
+        "exp": "43400",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 68,
+        "exp": "45000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 69,
+        "exp": "46500",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 70,
+        "exp": "48300",
+        "award": "50014",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 71,
+        "exp": "49000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 72,
+        "exp": "49000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 73,
+        "exp": "51400",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 74,
+        "exp": "54200",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 75,
+        "exp": "57500",
+        "award": "50015",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 76,
+        "exp": "59100",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 77,
+        "exp": "60600",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 78,
+        "exp": "61600",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 79,
+        "exp": "62600",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 80,
+        "exp": "64700",
+        "award": "50016",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 81,
+        "exp": "67500",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 82,
+        "exp": "71200",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 83,
+        "exp": "76200",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 84,
+        "exp": "81200",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 85,
+        "exp": "95500",
+        "award": "50017",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 86,
+        "exp": "95800",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 87,
+        "exp": "96200",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 88,
+        "exp": "113000",
+        "award": "50049",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 89,
+        "exp": "121000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 90,
+        "exp": "129000",
+        "award": "50018",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 91,
+        "exp": "141000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 92,
+        "exp": "155000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 93,
+        "exp": "165000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 94,
+        "exp": "185000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 95,
+        "exp": "200000",
+        "award": "50019",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 96,
+        "exp": "209000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 97,
+        "exp": "225000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 98,
+        "exp": "240000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 99,
+        "exp": "265000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 100,
+        "exp": "290000",
+        "award": "50020",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 101,
+        "exp": "302000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 102,
+        "exp": "318000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 103,
+        "exp": "319000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 104,
+        "exp": "320000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 105,
+        "exp": "337000",
+        "award": "50021",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 106,
+        "exp": "338000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 107,
+        "exp": "339000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 108,
+        "exp": "340000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 109,
+        "exp": "341000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 110,
+        "exp": "356000",
+        "award": "50022",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 111,
+        "exp": "359400",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 112,
+        "exp": "366500",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 113,
+        "exp": "373600",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 114,
+        "exp": "380780",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 115,
+        "exp": "387960",
+        "award": "50023",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 116,
+        "exp": "395140",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 117,
+        "exp": "402320",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 118,
+        "exp": "409500",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 119,
+        "exp": "416680",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 120,
+        "exp": "423860",
+        "award": "50024",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 121,
+        "exp": "431040",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 122,
+        "exp": "438220",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 123,
+        "exp": "445400",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 124,
+        "exp": "452580",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 125,
+        "exp": "459760",
+        "award": "50025",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 126,
+        "exp": "466940",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 127,
+        "exp": "474120",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 128,
+        "exp": "481300",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 129,
+        "exp": "488480",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 130,
+        "exp": "495660",
+        "award": "50026",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 131,
+        "exp": "502840",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 132,
+        "exp": "503000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 133,
+        "exp": "513200",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 134,
+        "exp": "523400",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 135,
+        "exp": "533600",
+        "award": "50027",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 136,
+        "exp": "543800",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 137,
+        "exp": "554000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 138,
+        "exp": "564200",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 139,
+        "exp": "574400",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 140,
+        "exp": "584600",
+        "award": "50028",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 141,
+        "exp": "594800",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 142,
+        "exp": "605000",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 143,
+        "exp": "615200",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 144,
+        "exp": "625400",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 145,
+        "exp": "635600",
+        "award": "50029",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 146,
+        "exp": "645800",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 147,
+        "exp": "656000",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 148,
+        "exp": "666200",
+        "award": "",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 149,
+        "exp": "676400",
+        "award": "",
+        "cityicon": "v1_img_wanjia01;v1_img_wanjia02;v1_img_wanjia03;v1_img_wanjia04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    },
+    {
+        "level": 150,
+        "exp": "686600",
+        "award": "50030",
+        "cityicon": "v1_img_xiao01;v1_img_xiao02;v1_img_xiao03;v1_img_xiao04",
+        "mapicon": "v1_img_zhenyingdianlanlan;v1_img_zhenyingdianlanhong;v1_img_zhenyingdianlanlv;v1_img_zhenyingdianlanhui"
+    }
+]

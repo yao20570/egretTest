@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroTrainSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick title="资源产量" skinName="BgImgSkin" y="0" width="640" horizontalCenter="0">
+		<e:Image id="bg" x="20" y="230" source="v2_bg_popup_a_png" width="600" scale9Grid="28,70,235,134" height="620"/>
+		<e:Label id="title" text="武将培养" y="247" horizontalCenter="20" fontFamily="黑体"/>
+		<components:Button id="closeBtn" label="" x="572" y="246" bgStr="v1_btn_close_png" skinName="skins.ButtonASkin"/>
+		<e:Group width="600" height="129" x="20" y="304" anchorOffsetY="0">
+			<e:Image source="v1_img_kelashen7_png" width="582" height="129" horizontalCenter="0" verticalCenter="0" scale9Grid="23,22,76,82"/>
+			<e:Group width="560" verticalCenter="0" horizontalCenter="0">
+				<e:Group x="30" y="30">
+					<e:Image source="v1_img_touxiangkuangzi_png" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image source="i200381_5_png" width="96" height="96" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image horizontalCenter="0" source="v1_img_sanjiaojiantou_png" bottom="-32"/>
+					<e:Image x="14" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+				<e:Group x="30" y="30">
+					<e:Image source="v1_img_touxiangkuangzi_png" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image source="i200381_5_png" width="96" height="96" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image horizontalCenter="0" source="v1_img_sanjiaojiantou_png" bottom="-32"/>
+					<e:Image x="14" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+				<e:Group x="30" y="30">
+					<e:Image source="v1_img_touxiangkuangzi_png" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image source="i200381_5_png" width="96" height="96" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image horizontalCenter="0" source="v1_img_sanjiaojiantou_png" bottom="-32"/>
+					<e:Image x="14" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+				<e:Group x="30" y="30">
+					<e:Image source="v1_img_touxiangkuangzi_png" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image source="i200381_5_png" width="96" height="96" verticalCenter="0" horizontalCenter="0"/>
+					<e:Image horizontalCenter="0" source="v1_img_sanjiaojiantou_png" bottom="-32"/>
+					<e:Image x="14" y="0" source="v1_img_gongjiang02_png"/>
+				</e:Group>
+				<e:layout>
+					<e:HorizontalLayout horizontalAlign="justify" verticalAlign="justify"/>
+				</e:layout>
+			</e:Group>
+		</e:Group>
+		<e:Group x="20" y="433" anchorOffsetY="0" width="600" height="415">
+			<e:Group y="0" scaleX="1" scaleY="1" horizontalCenter="0">
+				<e:Image y="0" source="v1_img_jianbian2_png" x="0"/>
+				<e:Group verticalCenter="0" horizontalCenter="0">
+					<e:Label text="鲁智深" size="22" x="0" y="0" textColor="0xbc46ff" fontFamily="黑体"/>
+					<e:Label text="Lv.94" size="22" x="88" y="0" textColor="0x77d4fd" fontFamily="黑体"/>
+				</e:Group>
+			</e:Group>
+			<e:Group x="44" y="68">
+				<e:Image y="0" rotation="359.54" source="v2_img_jinduyanjiudi_png" scaleX="0.8" scaleY="0.8" scale9Grid="80,18,480,33" x="0"/>
+				<e:Image x="74" source="v2_img_wj_zizhi_png" rotation="359.54" verticalCenter="0"/>
+				<e:Label text="资质" x="126" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+				<components:Progress width="140" height="22" x="189" value="90" verticalCenter="0"/>
+				<e:Label text="102" x="348" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+				<e:Label text="+10" x="388" size="22" fontFamily="黑体" rotation="359.54" textColor="0x31d840" verticalCenter="0"/>
+			</e:Group>
+			<e:Group x="44" y="170" anchorOffsetY="0" height="245">
+				<e:Group x="0" y="0">
+					<e:Image x="74" rotation="359.54" verticalCenter="0" source="v2_img_wj_gong_png"/>
+					<e:Label text="攻" x="126" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+					<components:Progress width="140" height="22" x="189" value="90" verticalCenter="0"/>
+					<e:Label text="102" x="348" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+					<e:Label text="+10" x="388" size="22" fontFamily="黑体" rotation="359.54" textColor="0x31D840" verticalCenter="0"/>
+				</e:Group>
+				<e:Group x="0" y="65">
+					<e:Image x="74" rotation="359.54" verticalCenter="0" source="v2_img_wj_fang_png"/>
+					<e:Label text="防" x="126" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+					<components:Progress width="140" height="22" x="189" value="90" verticalCenter="0"/>
+					<e:Label text="102" x="348" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+					<e:Label text="+10" x="388" size="22" fontFamily="黑体" rotation="359.54" textColor="0x31D840" verticalCenter="0"/>
+				</e:Group>
+				<e:Group x="0" y="154">
+					<e:Image x="74" rotation="359.54" verticalCenter="0" source="v2_img_wj_bing_png"/>
+					<e:Label text="兵" x="126" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+					<components:Progress width="140" height="22" x="189" value="90" verticalCenter="0"/>
+					<e:Label text="102" x="348" size="22" fontFamily="黑体" rotation="359.54" verticalCenter="0"/>
+					<e:Label text="+10" x="388" size="22" fontFamily="黑体" rotation="359.54" textColor="0x31D840" verticalCenter="0"/>
+				</e:Group>
+				<e:layout>
+					<e:VerticalLayout verticalAlign="justify"/>
+				</e:layout>
+			</e:Group>
+		</e:Group>
+		<e:Group x="20" y="850">
+			<e:Image width="600" height="130" x="0" y="0" source="v2_bg_popup_b_png" scale9Grid="20,14,243,23"/>
+			<e:Label text="免费次数:" x="50.82" size="22" fontFamily="黑体" rotation="359.54" y="12"/>
+			<e:Label text="12" x="156.91" size="22" fontFamily="黑体" rotation="359.54" y="12" textColor="0x77d4fd"/>
+			<e:Label text="/12" x="184.82" size="22" fontFamily="黑体" rotation="359.54" y="12" textColor="0xffffff"/>
+			<e:Image source="v1_img_huangjin_png" y="12" x="448"/>
+			<e:Label text="100" fontFamily="黑体" scaleX="1" scaleY="1" size="22" left="481" y="12" textColor="0x77d4fd"/>
+			<components:Button label="免费培养" y="48" x="40"/>
+			<components:Button label="高级培养" y="46" bgStr="v1_btn_yellow1_png" right="40"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

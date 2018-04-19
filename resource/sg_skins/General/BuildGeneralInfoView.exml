@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuildGeneralInfoView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView x="0" y="0" title="拜将台">
+		<components:Button id="btnhelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+		<e:Image width="640" x="0" y="66" anchorOffsetY="0" height="265" source="v1_img_tsf_jpg"/>
+		<components:SwitchTabBar id="BtnTabBar" anchorOffsetX="0" width="640" anchorOffsetY="0" x="0" top="69" selectedIndex="0" height="60" itemRendererSkinName="skins.TabBarSkin">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object name="武将推演" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+					<e:Object name="武将图鉴" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+				</e:Array>
+			</e:ArrayCollection>
+		</components:SwitchTabBar>
+		<e:Group id="info" width="600" height="200" x="20" y="128" anchorOffsetX="0">
+			<e:Label text="88级后可招募高级武将" x="370" y="58.5" size="20" fontFamily="黑体" anchorOffsetY="0" height="24"/>
+			<components:Button label="前往推演" x="392.5" y="88"/>
+			<e:Label text="隐藏资质" x="370" y="160" size="20" fontFamily="黑体" anchorOffsetY="0" height="24"/>
+			<components:ToggleSwitchCut id="HideInfo" label="ToggleButton" x="478" y="160" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Group id="GeneralInfo" width="640" height="200" x="0" y="330">
+			<components:SwitchTabBar id="BtnTabBar0" anchorOffsetX="0" width="640" anchorOffsetY="0" x="0" selectedIndex="0" height="60" itemRendererSkinName="skins.TabBarSkin" y="0" scaleX="1" scaleY="1">
+				<e:ArrayCollection>
+					<e:Array>
+						<e:Object name="勇将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+						<e:Object name="猛将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+						<e:Object name="虎将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+						<e:Object name="豪将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+						<e:Object name="名将" downStr="v1_btn_selected_biaoqian2_png" upStr="v1_btn_biaoqian2_png"/>
+					</e:Array>
+				</e:ArrayCollection>
+			</components:SwitchTabBar>
+			<e:Image x="511.91" y="0" source="v2_line_wujiang_png" height="60" width="5"/>
+			<e:Image x="124.56" y="0" source="v2_line_wujiang_png" height="60" width="5"/>
+			<e:Image x="250.54" y="1" source="v2_line_wujiang_png" height="60" width="5"/>
+			<e:Image x="381.22" y="0" source="v2_line_wujiang_png" height="60" width="5"/>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

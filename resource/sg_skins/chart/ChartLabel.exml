@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="chart.ChartLabel" width="640" height="125" currentState="left" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" states="left,right" >
+	<e:Group width="100%" height="100%" x="0" y="0" anchorOffsetY="0">
+		<e:Group x="20" y="0" scaleX="1" scaleY="1" width="90" height="90" x.right="548">
+			<e:Image id="tuxiang" width="100%" height="100%" x="0" y="0" source="i130000_tx_png"/>
+			<e:Image id="kuang" width="100%" height="100%" x="0" y="0" source="v2_img_kapaiygwc_png"/>
+		</e:Group>
+		<e:Group width="380" height="20" x="128" y="11" anchorOffsetY="0" anchorOffsetX="0">
+			<e:Image id="guojia" width="20" height="19" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" source="v2_fonts_chuaa_png"/>
+			<e:Image id="zhiwei" width="38" height="19" x="24.12" y="0" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" source="v2_fonts_guowangdd_png"/>
+			<e:Label id="roleName" text="最多六个字吧" x="71" y="0" anchorOffsetX="0" width="120" anchorOffsetY="0" height="20" size="20" textColor="0x485e8e"/>
+			<e:Group x="198.52" y="0" anchorOffsetX="0" anchorOffsetY="10">
+				<e:Image id="vipImg" width="51" height="28" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" source="v2_img_vipcheng_png"/>
+				<e:Label id="vip" text="V6" x="4.48" y="11.96" size="14" height="15" width="30" textAlign="center"/>
+			</e:Group>
+			<e:Label id="zone" text="琅琊郡" x="245" y="0" anchorOffsetX="0" width="70" anchorOffsetY="0" height="20" size="20" textColor="0x39528e"/>
+			<e:Label id="shijian" text="20:56" x="319" y="0" anchorOffsetX="0" width="70" anchorOffsetY="0" height="20" size="20" textColor="0x375496"/>
+		</e:Group>
+		<e:Group id="chartGroup" x="115" y="42" width="450" height="50">
+			<e:Image id="bg" source="v1_img_liaotiankuang1_png" x="0" y="0" scale9Grid="22,8,54,23" anchorOffsetX="0" width="100%" anchorOffsetY="0" height="100%"/>
+			<e:Label id="context" text="{data.cnt}" size="18" left="20" bottom="5" right="5" top="5"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,18 @@
+{
+    "1" : {
+        "nFrame" : 13,
+        "pos" : [3478, 1710],
+        "fScale" : 1,
+        "nBlend" : 0,
+        "nPerFrameTime" : 12, 
+        "tActions" : [
+            {
+                "nType" : 1,
+                "sImgName" : "sg_shuiche_dh_q1_",
+                "nSFrame" : 1,
+                "nEFrame" : 13,
+                "tValues" : null
+            }
+        ]
+    }
+}

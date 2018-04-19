@@ -1,0 +1,770 @@
+@charset "utf-8";
+/* CSS Document */
+.noselect {
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Chrome/Safari/Opera */
+	-khtml-user-select: none; /* Konqueror */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* Internet Explorer/Edge */
+	user-select: none; /* Non-prefixed version, currently not supported by any browser */
+}
+
+
+.server {
+	position: absolute;
+	left:50%;
+	top:50%; 
+	margin-left:-5rem;
+	margin-top: -8.890625rem;
+	width: 10rem;
+	height: 17.78125rem;
+	background: url(../res/v1_bg_jiazai.jpg) no-repeat;
+	background-size: contain;
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+}
+
+.server_webkit {
+	display: -webkit-flex;
+	-webkit-flex-direction:column;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.loginDialog{	
+	position:relative;
+	width: 7.5rem;
+	height: 6.1875rem;
+	background: url(../res/v1_bg_tanchaung1.png) no-repeat;
+	background-size: contain;
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+}
+
+.loginDialog_webkit{ 
+	display:-webkit-flex; 
+	-webkit-flex-direction:column;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.title{
+	width:100%;
+	height:0.8rem;
+	font-size:0.4rem;
+	color:#6a3521;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.title_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.inputs{
+	width:100%;
+	height:3.5875rem;	
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+}
+
+.inputs_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:column;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.account{
+	width:100%;	
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.account_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+
+.accountContent{
+	width:6.40625rem;
+	height:1.03125rem;
+	background: url(../res/v1_img_zhsr_denglu.png) no-repeat;
+	background-size: contain;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.accountContent_webkit{
+	display:-webkit-inline-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: space-between;
+	-webkit-align-items: center;
+}
+
+
+.password{
+	width:100%;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.password_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.passwordContent{
+	width:6.40625rem;
+	height:1.03125rem;
+	background: url(../res/v1_img_zhsr_denglu.png) no-repeat;
+	background-size: contain;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.passwordContent_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: flex-start;
+	-webkit-align-items: center;
+}
+
+.btns{	
+	width:100%;
+	height:1.8rem;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.btns_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: flex-start;
+}
+
+.inputContent{
+	width:6.375rem;	
+	display: flex;
+	flex-direction:row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.inputContent_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: space-between;
+	-webkit-align-items: center;
+}
+
+/*注册*/
+.registerDialog{	
+	position:relative;
+	width: 7.5rem;
+	height: 6.1875rem;
+	background: url(../res/v1_bg_tanchaung1.png) no-repeat;
+	background-size: contain;
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+}
+
+.registerDialog_webkit{ 
+	display:-webkit-flex; 
+	-webkit-flex-direction:column;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.registerTitle{
+	width:100%;
+	height:0.8rem;
+	font-size:0.4rem;
+	color:#6a3521;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.registerTitle_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.regInputs{
+	width:100%;
+	height:3.5875rem;	
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+}
+
+.regInputs_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:column;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.regAccount{
+	width:100%;	
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.regAccount_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+
+.regAccountContent{
+	width:6.40625rem;
+	height:1.03125rem;
+	background: url(../res/v1_img_zhsr_denglu.png) no-repeat;
+	background-size: contain;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.regAccountContent_webkit{
+	display:-webkit-inline-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: flex-start;
+	-webkit-align-items: center;
+}
+
+
+.regPassword{
+	width:100%;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.regPassword_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.regPasswordContent{
+	width:6.40625rem;
+	height:1.03125rem;
+	background: url(../res/v1_img_zhsr_denglu.png) no-repeat;
+	background-size: contain;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.regPasswordContent_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: flex-start;
+	-webkit-align-items: center;
+}
+
+.regBtns{	
+	width:100%;
+	height:1.8rem;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.regBtns_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: flex-start;
+}
+
+.regBtnsContent{
+	width:6.375rem;	
+	display: flex;
+	flex-direction:row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.regBtnsContent_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: space-between;
+	-webkit-align-items: center;
+}
+
+
+/**/
+
+.registerBtn{
+	color:#17483f;
+	width:2.5rem;
+	height:0.9375rem;
+	background: url(../res/v1_buttn_green_1.png) no-repeat;
+	background-size: 100% 100%;
+	border: 0;
+	padding: 0;
+	font-size: 0.4rem;
+}
+
+.loginBtn{
+	color:#603622;
+	width:2.5rem;
+	height:0.9375rem;
+	background: url(../res/v1_buttn_yellow_changtai.png) no-repeat;
+	background-size: 100% 100%;
+	border: 0;
+	padding: 0;
+	font-size: 0.4rem;
+}
+
+.loginServer{	
+	position:relative;
+	top:4.5rem;
+	width: 7.5rem;
+	height: 4.5rem;	
+	display: flex;
+	flex-direction:column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.loginServer_webkit{ 
+	display:-webkit-flex; 
+	-webkit-flex-direction:column;
+	-webkit-justify-content: space-around;
+	-webkit-align-items: center;
+}
+
+.newServer{
+	width:6.15625rem;
+	height:1rem;
+	background: url(../res/v1_img_fuwuqidi_denglu.png) no-repeat;
+	background-size: contain;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.newServer_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.selectServer{
+	width:6.15625rem;
+	height:1rem;
+	background: url(../res/v1_img_fuwuqidi_denglu.png) no-repeat;
+	background-size: contain;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.selectServer_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.loginGame{
+	width:4.78125rem;
+	height:1.65625rem;
+	background: url(../res/v1_buttn_yellow_dengluyouxi.png) no-repeat;
+	background-size: contain;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.loginGame_webkit{
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.loading{	
+	position:relative;
+	top:5.5rem;
+	width: 10rem;
+	height: 2.65625rem;	
+	background: url(../res/v1_img_black50.png) no-repeat;
+	background-size: contain;
+	display: flex;
+	flex-direction:column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.loading_webkit{ 
+	display:-webkit-flex; 
+	-webkit-flex-direction:column;
+	-webkit-justify-content: space-around;
+	-webkit-align-items: center;
+}
+
+.process1{	
+	position:relative;	
+	width: 9.71875rem;
+	height: 0.375rem;	
+	background: url(../res/v1_b1_jiazaidi.png) no-repeat;
+	background-size: contain;
+}
+
+
+.process2{	
+	position:relative;	
+	width: 9.71875rem;
+	height: 0.375rem;	
+	background: url(../res/v1_b1_jiazaidi.png) no-repeat;
+	background-size: contain;	
+}
+
+.process1Content {	
+	position: absolute;
+	top:0.1rem;
+	height:0.28125rem;
+	width:0rem;
+	left:0.45rem;
+	background: url(../res/v1_bar_green_jiazai.png) no-repeat;
+	background-size: 100% 100%;
+}
+
+.process2Content {	
+	position: absolute;
+	top:0.1rem;
+	height:0.28125rem;
+	width:0rem;
+	left:0.45rem;
+	background: url(../res/v1_bar_red_jiazai.png) no-repeat;
+	background-size: 100% 100%;
+}
+
+.loginBottom {
+	position: absolute;
+	left:50%;
+	top:100%; 
+	margin-left:-4.7109375rem;
+	margin-top: -1.5rem;
+	width:9.421875rem;
+	height:1.359375rem;
+	background: url(../res/v1_fonts_dengluchuban.png) no-repeat;
+	background-size: contain;
+}
+
+.accountSelect {
+	position: absolute;
+	left:50%;
+	top:8.1rem; 
+	margin-left:-3.203125rem;	
+	width:6.40625rem;
+	height:3.75rem;
+	background: url(../res/xialabg.png) no-repeat;
+	background-size: contain;
+	display: flex;
+	flex-direction:column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.accountSelect_webkit{ 
+	display:-webkit-flex; 
+	-webkit-flex-direction:column;
+	-webkit-justify-content: flex-start;
+	-webkit-align-items: flex-start;
+}
+
+.accountItem{
+	height: 0.875rem;
+	width: 100%;
+	color: #775740;
+	font-size: 0.3rem;
+	display: flex;
+	flex-direction:row;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.accountItem_webkit{ 
+	display:-webkit-flex; 
+	-webkit-flex-direction:row;
+	-webkit-justify-content: flex-start;
+	-webkit-align-items: center;
+}
+.accountItemLine {
+	position: relative;
+	left: 50%;
+	margin-left: -3.125rem;
+	width:6.25rem;
+	height:0.03125rem;	
+	background: url(../res/v1_line_huang1.png) no-repeat;
+	background-size: 100% 100%;
+}
+
+.serverList {
+	position: absolute;
+	left:50%;
+	top:50%; 
+	margin-left:-4.6875rem;
+	margin-top: -6.25rem;
+	width: 9.375rem;
+	height: 12.5rem;
+	background: url(../res/v1_img_tankuang2.png) no-repeat;
+	background-size: contain;
+}
+
+.serverListTitle{
+	position: relative;
+	left: 50%;
+	margin-left: -1.484375rem;
+	width: 2.96875rem;
+	margin-top: 0.1rem;	
+	height: 0.625rem;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 0.4rem;
+	color:#6a3521;
+}
+
+.closeList{
+	position: absolute;
+	left: 100%;
+	margin-left: -0.96rem;
+	width: 0.875rem;
+	margin-top: -0.63rem;	
+	height: 0.875rem;
+	background: url(../res/v1_buttn_guanbi.png) no-repeat;
+	background-size: contain;
+}
+
+.serverListContent{
+	position: absolute;
+	left: 50%;
+	margin-left: -4.3rem;
+	width: 8.6rem;
+	top: 1rem;	
+	height: 11rem;
+	display: flex;
+	flex-direction:row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.serverListContent_webkit {
+	display: -webkit-flex;
+	-webkit-flex-direction:row;
+	-webkit-justify-content: space-around;
+	-webkit-align-items: center;
+}
+
+.typeServer{	
+	width: 3.36rem;		
+	height: 100%;
+	display: flex;
+	flex-direction:column;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.typeServer_webkit {
+	display: -webkit-flex;
+	-webkit-flex-direction:column;
+	-webkit-justify-content: flex-start;
+	-webkit-align-items: center;
+}
+
+.typeLine{
+	width: 0.03125rem;
+	height: 11.296875rem;
+	background: url(../res/v1_line_fenge_xuanfu.png) no-repeat;
+	background-size: contain;
+}
+
+.typeServerList{	
+	width: 5.20875rem;		
+	height: 11rem;
+	display: flex;
+	flex-direction:column;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.typeServerList_webkit {
+	display: -webkit-flex;
+	-webkit-flex-direction:column;
+	-webkit-justify-content: flex-start;
+	-webkit-align-items: center;
+}
+
+.selectZone{
+	width: 2.96875rem;
+	height: 1.125rem;
+	background: url(../res/v1_bttn_yellow_xuanzhong.png) no-repeat;
+	background-size: contain;	
+	font-size: 0.3rem;
+	color:#592a0d;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.selectZone_webkit {
+	display: -webkit-flex;
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.normalServer{
+	width: 2.8125rem;
+	height: 1.125rem;
+	background: url(../res/v1_buttn_yellow_changtai.png) no-repeat;
+	background-size: contain;	
+	font-size: 0.3rem;
+	color:#4a2f1f;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.normalServer_webkit {
+	display: -webkit-flex;
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.serverBiaoqian{
+	width: 5rem;
+	height: 1.125rem;
+	background: url(../res/v1_buttn_yellow_xuanfuliebiao.png) no-repeat;
+	background-size: contain;	
+	font-size: 0.3rem;
+	color:#4a2f1f;
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	align-items: center;
+}
+
+.serverBiaoqian_webkit {
+	display: -webkit-flex;
+	-webkit-flex-direction:row;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+.notice {
+	position: absolute;
+	left:100%;
+	margin-left: -1.8rem;
+	width: 1.4375rem;
+	top:0.5rem;
+	height: 1.4375rem;
+	background: url(../res/v1_btn_gonggao.png) no-repeat;
+	background-size: contain;
+}
+
+/***/
+.noticeContent {
+	position: absolute;
+	left:50%;
+	top:50%; 
+	margin-left:-4.6875rem;
+	margin-top: -6.25rem;
+	width: 9.375rem;
+	height: 12.5rem;
+	background: url(../res/v1_img_tankuang2.png) no-repeat;
+	background-size: contain;
+}
+
+.noticeContentTitle{
+	position: relative;
+	left: 50%;
+	margin-left: -1.484375rem;
+	width: 2.96875rem;
+	margin-top: 0.1rem;	
+	height: 0.625rem;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 0.4rem;
+	color:#6a3521;
+}
+
+.noticeClose{
+	position: absolute;
+	left: 100%;
+	margin-left: -0.96rem;
+	width: 0.875rem;
+	margin-top: -0.63rem;	
+	height: 0.875rem;
+	background: url(../res/v1_buttn_guanbi.png) no-repeat;
+	background-size: contain;
+}
+
+.gonggaoContent{
+	position: absolute;
+	left: 50%;
+	margin-left: -4.3rem;
+	width: 8.6rem;
+	top: 1rem;	
+	height: 11rem;
+	text-align: center;
+	font-size: 0.3rem;
+	color: #592a0d;
+}
+

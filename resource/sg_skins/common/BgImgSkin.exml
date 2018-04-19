@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BgImgSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:components="components.*">
+	<e:Rect id="closeButton" width="100%" height="100%" fillAlpha="0.3" strokeAlpha="0.3"/>
+</e:Skin>

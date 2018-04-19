@@ -1,0 +1,54 @@
+[
+    {
+        "officer": 1,
+        "name": "国王",
+        "num": 8,
+        "times": 4,
+        "isfree": 0,
+        "cost": "100027:4",
+        "countdown": 600,
+        "freetimes": 15,
+        "startwar": 1,
+        "notice": 2009,
+        "mail": 1025
+    },
+    {
+        "officer": 2,
+        "name": "丞相",
+        "num": 6,
+        "times": 3,
+        "isfree": 0,
+        "cost": "100027:4",
+        "countdown": 600,
+        "freetimes": 10,
+        "startwar": 1,
+        "notice": 2010,
+        "mail": 1024
+    },
+    {
+        "officer": 3,
+        "name": "太尉",
+        "num": 5,
+        "times": 3,
+        "isfree": 0,
+        "cost": "100027:4",
+        "countdown": 600,
+        "freetimes": 10,
+        "startwar": 1,
+        "notice": 2011,
+        "mail": 1023
+    },
+    {
+        "officer": 4,
+        "name": "将军",
+        "num": 4,
+        "times": 2,
+        "isfree": 0,
+        "cost": "100027:4",
+        "countdown": 600,
+        "freetimes": 6,
+        "startwar": 0,
+        "notice": 0,
+        "mail": 1022
+    }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FightLayerSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:components="components.*" xmlns:tween="egret.tween.*" >
+	<w:Declarations>
+	</w:Declarations>
+	<e:Group id="grpMain" height="100%" width="100%" x="0" y="0">
+		<e:Group id="grpGround" width="100%" horizontalCenter="0" bottom="0" top="154">
+			<e:Image id="imgBg" source="bg_fight_jpg" horizontalCenter="0" verticalCenter="-50" anchorOffsetX="576" anchorOffsetY="1025"/>
+			<e:Group id="grpFLayer" width="640" height="982" horizontalCenter="0" verticalCenter="0">
+			</e:Group>
+		</e:Group>
+		<e:Group id="grpTop" width="640" height="154" top="0" horizontalCenter="0">
+			<e:Image id="imgTopBg" width="640" height="154" x="0" y="0" source="v1_img_title2_png" scale9Grid="60,53,520,18"/>
+			<e:Group id="grpInfo" width="640" height="112" x="0" y="42">
+				<e:Image id="imgInfoBg" source="v1_bg_honglanquyu_png" x="0" y="0" height="112" scale9Grid="80,33,480,23"/>
+				<components:Progress id="pbarBloodL" width="188" height="18" x="10" y="89" onStr="v1_bar_yellow_1_png" value="100" direction="rtl"/>
+				<components:Progress id="pbarBloodR" width="188" height="18" x="442" y="89" onStr="v1_bar_yellow_1_png" value="100"/>
+				<e:Label id="lbHNameL" y="90" size="18" fontFamily="Microsoft YaHei" anchorOffsetX="36" text="英雄" x="315"/>
+				<e:Label id="lbHNameR" y="90" fontFamily="Microsoft YaHei" size="18" left="325" text="英雄"/>
+				<e:Label id="lbHLvL" y="90" size="18" textColor="0x77d4fd" fontFamily="Microsoft YaHei" x="206" text="Lv.1"/>
+				<e:Label id="lbHLvR" y="90" textColor="0x77d4fd" size="18" fontFamily="Microsoft YaHei" text="Lv.1" x="435" anchorOffsetX="34"/>
+				<e:Group id="grpHerosL" width="300" height="80" x="0" y="7">
+				</e:Group>
+				<e:Group id="grpHerosR" width="300" height="80" x="340" y="7">
+				</e:Group>
+				<e:Image id="imgArrow" source="v1_img_lanjiantou_png" horizontalCenter="0" scaleX="0.5" scaleY="0.5" y="36"/>
+			</e:Group>
+			<e:Group id="grpTitle" height="42" y="0" width="640" x="0">
+				<e:Label id="lbTitle" horizontalCenter="0" text="{sTitle}" verticalCenter="0" size="32" fontFamily="Microsoft YaHei"/>
+				<e:Label id="lbCNameL" text="{sCNameL}" verticalCenter="0" horizontalCenter="-180" size="20" fontFamily="Microsoft YaHei"/>
+				<e:Label id="lbCNameR" text="{sCNameR}" verticalCenter="0" horizontalCenter="180" size="20" fontFamily="Microsoft YaHei"/>
+				<e:Image id="imgCFlagL" source="v1_img_han_png" verticalCenter="4" left="0"/>
+				<e:Image id="imgCFlagR" source="v1_img_chu_png" verticalCenter="4" right="0"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="grpBottom" width="640" height="200" bottom="0" horizontalCenter="0">
+			<e:Label id="lbSkipTips" fontFamily="Microsoft YaHei" anchorOffsetX="30" anchorOffsetY="10" size="20" text="VIP2可跳过战斗" horizontalCenter="219" y="160"/>
+			<components:Button id="btnSkip" label="跳过战斗" x="460" y="78" scaleX="1" scaleY="1" bgStr="v1_btn_yellow1_png"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

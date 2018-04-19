@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuildPalaceInfoView" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:PanelView id="panelView" y="0" x="0" skinName="skins.PanelSkin" title="王宫 Lv.10">
+		<e:Image x="0" y="67.56" source="v2_img_wg_jpg"/>
+		<components:Button id="btnhelp" label="" x="12.71" y="9.58" bgStr="v1_btn_disaduse_png" bgGrayStr="v1_btn_disaduse_png" skinName="skins.ButtonASkin"/>
+		<e:Group id="civil_info" width="600" height="200" x="20" y="80" anchorOffsetX="0">
+			<e:Image x="30" y="47" source="v1_img_touxiangkuanghui_png" width="108" height="108"/>
+			<components:Button id="head" label="" x="30" bgStr="v1_btn_tianjia_png" bgGrayStr="v1_btn_tianjia_png" skinName="skins.ButtonASkin" verticalCenter="0"/>
+			<e:Image x="455" y="75" source="v2_img_mojitiao_png"/>
+			<e:Image x="466.3" y="81.96" source="v2_fonts_weiguyong_png"/>
+			<e:Label id="name" text="2级精英文官" x="153" y="44.88" size="20" fontFamily="黑体"/>
+			<e:Label id="effect" text="增加基础资源产量 +40%" x="153" y="88.88" size="20" fontFamily="黑体"/>
+			<e:Label id="Item" text="资源加速：银币，木，粮，铁" x="153" y="132.88" size="20" fontFamily="黑体"/>
+		</e:Group>
+		<e:Group width="640" height="50" x="0" y="281.24">
+			<e:Image x="0" y="0" source="v1_img_xiaobiaoti2_png" scale9Grid="93,15,233,19" width="640"/>
+			<e:Label id="title" text="资源产量" x="30" size="20" fontFamily="黑体" verticalCenter="0"/>
+			<components:Button label="分享" x="530" height="40" width="100" verticalCenter="0"/>
+		</e:Group>
+		<e:Group width="640" height="440" x="0" y="331">
+			<e:Group id="silver" width="640" height="110" x="0" y="0" anchorOffsetY="0">
+				<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+				<e:Image width="84" height="84" x="20" y="13" source="i3_png"/>
+				<e:Label text="银币" x="119" y="20" size="20" fontFamily="黑体"/>
+				<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="silverYield" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="silverRise" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+				<components:Button id="btnSilverYeild" label="" x="461.08" bgStr="v2_btn_wj_xiangqing_png" bgGrayStr="v2_btn_wj_xiangqing_png" verticalCenter="0" name="1" skinName="skins.ButtonASkin"/>
+				<components:Button label="" x="546" bgStr="v1_btn_increase_png" bgGrayStr="v1_btn_increase_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+				<e:Image id="line" width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2"/>
+			</e:Group>
+			<e:Group id="wood" width="640" height="110" x="0" y="110" anchorOffsetY="0">
+				<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+				<e:Image width="84" height="84" x="20" y="13" source="i4_png"/>
+				<e:Label text="木材" x="119" y="20" size="20" fontFamily="黑体"/>
+				<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="woodYield" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="woodRise" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+				<components:Button id="btnWoodYeild" label="" x="461.08" bgStr="v2_btn_wj_xiangqing_png" bgGrayStr="v2_btn_wj_xiangqing_png" verticalCenter="0" name="2" skinName="skins.ButtonASkin"/>
+				<components:Button label="" x="546" bgStr="v1_btn_increase_png" bgGrayStr="v1_btn_increase_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+				<e:Image width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2" scaleX="1" scaleY="1"/>
+			</e:Group>
+			<e:Group id="cereal" width="640" height="110" x="0" y="220" anchorOffsetY="0">
+				<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+				<e:Image width="84" height="84" x="20" y="13" source="i2_png"/>
+				<e:Label text="粮食" x="119" y="20" size="20" fontFamily="黑体"/>
+				<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="cerealYield" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="cerealRise" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+				<components:Button id="btnCerealYield" label="" x="461.08" bgStr="v2_btn_wj_xiangqing_png" bgGrayStr="v2_btn_wj_xiangqing_png" verticalCenter="0" name="3" skinName="skins.ButtonASkin"/>
+				<components:Button label="" x="546" bgStr="v1_btn_increase_png" bgGrayStr="v1_btn_increase_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+				<e:Image width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2" scaleX="1" scaleY="1"/>
+			</e:Group>
+			<e:Group id="iron" width="640" height="110" x="0" y="330" anchorOffsetY="0">
+				<e:Image width="84" height="84" x="20" y="13" source="v1_img_touxiangkuanghui_png"/>
+				<e:Image width="84" height="84" x="20" y="13" source="i5_png"/>
+				<e:Label text="铁矿" x="119" y="20" size="20" fontFamily="黑体"/>
+				<e:Label text="小时产量:" x="119" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="ironYield" text="4.18K" x="219.25" y="60" size="20" fontFamily="黑体"/>
+				<e:Label id="ironRise" text="+ 6.07K" x="272.77" y="60" size="20" fontFamily="黑体"/>
+				<components:Button id="btnIronYield" label="" x="461.08" bgStr="v2_btn_wj_xiangqing_png" bgGrayStr="v2_btn_wj_xiangqing_png" verticalCenter="0" name="4" skinName="skins.ButtonASkin"/>
+				<components:Button label="" x="546" bgStr="v1_btn_increase_png" bgGrayStr="v1_btn_increase_png" verticalCenter="0" skinName="skins.ButtonASkin"/>
+				<e:Image width="620" x="10" y="110" source="v1_line_blue1_png" scale9Grid="2,0,16,2" scaleX="1" scaleY="1"/>
+			</e:Group>
+		</e:Group>
+		<e:Group width="640" height="200" x="0" y="821">
+			<e:Image source="v2_img_jinduyanjiudi_png" scale9Grid="143,25,363,23" height="200" locked="true"/>
+			<e:Image x="319.22" y="0" source="v2_line_wujiang_png" height="200"/>
+			<e:Group width="320" height="200" x="0" y="0">
+				<e:Label text="主城保护" y="20" size="22" fontFamily="黑体" horizontalCenter="0"/>
+				<e:Image x="30" y="86.35" source="v1_img_wanjia_hong10_png"/>
+				<e:Label id="gystate_1" text="未雇佣" x="200" y="95" size="20" fontFamily="黑体"/>
+				<components:Button label="开启" x="178" y="126.52" width="100" height="40" bgStr="v1_btn_yellow1_png"/>
+			</e:Group>
+			<e:Group width="320" height="200" x="320" y="0">
+				<e:Label text="建筑队列" y="20" size="22" fontFamily="黑体" horizontalCenter="0"/>
+				<e:Image x="30" y="65" source="v1_btn_jianzhu_png"/>
+				<e:Label id="gystate_0" text="未雇佣" x="200" y="95" size="20" fontFamily="黑体"/>
+				<components:Button label="开启" x="178" y="126.52" width="100" height="40" bgStr="v1_btn_yellow1_png"/>
+			</e:Group>
+		</e:Group>
+	</components:PanelView>
+</e:Skin>

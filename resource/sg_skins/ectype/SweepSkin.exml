@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SweepSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:components="components.*">
+	<components:BgImgClick skinName="BgImgSkin" horizontalCenter="0" width="640" height="100%">
+		<e:Group horizontalCenter="0" verticalCenter="0" x="70" y="331" scaleX="1" scaleY="1">
+			<e:Image source="v2_bg_popup_b_png" width="560" height="130" y="445"/>
+			<e:Image source="v2_bg_popup_a_png" width="560" height="450" scale9Grid="37,49,226,170"/>
+			<components:SwitchTabBar id="switchBar" y="82" selectedIndex="0" itemRendererSkinName="skins.TabBarSkin" width="520" horizontalCenter="0">
+				<e:ArrayCollection>
+					<e:Array>
+						<e:Object name="主力武将" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+						<e:Object name="采集队列" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png" />
+						<e:Object name="城防队列" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+						<e:Object name="自选队列" upStr="v1_btn_biaoqian_png" downStr="v1_btn_selected_biaoqian_png"/>
+					</e:Array>
+				</e:ArrayCollection>
+			</components:SwitchTabBar>
+			<e:ViewStack id="viewStack" width="520" height="250" y="146" selectedIndex="0" scrollEnabled="true" scrollH="0" scrollV="0" horizontalCenter="0">
+				<e:DataGroup id="mainHeroData" width="100%" height="100%"  itemRendererSkinName="QueueHeroSkin">
+					<e:ArrayCollection>
+						<e:Array>
+							<e:Object a="null"/>
+							<e:Object a="null"/>
+							<e:Object a="null"/>
+							<e:Object a="null"/>
+						</e:Array>
+					</e:ArrayCollection>
+					<e:layout>
+						<e:HorizontalLayout gap="28"/>
+					</e:layout>
+				</e:DataGroup>
+				<e:DataGroup id="collectData" width="100%" height="100%"/>
+				<e:DataGroup id="cityData" width="100%" height="100%"/>
+				<e:DataGroup id="optionalData" width="100%" height="100%"/>
+			</e:ViewStack>
+			<e:Group y="10" right="0" width="75" height="48" id="closeGroup">
+				<components:Button id="closeBtn" skinName="skins.ButtonASkin"  bgStr="v1_btn_close_png" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<e:Label text="扫荡队列" top="24" horizontalCenter="0" fontFamily="黑体"/>
+			<components:Button id="startSweep" label="扫荡5次" skinName="skins.ButtonSkin" bgStr="v1_btn_yellow1_png" bottom="18"  horizontalCenter="0"/>
+			<e:Label id="nowPower" text="当前体力：500/9999" fontFamily="黑体" scaleX="1" scaleY="1" size="18" y="466" horizontalCenter="0"/>
+			<e:Label text="可选择扫荡关卡获得经验的武将d队列" fontFamily="黑体" scaleX="1" scaleY="1" size="20" y="410" horizontalCenter="0"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

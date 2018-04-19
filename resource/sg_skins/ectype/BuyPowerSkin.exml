@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuyPowerSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:components="components.*">
+	<components:BgImgClick skinName="BgImgSkin" horizontalCenter="0" width="640" height="100%">
+		<e:Group horizontalCenter="0" verticalCenter="0" x="70" y="331" scaleX="1" scaleY="1">
+			<e:Image source="v2_bg_popup_b_png" width="500" height="130" y="345"/>
+			<e:Image source="v2_bg_popup_a_png" width="500" height="350" scale9Grid="37,31,226,188"/>
+			<e:Group y="10" right="0" width="75" height="48" id="closeGroup">
+				<components:Button id="closeBtn" skinName="skins.ButtonASkin"  bgStr="v1_btn_close_png" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<e:Label text="购买体力" top="24" horizontalCenter="0" fontFamily="黑体"/>
+			<components:Button id="cancel" label="取  消" skinName="skins.ButtonSkin" bgStr="v1_btn_red1_png" left="40" bottom="18"/>
+			<components:Button id="ensure" label="确  定" skinName="skins.ButtonSkin" bgStr="v1_btn_yellow1_png" right="40" bottom="18" />
+			<e:Label id="text" text="主公是否愿意花费黄金购买100体力？\n(今日还可以购买2/7次，升级VIP可增加次数)\n活动赠送剩余次数：3次" y="121" fontFamily="黑体" size="20" lineSpacing="10" textColor="0xC6C7DA" width="440" horizontalCenter="0" textAlign="center"/>
+			<e:Group x="325" y="362">
+			<e:Image source="v1_img_huangjin_png"/>
+			<e:Label id="remainGold" text="500/9999" fontFamily="黑体" scaleX="1" scaleY="1" size="20" verticalCenter="0" left="37"/>
+			</e:Group>
+			<components:HSliderView id="hsilderView" skinName="skins.HSliderViewSkin" y="240.18" horizontalCenter="0" value="3" maximum="5"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.LoginDlgSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:components="components.*" xmlns:ns1="*">
+	<e:Group width="400" height="300" x="0" y="0">
+		<e:Image id="bgImg" width="400" height="300" x="0" y="0" source="v1_bg_tanc_lau_png" scale9Grid="50,37,300,226" scaleX="1" scaleY="1" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Label id="title" text="用户登录" horizontalCenter="10" y="17" size="25" x="215" scaleX="1" scaleY="1"/>
+		<e:Image width="336" height="34" x="33.33" y="80.5" source="v1_bg_kelashen_png" scale9Grid="6,6,32,32"/>
+		<e:Label id="accountLb" text="账号:" x="63.99" y="86" size="25" scaleX="1" scaleY="1"/>
+		<e:TextInput id="accountInput" width="240" height="25" scaleX="1" scaleY="1" skinName="skins.TextInputSkin" horizontalCenter="45" verticalCenter="-52.5"/>
+		<e:Image width="336" height="34" x="33.01" y="145.68" source="v1_bg_kelashen_png" scale9Grid="7,6,30,32"/>
+		<e:Label id="passwordLb" text="密码:" x="63.99" y="150" size="25" scaleX="1" scaleY="1"/>
+		<e:TextInput id="passwordInput" width="240" height="25" x="125" y="150" scaleX="1" scaleY="1"/>
+		<components:Button id="registerBtn" label="注册" x="63.99" y="203" width="80" height="38"/>
+		<components:Button id="loginBtn" label="登陆" x="260" y="203" width="80" height="38"/>
+		<e:Image width="20" height="20" x="39.99" y="89" source="v1_img_ud_png"/>
+		<e:Image width="20" height="20" x="39" y="152.99" source="v1_img_shuxie_png"/>
+		<e:Label text="注意:一键注册得初始密码为账号的后六位" x="59.99" y="269" anchorOffsetX="0" width="298" fontFamily="Microsoft YaHei" size="15" textAlign="center"/>
+	</e:Group>
+</e:Skin>

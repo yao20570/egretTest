@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoleRenameSkin" width="640" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:components="components.*" xmlns:w="http://ns.egret.com/wing">
+	<components:BgImgClick width="100%" height="100%" x="0" y="0" skinName="BgImgSkin">
+		<e:Group horizontalCenter="0" verticalCenter="0" x="70" y="403" scaleX="1" scaleY="1">
+			<e:Image source="v2_bg_popup_b_png" width="500" height="130" y="345"/>
+			<e:Image source="v2_bg_popup_a_png" width="500" height="350" scale9Grid="37,31,226,188"/>
+			<e:Group id="closeGroup" y="10" right="0" width="75" height="48">
+			<components:Button id="closeBtn" skinName="skins.ButtonASkin" bgStr="v1_btn_close_png" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<e:Label id="title" text="改名卡" top="18" horizontalCenter="0" fontFamily="黑体" size="24"/>
+			<components:Button id="_cancel" label="取  消" skinName="skins.ButtonSkin" bgStr="v1_btn_red1_png" left="40" bottom="18"/>
+			<components:Button id="_ensure" label="改  名" skinName="skins.ButtonSkin" bgStr="v1_btn_yellow1_png" right="40" bottom="18"/>
+			<e:Image width="108" height="108" x="16" y="115" source="v1_img_touxiangkuangcheng_png"/>
+			<e:Image width="96" height="96" x="22" y="125" source="i100079_png"/>
+			<e:Label text="改名卡" x="39" y="231" size="20" textColor="0xfeba29"/>
+			<e:Label text="新名字" x="134" y="139" size="20" textColor="0xc6c7da"/>
+			<e:Image width="220" height="40" x="205" y="133" source="v1_img_shurukuang_png" scale9Grid="5,5,30,30"/>
+			<e:TextInput id="newName" width="220" height="40" x="205" y="133" prompt="点击此输入新名称" textColor="0x848484"/>
+			<e:Image id="random" width="71" height="56" x="424" y="125" source="v1_btn_suiji_png"/>
+			<e:Label text="角色名字最多为6个中文字符或12个英字符" x="134" y="203" size="18" textColor="0xc6c7da"/>
+			<e:Label id="noteLabel" text="免费" x="409.5" y="360" size="20"/>
+		</e:Group>
+	</components:BgImgClick>
+</e:Skin>
